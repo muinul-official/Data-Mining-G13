@@ -1,0 +1,1201 @@
+customer_id,chat_log,chat_sentiment_score,chat_length,has_negative_keywords
+CUST000001,I'd like to know about your loyalty program. Thank you.,0.546,55,False
+CUST000002,I'd like to know about your loyalty program. Please help.,0.404,57,False
+CUST000003,This is ridiculous. I'm never shopping here again. I need assistance.,0.055,69,False
+CUST000004,I want a refund immediately. This is the worst experience ever. Thank you.,0.088,74,True
+CUST000005,Great prices and fast shipping. Very satisfied! I need assistance.,0.878,66,False
+CUST000006,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.205,95,True
+CUST000007,Your customer service team is amazing! Please help.,0.991,51,False
+CUST000008,Can you explain your warranty policy? Looking forward to your reply.,0.478,68,False
+CUST000009,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.022,81,False
+CUST000010,Can I change my order before it ships? Looking forward to your reply.,0.401,69,False
+CUST000011,I'm interested in bulk ordering. Thank you.,0.554,43,False
+CUST000012,I'll definitely shop here again. Great job! Thank you.,0.966,54,False
+CUST000013,This is the best online shopping experience I've had. I need assistance.,0.794,72,False
+CUST000014,I'll definitely shop here again. Great job! Thank you.,0.769,54,False
+CUST000015,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.241,81,False
+CUST000016,I want to subscribe to your newsletter. Looking forward to your reply.,0.564,70,False
+CUST000017,My package was damaged and you're refusing to help. Can someone respond?,0.125,72,True
+CUST000018,I'd like to know about your loyalty program. Looking forward to your reply.,0.589,75,False
+CUST000019,I love your service! Keep up the great work. Looking forward to your reply.,0.715,75,False
+CUST000020,The product quality is excellent. Highly recommend! Please help.,0.945,64,False
+CUST000021,I'm so satisfied with my purchase. Thank you! Looking forward to your reply.,0.802,76,False
+CUST000022,I have a question about shipping options. I need assistance.,0.432,60,False
+CUST000023,I paid for express shipping but it's been delayed. Thank you.,0.214,61,False
+CUST000024,I'll definitely shop here again. Great job! Looking forward to your reply.,0.897,74,False
+CUST000025,My package was damaged and you're refusing to help. Please help.,0.08,64,True
+CUST000026,Your customer service is terrible. No one responds to my emails. Thank you.,0.289,75,True
+CUST000027,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.871,88,False
+CUST000028,The packaging was perfect and the product arrived safely. Can someone respond?,0.963,78,False
+CUST000029,Can you explain your warranty policy? Can someone respond?,0.573,58,False
+CUST000030,Can you help me with product recommendations? Can someone respond?,0.54,66,False
+CUST000031,Can you explain your warranty policy? Can someone respond?,0.475,58,False
+CUST000032,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.786,75,False
+CUST000033,I have a question about shipping options. Please help.,0.508,54,False
+CUST000034,I love your service! Keep up the great work. Please help.,0.708,57,False
+CUST000035,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.123,95,True
+CUST000036,Can you tell me more about this product? Looking forward to your reply.,0.591,71,False
+CUST000037,Can I change my order before it ships? Please help.,0.471,51,False
+CUST000038,I love your service! Keep up the great work. Can someone respond?,0.82,65,False
+CUST000039,What payment methods do you accept? Please help.,0.501,48,False
+CUST000040,I'd like to know about your loyalty program. Thank you.,0.405,55,False
+CUST000041,The website is broken and I can't complete my purchase. Can someone respond?,0.137,76,True
+CUST000042,I'd like to know about your loyalty program. I need assistance.,0.592,63,False
+CUST000043,I've called multiple times but no one helps me. Thank you.,0.021,58,False
+CUST000044,The product I received was completely different from what I ordered. I need assistance.,0.085,87,False
+CUST000045,The product quality is excellent. Highly recommend! Thank you.,0.812,62,False
+CUST000046,I've called multiple times but no one helps me. I need assistance.,0.096,66,False
+CUST000047,The product I received was completely different from what I ordered. Thank you.,0.285,79,False
+CUST000048,I'm impressed with your customer service. Can someone respond?,0.902,62,False
+CUST000049,The website is broken and I can't complete my purchase. I need assistance.,0.027,74,True
+CUST000050,This is ridiculous. I'm never shopping here again. Can someone respond?,0.289,71,False
+CUST000051,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.067,76,False
+CUST000052,Can you explain your warranty policy? Looking forward to your reply.,0.493,68,False
+CUST000053,I'll definitely shop here again. Great job! Looking forward to your reply.,0.905,74,False
+CUST000054,I'm impressed with your customer service. Thank you.,0.996,52,False
+CUST000055,I'm impressed with your customer service. Can someone respond?,0.931,62,False
+CUST000056,Your return policy is confusing and unfair. I need assistance.,0.135,62,False
+CUST000057,I need help with my account settings. Please help.,0.504,50,False
+CUST000058,I'm impressed with your customer service. Thank you.,0.818,52,False
+CUST000059,What's the return policy for electronics? Please help.,0.479,54,False
+CUST000060,I'm interested in bulk ordering. Please help.,0.492,45,False
+CUST000061,Your website is easy to use and checkout was smooth. Thank you.,0.723,63,False
+CUST000062,The product I received was completely different from what I ordered. Can someone respond?,0.2,89,False
+CUST000063,Can you tell me more about this product? I need assistance.,0.435,59,False
+CUST000064,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.755,87,False
+CUST000065,I need help with my account settings. Looking forward to your reply.,0.524,68,False
+CUST000066,My package was damaged and you're refusing to help. Please help.,0.194,64,True
+CUST000067,Can I change my order before it ships? Looking forward to your reply.,0.437,69,False
+CUST000068,The customer support chat keeps disconnecting. Can someone respond?,0.034,67,False
+CUST000069,I've called multiple times but no one helps me. Please help.,0.279,60,False
+CUST000070,Your return policy is confusing and unfair. Thank you.,0.152,54,False
+CUST000071,This is ridiculous. I'm never shopping here again. Thank you.,0.046,61,False
+CUST000072,What payment methods do you accept? Looking forward to your reply.,0.413,66,False
+CUST000073,I love the variety of products you offer. I need assistance.,0.805,60,False
+CUST000074,Can you explain your warranty policy? I need assistance.,0.515,56,False
+CUST000075,The product quality is excellent. Highly recommend! Please help.,0.818,64,False
+CUST000076,Great prices and fast shipping. Very satisfied! I need assistance.,0.815,66,False
+CUST000077,What's the return policy for electronics? Thank you.,0.579,52,False
+CUST000078,Can you explain your warranty policy? Please help.,0.431,50,False
+CUST000079,What payment methods do you accept? Thank you.,0.539,46,False
+CUST000080,I'll definitely shop here again. Great job! Can someone respond?,0.873,64,False
+CUST000081,I'd like to know about your loyalty program. Can someone respond?,0.516,65,False
+CUST000082,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.763,77,False
+CUST000083,The product I received was completely different from what I ordered. Can someone respond?,0.169,89,False
+CUST000084,I paid for express shipping but it's been delayed. Looking forward to your reply.,0.12,81,False
+CUST000085,Thank you so much! The product exceeded my expectations. I need assistance.,0.708,75,False
+CUST000086,"Hi, I'd like to check the status of my order. Can someone respond?",0.459,66,False
+CUST000087,The packaging was perfect and the product arrived safely. Thank you.,0.945,68,False
+CUST000088,I'm so satisfied with my purchase. Thank you! I need assistance.,0.788,64,False
+CUST000089,The product I received was completely different from what I ordered. Please help.,0.268,81,False
+CUST000090,The product quality is terrible. I'm very disappointed. I need assistance.,0.19,74,True
+CUST000091,What's the return policy for electronics? I need assistance.,0.597,60,False
+CUST000092,I paid for express shipping but it's been delayed. Thank you.,0.195,61,False
+CUST000093,I'm impressed with your customer service. I need assistance.,0.753,60,False
+CUST000094,The customer support chat keeps disconnecting. Thank you.,0.05,57,False
+CUST000095,Your return policy is confusing and unfair. I need assistance.,0.087,62,False
+CUST000096,I need to update my delivery address. I need assistance.,0.513,56,False
+CUST000097,The delivery was super fast. I'm very happy! Please help.,0.975,57,False
+CUST000098,I've been a customer for years and this is how you treat me? Can someone respond?,0.056,81,False
+CUST000099,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.561,76,False
+CUST000100,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.766,87,False
+CUST000101,The packaging was perfect and the product arrived safely. I need assistance.,0.754,76,False
+CUST000102,I'm impressed with your customer service. Can someone respond?,0.796,62,False
+CUST000103,I'd like to know about your loyalty program. Thank you.,0.446,55,False
+CUST000104,The packaging was perfect and the product arrived safely. I need assistance.,0.862,76,False
+CUST000105,Your customer service team is amazing! Looking forward to your reply.,0.77,69,False
+CUST000106,The packaging was perfect and the product arrived safely. Please help.,0.962,70,False
+CUST000107,I'll definitely shop here again. Great job! Please help.,0.806,56,False
+CUST000108,Great prices and fast shipping. Very satisfied! Can someone respond?,0.983,68,False
+CUST000109,I'm looking for a gift for my friend. I need assistance.,0.598,56,False
+CUST000110,The delivery was super fast. I'm very happy! Thank you.,0.717,55,False
+CUST000111,I'm impressed with your customer service. Looking forward to your reply.,0.945,72,False
+CUST000112,The packaging was perfect and the product arrived safely. Thank you.,0.726,68,False
+CUST000113,The website is broken and I can't complete my purchase. Thank you.,0.217,66,True
+CUST000114,Your return policy is confusing and unfair. Please help.,0.25,56,False
+CUST000115,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.19,76,False
+CUST000116,Thank you so much! The product exceeded my expectations. Please help.,0.928,69,False
+CUST000117,Thank you for resolving my issue so quickly. I need assistance.,0.905,63,False
+CUST000118,Great prices and fast shipping. Very satisfied! Looking forward to your reply.,0.896,78,False
+CUST000119,I'd like to know about your loyalty program. I need assistance.,0.554,63,False
+CUST000120,What's the return policy for electronics? I need assistance.,0.559,60,False
+CUST000121,Can you help me with product recommendations? Thank you.,0.44,56,False
+CUST000122,Can you help me with product recommendations? Can someone respond?,0.52,66,False
+CUST000123,I've called multiple times but no one helps me. Thank you.,0.073,58,False
+CUST000124,My package was damaged and you're refusing to help. Please help.,0.168,64,True
+CUST000125,Can you help me with product recommendations? Thank you.,0.407,56,False
+CUST000126,Can you help me with product recommendations? Thank you.,0.56,56,False
+CUST000127,I'm so satisfied with my purchase. Thank you! Looking forward to your reply.,0.802,76,False
+CUST000128,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.724,75,False
+CUST000129,I've been a customer for years and this is how you treat me? Can someone respond?,0.262,81,False
+CUST000130,I need help with my account settings. Thank you.,0.511,48,False
+CUST000131,Thank you so much! The product exceeded my expectations. Please help.,0.96,69,False
+CUST000132,Can you explain your warranty policy? Can someone respond?,0.497,58,False
+CUST000133,I've been a customer for years and this is how you treat me? Please help.,0.22,73,False
+CUST000134,I love your service! Keep up the great work. Please help.,0.754,57,False
+CUST000135,What are your business hours? Looking forward to your reply.,0.472,60,False
+CUST000136,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.991,77,False
+CUST000137,I've been waiting for my order for 3 weeks! This is unacceptable. I need assistance.,0.129,84,True
+CUST000138,Your website is easy to use and checkout was smooth. Thank you.,0.711,63,False
+CUST000139,The product I received was completely different from what I ordered. Please help.,0.176,81,False
+CUST000140,I appreciate the quick response to my inquiry. Can someone respond?,0.712,67,False
+CUST000141,Why is my order still pending? I placed it 2 weeks ago! Looking forward to your reply.,0.012,86,False
+CUST000142,The product quality is terrible. I'm very disappointed. Please help.,0.147,68,True
+CUST000143,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.26,81,False
+CUST000144,What's the return policy for electronics? Looking forward to your reply.,0.443,72,False
+CUST000145,I'd like to know about your loyalty program. Thank you.,0.574,55,False
+CUST000146,The customer support chat keeps disconnecting. I need assistance.,0.264,65,False
+CUST000147,The packaging was perfect and the product arrived safely. Thank you.,0.771,68,False
+CUST000148,The product quality is terrible. I'm very disappointed. I need assistance.,0.186,74,True
+CUST000149,I've called multiple times but no one helps me. Thank you.,0.156,58,False
+CUST000150,Your customer service is terrible. No one responds to my emails. I need assistance.,0.182,83,True
+CUST000151,The product quality is terrible. I'm very disappointed. Thank you.,0.073,66,True
+CUST000152,I've called multiple times but no one helps me. Looking forward to your reply.,0.241,78,False
+CUST000153,The delivery was super fast. I'm very happy! Looking forward to your reply.,0.934,75,False
+CUST000154,I love the variety of products you offer. Can someone respond?,0.876,62,False
+CUST000155,I'm so satisfied with my purchase. Thank you! I need assistance.,0.77,64,False
+CUST000156,I've been waiting for my order for 3 weeks! This is unacceptable. I need assistance.,0.296,84,True
+CUST000157,I've been waiting for my order for 3 weeks! This is unacceptable. Please help.,0.128,78,True
+CUST000158,The customer support chat keeps disconnecting. Please help.,0.082,59,False
+CUST000159,Can I change my order before it ships? Thank you.,0.576,49,False
+CUST000160,What payment methods do you accept? Looking forward to your reply.,0.467,66,False
+CUST000161,I have a question about shipping options. Can someone respond?,0.435,62,False
+CUST000162,I'm impressed with your customer service. Looking forward to your reply.,0.729,72,False
+CUST000163,My package was damaged and you're refusing to help. Thank you.,0.278,62,True
+CUST000164,I love your service! Keep up the great work. Please help.,0.727,57,False
+CUST000165,I'm extremely frustrated with this service. Looking forward to your reply.,0.235,74,True
+CUST000166,What payment methods do you accept? Can someone respond?,0.418,56,False
+CUST000167,I'm looking for a gift for my friend. Please help.,0.52,50,False
+CUST000168,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.114,66,False
+CUST000169,Your customer service team is amazing! Looking forward to your reply.,0.752,69,False
+CUST000170,I'll definitely shop here again. Great job! Looking forward to your reply.,0.82,74,False
+CUST000171,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.008,68,False
+CUST000172,I'm so satisfied with my purchase. Thank you! Can someone respond?,0.858,66,False
+CUST000173,The product I received was completely different from what I ordered. I need assistance.,0.231,87,False
+CUST000174,The product quality is terrible. I'm very disappointed. Can someone respond?,0.004,76,True
+CUST000175,Your return policy is confusing and unfair. Please help.,0.136,56,False
+CUST000176,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.838,75,False
+CUST000177,This is ridiculous. I'm never shopping here again. Please help.,0.206,63,False
+CUST000178,Great prices and fast shipping. Very satisfied! Can someone respond?,0.898,68,False
+CUST000179,I want a refund immediately. This is the worst experience ever. I need assistance.,0.02,82,True
+CUST000180,I'll definitely shop here again. Great job! Looking forward to your reply.,0.887,74,False
+CUST000181,I have a question about shipping options. Please help.,0.529,54,False
+CUST000182,I love the variety of products you offer. Please help.,0.944,54,False
+CUST000183,I paid for express shipping but it's been delayed. Please help.,0.278,63,False
+CUST000184,I'm so satisfied with my purchase. Thank you! Can someone respond?,0.786,66,False
+CUST000185,I'm impressed with your customer service. Can someone respond?,0.933,62,False
+CUST000186,The website is broken and I can't complete my purchase. Thank you.,0.295,66,True
+CUST000187,Thank you for resolving my issue so quickly. Please help.,0.877,57,False
+CUST000188,Your return policy is confusing and unfair. Thank you.,0.207,54,False
+CUST000189,Can I change my order before it ships? I need assistance.,0.402,57,False
+CUST000190,Your customer service team is amazing! Looking forward to your reply.,0.885,69,False
+CUST000191,I've been a customer for years and this is how you treat me? Can someone respond?,0.228,81,False
+CUST000192,I'm interested in bulk ordering. I need assistance.,0.465,51,False
+CUST000193,Great prices and fast shipping. Very satisfied! Can someone respond?,0.966,68,False
+CUST000194,Can I change my order before it ships? Thank you.,0.539,49,False
+CUST000195,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.238,85,True
+CUST000196,Thank you for resolving my issue so quickly. Can someone respond?,0.832,65,False
+CUST000197,"Hi, I'd like to check the status of my order. Thank you.",0.6,56,False
+CUST000198,The customer support chat keeps disconnecting. Can someone respond?,0.191,67,False
+CUST000199,I'm impressed with your customer service. Can someone respond?,0.79,62,False
+CUST000200,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.831,75,False
+CUST000201,Your website is easy to use and checkout was smooth. Can someone respond?,0.779,73,False
+CUST000202,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.835,75,False
+CUST000203,I'd like to know about your loyalty program. I need assistance.,0.546,63,False
+CUST000204,I've been waiting for my order for 3 weeks! This is unacceptable. Can someone respond?,0.139,86,True
+CUST000205,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.857,87,False
+CUST000206,The product quality is terrible. I'm very disappointed. Can someone respond?,0.163,76,True
+CUST000207,The customer support chat keeps disconnecting. Please help.,0.242,59,False
+CUST000208,I'm extremely frustrated with this service. I need assistance.,0.227,62,True
+CUST000209,I've been a customer for years and this is how you treat me? Please help.,0.295,73,False
+CUST000210,I'd like to know about your loyalty program. Looking forward to your reply.,0.421,75,False
+CUST000211,I'm extremely frustrated with this service. Please help.,0.173,56,True
+CUST000212,I want a refund immediately. This is the worst experience ever. Please help.,0.275,76,True
+CUST000213,The packaging was perfect and the product arrived safely. Please help.,0.946,70,False
+CUST000214,What payment methods do you accept? Thank you.,0.494,46,False
+CUST000215,Thank you for resolving my issue so quickly. I need assistance.,0.743,63,False
+CUST000216,Your customer service team is amazing! Thank you.,0.895,49,False
+CUST000217,I'm interested in bulk ordering. Please help.,0.494,45,False
+CUST000218,The product quality is terrible. I'm very disappointed. I need assistance.,0.203,74,True
+CUST000219,I'm extremely frustrated with this service. Looking forward to your reply.,0.068,74,True
+CUST000220,I'm extremely frustrated with this service. Can someone respond?,0.208,64,True
+CUST000221,Your customer service is terrible. No one responds to my emails. I need assistance.,0.237,83,True
+CUST000222,This is the best online shopping experience I've had. Thank you.,0.838,64,False
+CUST000223,The product quality is excellent. Highly recommend! I need assistance.,0.962,70,False
+CUST000224,The website is broken and I can't complete my purchase. Can someone respond?,0.223,76,True
+CUST000225,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.419,76,False
+CUST000226,I'd like to know about your loyalty program. Can someone respond?,0.463,65,False
+CUST000227,Great prices and fast shipping. Very satisfied! Looking forward to your reply.,0.882,78,False
+CUST000228,Can I change my order before it ships? Can someone respond?,0.447,59,False
+CUST000229,Great prices and fast shipping. Very satisfied! Thank you.,0.89,58,False
+CUST000230,The customer support chat keeps disconnecting. Can someone respond?,0.291,67,False
+CUST000231,I love your service! Keep up the great work. Can someone respond?,0.941,65,False
+CUST000232,Your website is easy to use and checkout was smooth. Looking forward to your reply.,0.852,83,False
+CUST000233,I've called multiple times but no one helps me. I need assistance.,0.298,66,False
+CUST000234,I've been a customer for years and this is how you treat me? Thank you.,0.182,71,False
+CUST000235,Can you tell me more about this product? I need assistance.,0.452,59,False
+CUST000236,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.724,82,False
+CUST000237,The packaging was perfect and the product arrived safely. Thank you.,0.789,68,False
+CUST000238,I have a question about shipping options. Can someone respond?,0.538,62,False
+CUST000239,This is ridiculous. I'm never shopping here again. Thank you.,0.092,61,False
+CUST000240,I want to subscribe to your newsletter. Please help.,0.564,52,False
+CUST000241,Your website is easy to use and checkout was smooth. Please help.,0.912,65,False
+CUST000242,I want a refund immediately. This is the worst experience ever. Please help.,0.046,76,True
+CUST000243,What's the return policy for electronics? Please help.,0.482,54,False
+CUST000244,Your customer service is terrible. No one responds to my emails. I need assistance.,0.109,83,True
+CUST000245,I've been waiting for my order for 3 weeks! This is unacceptable. Looking forward to your reply.,0.152,96,True
+CUST000246,I'd like to know about your loyalty program. Can someone respond?,0.458,65,False
+CUST000247,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.881,88,False
+CUST000248,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.162,66,False
+CUST000249,I'd like to know about your loyalty program. Looking forward to your reply.,0.488,75,False
+CUST000250,The product quality is terrible. I'm very disappointed. Thank you.,0.017,66,True
+CUST000251,What payment methods do you accept? I need assistance.,0.425,54,False
+CUST000252,I'm impressed with your customer service. Please help.,0.786,54,False
+CUST000253,Thank you for resolving my issue so quickly. Please help.,0.79,57,False
+CUST000254,The product I received was completely different from what I ordered. Thank you.,0.063,79,False
+CUST000255,The website is broken and I can't complete my purchase. I need assistance.,0.088,74,True
+CUST000256,The delivery was super fast. I'm very happy! I need assistance.,0.898,63,False
+CUST000257,Can you tell me more about this product? Thank you.,0.418,51,False
+CUST000258,"Hi, I'd like to check the status of my order. Thank you.",0.562,56,False
+CUST000259,I'm interested in bulk ordering. Thank you.,0.561,43,False
+CUST000260,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.068,86,True
+CUST000261,The delivery was super fast. I'm very happy! Please help.,0.737,57,False
+CUST000262,The product quality is excellent. Highly recommend! Please help.,0.773,64,False
+CUST000263,What payment methods do you accept? I need assistance.,0.429,54,False
+CUST000264,The website is broken and I can't complete my purchase. Please help.,0.189,68,True
+CUST000265,Can I change my order before it ships? Please help.,0.568,51,False
+CUST000266,Can you help me with product recommendations? Can someone respond?,0.472,66,False
+CUST000267,The product quality is terrible. I'm very disappointed. Please help.,0.13,68,True
+CUST000268,I appreciate the quick response to my inquiry. Thank you.,0.93,57,False
+CUST000269,The packaging was perfect and the product arrived safely. Please help.,0.842,70,False
+CUST000270,I'm looking for a gift for my friend. Please help.,0.522,50,False
+CUST000271,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.922,82,False
+CUST000272,I'll definitely shop here again. Great job! Looking forward to your reply.,0.967,74,False
+CUST000273,Can you tell me more about this product? Can someone respond?,0.499,61,False
+CUST000274,I love your service! Keep up the great work. Can someone respond?,0.932,65,False
+CUST000275,I need to update my delivery address. I need assistance.,0.425,56,False
+CUST000276,I'd like to know about your loyalty program. Thank you.,0.569,55,False
+CUST000277,I need to update my delivery address. Can someone respond?,0.549,58,False
+CUST000278,Can I change my order before it ships? Can someone respond?,0.562,59,False
+CUST000279,I'm extremely frustrated with this service. Can someone respond?,0.275,64,True
+CUST000280,I paid for express shipping but it's been delayed. I need assistance.,0.044,69,False
+CUST000281,I want to subscribe to your newsletter. Can someone respond?,0.509,60,False
+CUST000282,What are your business hours? Can someone respond?,0.464,50,False
+CUST000283,The product I received was completely different from what I ordered. Thank you.,0.036,79,False
+CUST000284,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.818,88,False
+CUST000285,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.766,87,False
+CUST000286,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.785,82,False
+CUST000287,Your customer service team is amazing! Looking forward to your reply.,0.849,69,False
+CUST000288,"Hi, I'd like to check the status of my order. Thank you.",0.466,56,False
+CUST000289,The customer support chat keeps disconnecting. Looking forward to your reply.,0.245,77,False
+CUST000290,Can you tell me more about this product? I need assistance.,0.561,59,False
+CUST000291,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.913,87,False
+CUST000292,I'm so satisfied with my purchase. Thank you! I need assistance.,0.789,64,False
+CUST000293,Can you explain your warranty policy? Can someone respond?,0.566,58,False
+CUST000294,The delivery was super fast. I'm very happy! Looking forward to your reply.,0.814,75,False
+CUST000295,The customer support chat keeps disconnecting. Looking forward to your reply.,0.115,77,False
+CUST000296,I have a question about shipping options. Looking forward to your reply.,0.41,72,False
+CUST000297,The product I received was completely different from what I ordered. Please help.,0.166,81,False
+CUST000298,"Hi, I'd like to check the status of my order. I need assistance.",0.458,64,False
+CUST000299,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.886,82,False
+CUST000300,Great prices and fast shipping. Very satisfied! I need assistance.,0.906,66,False
+CUST000301,I appreciate the quick response to my inquiry. Thank you.,0.76,57,False
+CUST000302,The delivery was super fast. I'm very happy! I need assistance.,0.921,63,False
+CUST000303,I'm impressed with your customer service. Can someone respond?,0.781,62,False
+CUST000304,Why is my order still pending? I placed it 2 weeks ago! I need assistance.,0.18,74,False
+CUST000305,Can you help me with product recommendations? Please help.,0.541,58,False
+CUST000306,I want a refund immediately. This is the worst experience ever. Looking forward to your reply.,0.284,94,True
+CUST000307,I'm so satisfied with my purchase. Thank you! I need assistance.,0.822,64,False
+CUST000308,I need help with my account settings. Can someone respond?,0.48,58,False
+CUST000309,My package was damaged and you're refusing to help. I need assistance.,0.028,70,True
+CUST000310,What's the return policy for electronics? Please help.,0.528,54,False
+CUST000311,The customer support chat keeps disconnecting. Please help.,0.081,59,False
+CUST000312,I need help with my account settings. Please help.,0.587,50,False
+CUST000313,I want a refund immediately. This is the worst experience ever. Thank you.,0.156,74,True
+CUST000314,Can I change my order before it ships? Please help.,0.579,51,False
+CUST000315,The product I received was completely different from what I ordered. Thank you.,0.09,79,False
+CUST000316,What's the return policy for electronics? I need assistance.,0.432,60,False
+CUST000317,The website is broken and I can't complete my purchase. Can someone respond?,0.033,76,True
+CUST000318,I'm extremely frustrated with this service. Looking forward to your reply.,0.249,74,True
+CUST000319,The product quality is terrible. I'm very disappointed. Please help.,0.058,68,True
+CUST000320,Why is my order still pending? I placed it 2 weeks ago! Looking forward to your reply.,0.258,86,False
+CUST000321,Your return policy is confusing and unfair. I need assistance.,0.069,62,False
+CUST000322,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.725,88,False
+CUST000323,The delivery was super fast. I'm very happy! Can someone respond?,0.856,65,False
+CUST000324,This is the best online shopping experience I've had. Can someone respond?,0.825,74,False
+CUST000325,I need help with my account settings. Please help.,0.5,50,False
+CUST000326,What's the return policy for electronics? Thank you.,0.521,52,False
+CUST000327,Can you tell me more about this product? Please help.,0.484,53,False
+CUST000328,The delivery was super fast. I'm very happy! Looking forward to your reply.,0.889,75,False
+CUST000329,My package was damaged and you're refusing to help. Looking forward to your reply.,0.253,82,True
+CUST000330,The delivery was super fast. I'm very happy! Thank you.,0.72,55,False
+CUST000331,Your website is easy to use and checkout was smooth. I need assistance.,0.812,71,False
+CUST000332,I'd like to know about your loyalty program. Thank you.,0.545,55,False
+CUST000333,Can you tell me more about this product? Looking forward to your reply.,0.561,71,False
+CUST000334,"Hi, I'd like to check the status of my order. Thank you.",0.556,56,False
+CUST000335,I have a question about shipping options. Please help.,0.434,54,False
+CUST000336,I'm so satisfied with my purchase. Thank you! I need assistance.,0.879,64,False
+CUST000337,My package was damaged and you're refusing to help. Please help.,0.142,64,True
+CUST000338,"Hi, I'd like to check the status of my order. Please help.",0.443,58,False
+CUST000339,Your customer service team is amazing! Thank you.,0.939,49,False
+CUST000340,Your customer service is terrible. No one responds to my emails. Please help.,0.282,77,True
+CUST000341,I've called multiple times but no one helps me. Can someone respond?,0.066,68,False
+CUST000342,Can you tell me more about this product? Please help.,0.563,53,False
+CUST000343,I'm extremely frustrated with this service. Can someone respond?,0.009,64,True
+CUST000344,The product quality is excellent. Highly recommend! Can someone respond?,0.712,72,False
+CUST000345,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.775,82,False
+CUST000346,I paid for express shipping but it's been delayed. Thank you.,0.257,61,False
+CUST000347,I want to subscribe to your newsletter. I need assistance.,0.491,58,False
+CUST000348,Thank you so much! The product exceeded my expectations. Can someone respond?,0.891,77,False
+CUST000349,The delivery was super fast. I'm very happy! Can someone respond?,0.706,65,False
+CUST000350,I've called multiple times but no one helps me. Looking forward to your reply.,0.251,78,False
+CUST000351,Your customer service team is amazing! Thank you.,0.783,49,False
+CUST000352,Can you explain your warranty policy? Thank you.,0.406,48,False
+CUST000353,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.086,68,False
+CUST000354,I'd like to know about your loyalty program. Can someone respond?,0.569,65,False
+CUST000355,The product I received was completely different from what I ordered. Can someone respond?,0.293,89,False
+CUST000356,I've been waiting for my order for 3 weeks! This is unacceptable. Looking forward to your reply.,0.081,96,True
+CUST000357,I love the variety of products you offer. Looking forward to your reply.,0.777,72,False
+CUST000358,I'm so satisfied with my purchase. Thank you! Looking forward to your reply.,0.959,76,False
+CUST000359,Your customer service team is amazing! Thank you.,0.952,49,False
+CUST000360,My package was damaged and you're refusing to help. Looking forward to your reply.,0.059,82,True
+CUST000361,My package was damaged and you're refusing to help. Please help.,0.145,64,True
+CUST000362,I've called multiple times but no one helps me. Looking forward to your reply.,0.038,78,False
+CUST000363,The delivery was super fast. I'm very happy! Can someone respond?,0.81,65,False
+CUST000364,The product quality is excellent. Highly recommend! Please help.,0.765,64,False
+CUST000365,I love your service! Keep up the great work. Thank you.,0.771,55,False
+CUST000366,I appreciate the quick response to my inquiry. Thank you.,0.879,57,False
+CUST000367,I paid for express shipping but it's been delayed. Please help.,0.248,63,False
+CUST000368,Great prices and fast shipping. Very satisfied! I need assistance.,0.715,66,False
+CUST000369,Can you tell me more about this product? Can someone respond?,0.405,61,False
+CUST000370,I'll definitely shop here again. Great job! Please help.,0.984,56,False
+CUST000371,What are your business hours? Can someone respond?,0.598,50,False
+CUST000372,What payment methods do you accept? Can someone respond?,0.587,56,False
+CUST000373,"Hi, I'd like to check the status of my order. Please help.",0.412,58,False
+CUST000374,The product quality is terrible. I'm very disappointed. Please help.,0.074,68,True
+CUST000375,I'm looking for a gift for my friend. Please help.,0.581,50,False
+CUST000376,I've been waiting for my order for 3 weeks! This is unacceptable. Thank you.,0.121,76,True
+CUST000377,I want a refund immediately. This is the worst experience ever. Can someone respond?,0.129,84,True
+CUST000378,What payment methods do you accept? Please help.,0.499,48,False
+CUST000379,I'll definitely shop here again. Great job! I need assistance.,0.789,62,False
+CUST000380,Can you explain your warranty policy? Please help.,0.451,50,False
+CUST000381,Can you help me with product recommendations? Thank you.,0.561,56,False
+CUST000382,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.252,91,False
+CUST000383,The product I received was completely different from what I ordered. Thank you.,0.28,79,False
+CUST000384,This is ridiculous. I'm never shopping here again. Can someone respond?,0.143,71,False
+CUST000385,I'm looking for a gift for my friend. I need assistance.,0.594,56,False
+CUST000386,Great prices and fast shipping. Very satisfied! I need assistance.,0.806,66,False
+CUST000387,Can you tell me more about this product? Looking forward to your reply.,0.475,71,False
+CUST000388,I love the variety of products you offer. Looking forward to your reply.,0.819,72,False
+CUST000389,My package was damaged and you're refusing to help. Looking forward to your reply.,0.151,82,True
+CUST000390,Can you explain your warranty policy? Can someone respond?,0.55,58,False
+CUST000391,I have a question about shipping options. Please help.,0.486,54,False
+CUST000392,Why is my order still pending? I placed it 2 weeks ago! I need assistance.,0.154,74,False
+CUST000393,I'm interested in bulk ordering. Thank you.,0.417,43,False
+CUST000394,This is the best online shopping experience I've had. Can someone respond?,0.812,74,False
+CUST000395,Thank you so much! The product exceeded my expectations. Can someone respond?,0.801,77,False
+CUST000396,I've been waiting for my order for 3 weeks! This is unacceptable. Looking forward to your reply.,0.045,96,True
+CUST000397,I've called multiple times but no one helps me. I need assistance.,0.204,66,False
+CUST000398,"Hi, I'd like to check the status of my order. Please help.",0.482,58,False
+CUST000399,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.724,77,False
+CUST000400,Why is my order still pending? I placed it 2 weeks ago! I need assistance.,0.26,74,False
+CUST000401,What are your business hours? I need assistance.,0.466,48,False
+CUST000402,I love the variety of products you offer. Please help.,0.934,54,False
+CUST000403,I've called multiple times but no one helps me. Thank you.,0.23,58,False
+CUST000404,I need help with my account settings. Can someone respond?,0.519,58,False
+CUST000405,The packaging was perfect and the product arrived safely. I need assistance.,0.931,76,False
+CUST000406,I want to subscribe to your newsletter. I need assistance.,0.525,58,False
+CUST000407,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.255,76,False
+CUST000408,I've been a customer for years and this is how you treat me? Please help.,0.144,73,False
+CUST000409,I have a question about shipping options. Looking forward to your reply.,0.459,72,False
+CUST000410,I've called multiple times but no one helps me. Thank you.,0.169,58,False
+CUST000411,The product I received was completely different from what I ordered. Looking forward to your reply.,0.043,99,False
+CUST000412,I love the variety of products you offer. Looking forward to your reply.,0.735,72,False
+CUST000413,Your website is easy to use and checkout was smooth. Can someone respond?,0.987,73,False
+CUST000414,I love your service! Keep up the great work. Looking forward to your reply.,0.708,75,False
+CUST000415,I want to subscribe to your newsletter. Looking forward to your reply.,0.57,70,False
+CUST000416,What's the return policy for electronics? Can someone respond?,0.528,62,False
+CUST000417,I want a refund immediately. This is the worst experience ever. Can someone respond?,0.092,84,True
+CUST000418,Can you help me with product recommendations? Looking forward to your reply.,0.473,76,False
+CUST000419,I love the variety of products you offer. Please help.,0.927,54,False
+CUST000420,The customer support chat keeps disconnecting. Looking forward to your reply.,0.075,77,False
+CUST000421,Your customer service team is amazing! I need assistance.,0.802,57,False
+CUST000422,I want a refund immediately. This is the worst experience ever. Thank you.,0.299,74,True
+CUST000423,Thank you for resolving my issue so quickly. Please help.,0.745,57,False
+CUST000424,I'd like to know about your loyalty program. Thank you.,0.48,55,False
+CUST000425,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.442,76,False
+CUST000426,I need help with my account settings. Can someone respond?,0.469,58,False
+CUST000427,I want a refund immediately. This is the worst experience ever. I need assistance.,0.119,82,True
+CUST000428,I'll definitely shop here again. Great job! I need assistance.,0.724,62,False
+CUST000429,I paid for express shipping but it's been delayed. Thank you.,0.249,61,False
+CUST000430,I want to subscribe to your newsletter. Please help.,0.425,52,False
+CUST000431,Can you help me with product recommendations? Looking forward to your reply.,0.516,76,False
+CUST000432,I want a refund immediately. This is the worst experience ever. I need assistance.,0.243,82,True
+CUST000433,I need help with my account settings. I need assistance.,0.477,56,False
+CUST000434,I'm looking for a gift for my friend. Please help.,0.565,50,False
+CUST000435,I need help with my account settings. I need assistance.,0.483,56,False
+CUST000436,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.768,75,False
+CUST000437,I have a question about shipping options. Thank you.,0.502,52,False
+CUST000438,I'd like to know about your loyalty program. I need assistance.,0.412,63,False
+CUST000439,The website is broken and I can't complete my purchase. Can someone respond?,0.051,76,True
+CUST000440,The website is broken and I can't complete my purchase. Thank you.,0.074,66,True
+CUST000441,The product quality is terrible. I'm very disappointed. I need assistance.,0.123,74,True
+CUST000442,What are your business hours? Thank you.,0.463,40,False
+CUST000443,I've been a customer for years and this is how you treat me? Please help.,0.203,73,False
+CUST000444,The customer support chat keeps disconnecting. I need assistance.,0.022,65,False
+CUST000445,I love the variety of products you offer. Looking forward to your reply.,0.8,72,False
+CUST000446,This is the best online shopping experience I've had. Please help.,0.96,66,False
+CUST000447,Your website is easy to use and checkout was smooth. Can someone respond?,0.763,73,False
+CUST000448,I appreciate the quick response to my inquiry. Please help.,0.87,59,False
+CUST000449,This is the best online shopping experience I've had. Thank you.,0.92,64,False
+CUST000450,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.027,66,False
+CUST000451,The packaging was perfect and the product arrived safely. Thank you.,0.943,68,False
+CUST000452,I'd like to know about your loyalty program. Can someone respond?,0.514,65,False
+CUST000453,I need to update my delivery address. Thank you.,0.449,48,False
+CUST000454,I love your service! Keep up the great work. Thank you.,0.764,55,False
+CUST000455,I want a refund immediately. This is the worst experience ever. Looking forward to your reply.,0.28,94,True
+CUST000456,I'm so satisfied with my purchase. Thank you! Can someone respond?,0.741,66,False
+CUST000457,I paid for express shipping but it's been delayed. Please help.,0.072,63,False
+CUST000458,Your customer service is terrible. No one responds to my emails. Thank you.,0.123,75,True
+CUST000459,I've been a customer for years and this is how you treat me? Please help.,0.202,73,False
+CUST000460,Thank you so much! The product exceeded my expectations. Please help.,0.828,69,False
+CUST000461,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.122,91,False
+CUST000462,I've called multiple times but no one helps me. Please help.,0.273,60,False
+CUST000463,I love your service! Keep up the great work. Can someone respond?,0.846,65,False
+CUST000464,The website is broken and I can't complete my purchase. Please help.,0.257,68,True
+CUST000465,I'm extremely frustrated with this service. Please help.,0.099,56,True
+CUST000466,I want to subscribe to your newsletter. Can someone respond?,0.56,60,False
+CUST000467,I love the variety of products you offer. Can someone respond?,0.984,62,False
+CUST000468,What payment methods do you accept? Can someone respond?,0.495,56,False
+CUST000469,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.138,76,False
+CUST000470,I'm interested in bulk ordering. Can someone respond?,0.545,53,False
+CUST000471,The website is broken and I can't complete my purchase. Looking forward to your reply.,0.081,86,True
+CUST000472,Can I change my order before it ships? I need assistance.,0.488,57,False
+CUST000473,I'll definitely shop here again. Great job! Thank you.,0.736,54,False
+CUST000474,What's the return policy for electronics? Looking forward to your reply.,0.475,72,False
+CUST000475,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.203,95,True
+CUST000476,I'm interested in bulk ordering. Please help.,0.551,45,False
+CUST000477,I'm extremely frustrated with this service. Please help.,0.257,56,True
+CUST000478,I need to update my delivery address. Please help.,0.483,50,False
+CUST000479,I'm interested in bulk ordering. Looking forward to your reply.,0.421,63,False
+CUST000480,I've called multiple times but no one helps me. Looking forward to your reply.,0.089,78,False
+CUST000481,I'm extremely frustrated with this service. I need assistance.,0.037,62,True
+CUST000482,Can you explain your warranty policy? Can someone respond?,0.538,58,False
+CUST000483,The product quality is terrible. I'm very disappointed. Please help.,0.164,68,True
+CUST000484,I'm looking for a gift for my friend. Please help.,0.596,50,False
+CUST000485,Thank you for resolving my issue so quickly. I need assistance.,0.888,63,False
+CUST000486,I love your service! Keep up the great work. Please help.,0.708,57,False
+CUST000487,Great prices and fast shipping. Very satisfied! Thank you.,0.978,58,False
+CUST000488,Can you help me with product recommendations? Can someone respond?,0.433,66,False
+CUST000489,I paid for express shipping but it's been delayed. Looking forward to your reply.,0.228,81,False
+CUST000490,I want to subscribe to your newsletter. Can someone respond?,0.549,60,False
+CUST000491,This is ridiculous. I'm never shopping here again. Please help.,0.288,63,False
+CUST000492,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.229,85,True
+CUST000493,I appreciate the quick response to my inquiry. I need assistance.,0.819,65,False
+CUST000494,The delivery was super fast. I'm very happy! Can someone respond?,0.807,65,False
+CUST000495,My package was damaged and you're refusing to help. Thank you.,0.088,62,True
+CUST000496,I'm looking for a gift for my friend. Thank you.,0.495,48,False
+CUST000497,I love your service! Keep up the great work. Please help.,0.865,57,False
+CUST000498,What's the return policy for electronics? Please help.,0.414,54,False
+CUST000499,I want to subscribe to your newsletter. I need assistance.,0.436,58,False
+CUST000500,I'm extremely frustrated with this service. I need assistance.,0.161,62,True
+CUST000501,I need help with my account settings. Can someone respond?,0.591,58,False
+CUST000502,I appreciate the quick response to my inquiry. I need assistance.,0.885,65,False
+CUST000503,I paid for express shipping but it's been delayed. Can someone respond?,0.229,71,False
+CUST000504,I've been waiting for my order for 3 weeks! This is unacceptable. Looking forward to your reply.,0.1,96,True
+CUST000505,The website is broken and I can't complete my purchase. Looking forward to your reply.,0.056,86,True
+CUST000506,What payment methods do you accept? I need assistance.,0.584,54,False
+CUST000507,I'd like to know about your loyalty program. I need assistance.,0.497,63,False
+CUST000508,I've been waiting for my order for 3 weeks! This is unacceptable. Looking forward to your reply.,0.145,96,True
+CUST000509,The packaging was perfect and the product arrived safely. Please help.,0.827,70,False
+CUST000510,My package was damaged and you're refusing to help. Looking forward to your reply.,0.171,82,True
+CUST000511,What payment methods do you accept? Looking forward to your reply.,0.457,66,False
+CUST000512,I appreciate the quick response to my inquiry. I need assistance.,0.864,65,False
+CUST000513,The product quality is excellent. Highly recommend! Thank you.,0.905,62,False
+CUST000514,I've been waiting for my order for 3 weeks! This is unacceptable. Thank you.,0.195,76,True
+CUST000515,I'd like to know about your loyalty program. I need assistance.,0.582,63,False
+CUST000516,Can you tell me more about this product? Please help.,0.43,53,False
+CUST000517,Your customer service is terrible. No one responds to my emails. Thank you.,0.128,75,True
+CUST000518,Your website is easy to use and checkout was smooth. Can someone respond?,0.8,73,False
+CUST000519,What payment methods do you accept? Thank you.,0.548,46,False
+CUST000520,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.961,77,False
+CUST000521,The product I received was completely different from what I ordered. Thank you.,0.118,79,False
+CUST000522,What payment methods do you accept? Can someone respond?,0.43,56,False
+CUST000523,I'm impressed with your customer service. Looking forward to your reply.,0.908,72,False
+CUST000524,This is the best online shopping experience I've had. I need assistance.,0.915,72,False
+CUST000525,Thank you for resolving my issue so quickly. Thank you.,0.816,55,False
+CUST000526,The product quality is excellent. Highly recommend! Thank you.,0.761,62,False
+CUST000527,I'm impressed with your customer service. Thank you.,0.787,52,False
+CUST000528,Your customer service team is amazing! Can someone respond?,0.75,59,False
+CUST000529,I'll definitely shop here again. Great job! Please help.,0.785,56,False
+CUST000530,Thank you for resolving my issue so quickly. Can someone respond?,0.935,65,False
+CUST000531,The packaging was perfect and the product arrived safely. I need assistance.,0.966,76,False
+CUST000532,This is ridiculous. I'm never shopping here again. Please help.,0.278,63,False
+CUST000533,Can you help me with product recommendations? Looking forward to your reply.,0.452,76,False
+CUST000534,I'm interested in bulk ordering. I need assistance.,0.547,51,False
+CUST000535,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.16,76,False
+CUST000536,Your customer service is terrible. No one responds to my emails. Thank you.,0.181,75,True
+CUST000537,I need help with my account settings. I need assistance.,0.522,56,False
+CUST000538,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.13,76,False
+CUST000539,This is the best online shopping experience I've had. Please help.,0.834,66,False
+CUST000540,Can you explain your warranty policy? Can someone respond?,0.574,58,False
+CUST000541,My package was damaged and you're refusing to help. Thank you.,0.028,62,True
+CUST000542,Your return policy is confusing and unfair. Looking forward to your reply.,0.29,74,False
+CUST000543,I want a refund immediately. This is the worst experience ever. Please help.,0.106,76,True
+CUST000544,I need to update my delivery address. Can someone respond?,0.427,58,False
+CUST000545,The product I received was completely different from what I ordered. Looking forward to your reply.,0.087,99,False
+CUST000546,I want to subscribe to your newsletter. Looking forward to your reply.,0.453,70,False
+CUST000547,Thank you for resolving my issue so quickly. Please help.,0.718,57,False
+CUST000548,The website is broken and I can't complete my purchase. Can someone respond?,0.243,76,True
+CUST000549,The packaging was perfect and the product arrived safely. Please help.,0.747,70,False
+CUST000550,I've been a customer for years and this is how you treat me? Please help.,0.171,73,False
+CUST000551,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.447,76,False
+CUST000552,Can you help me with product recommendations? Thank you.,0.452,56,False
+CUST000553,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.242,66,False
+CUST000554,I've been a customer for years and this is how you treat me? I need assistance.,0.25,79,False
+CUST000555,I'm impressed with your customer service. Looking forward to your reply.,0.892,72,False
+CUST000556,The customer support chat keeps disconnecting. Please help.,0.164,59,False
+CUST000557,I love your service! Keep up the great work. Looking forward to your reply.,0.96,75,False
+CUST000558,I want a refund immediately. This is the worst experience ever. Looking forward to your reply.,0.078,94,True
+CUST000559,My package was damaged and you're refusing to help. Looking forward to your reply.,0.25,82,True
+CUST000560,I'm extremely frustrated with this service. Can someone respond?,0.102,64,True
+CUST000561,Thank you so much! The product exceeded my expectations. Can someone respond?,0.738,77,False
+CUST000562,My package was damaged and you're refusing to help. I need assistance.,0.005,70,True
+CUST000563,I love your service! Keep up the great work. Can someone respond?,0.974,65,False
+CUST000564,I've been waiting for my order for 3 weeks! This is unacceptable. Looking forward to your reply.,0.15,96,True
+CUST000565,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.226,86,True
+CUST000566,I'll definitely shop here again. Great job! I need assistance.,0.995,62,False
+CUST000567,The product I received was completely different from what I ordered. Can someone respond?,0.275,89,False
+CUST000568,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.203,76,False
+CUST000569,The product quality is terrible. I'm very disappointed. Can someone respond?,0.028,76,True
+CUST000570,I'm looking for a gift for my friend. Please help.,0.535,50,False
+CUST000571,The customer support chat keeps disconnecting. Thank you.,0.267,57,False
+CUST000572,What payment methods do you accept? Can someone respond?,0.535,56,False
+CUST000573,I paid for express shipping but it's been delayed. Thank you.,0.273,61,False
+CUST000574,I've been waiting for my order for 3 weeks! This is unacceptable. Please help.,0.131,78,True
+CUST000575,This is ridiculous. I'm never shopping here again. Thank you.,0.076,61,False
+CUST000576,I'm impressed with your customer service. Looking forward to your reply.,0.777,72,False
+CUST000577,The product I received was completely different from what I ordered. Can someone respond?,0.188,89,False
+CUST000578,I love the variety of products you offer. Thank you.,0.879,52,False
+CUST000579,The product I received was completely different from what I ordered. Thank you.,0.29,79,False
+CUST000580,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.113,91,False
+CUST000581,I love your service! Keep up the great work. Can someone respond?,0.953,65,False
+CUST000582,The delivery was super fast. I'm very happy! I need assistance.,0.945,63,False
+CUST000583,I'm impressed with your customer service. Can someone respond?,0.728,62,False
+CUST000584,"Hi, I'd like to check the status of my order. Please help.",0.464,58,False
+CUST000585,The packaging was perfect and the product arrived safely. Can someone respond?,0.837,78,False
+CUST000586,I'd like to know about your loyalty program. Looking forward to your reply.,0.546,75,False
+CUST000587,Can you tell me more about this product? Can someone respond?,0.442,61,False
+CUST000588,I need help with my account settings. Thank you.,0.573,48,False
+CUST000589,The product quality is terrible. I'm very disappointed. I need assistance.,0.061,74,True
+CUST000590,I'm impressed with your customer service. Please help.,0.73,54,False
+CUST000591,I need help with my account settings. Looking forward to your reply.,0.503,68,False
+CUST000592,I'll definitely shop here again. Great job! I need assistance.,0.933,62,False
+CUST000593,The customer support chat keeps disconnecting. Please help.,0.074,59,False
+CUST000594,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.823,87,False
+CUST000595,Thank you for resolving my issue so quickly. Please help.,0.713,57,False
+CUST000596,This is ridiculous. I'm never shopping here again. Please help.,0.231,63,False
+CUST000597,My package was damaged and you're refusing to help. Thank you.,0.122,62,True
+CUST000598,Your website is easy to use and checkout was smooth. Thank you.,0.787,63,False
+CUST000599,Can you tell me more about this product? I need assistance.,0.501,59,False
+CUST000600,Your return policy is confusing and unfair. Looking forward to your reply.,0.194,74,False
+CUST000601,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.047,86,True
+CUST000602,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.188,85,True
+CUST000603,Your customer service team is amazing! Please help.,0.957,51,False
+CUST000604,I love your service! Keep up the great work. Looking forward to your reply.,0.914,75,False
+CUST000605,The website is broken and I can't complete my purchase. Looking forward to your reply.,0.21,86,True
+CUST000606,Your return policy is confusing and unfair. Looking forward to your reply.,0.134,74,False
+CUST000607,I'm impressed with your customer service. Please help.,0.761,54,False
+CUST000608,I'm so satisfied with my purchase. Thank you! Please help.,0.796,58,False
+CUST000609,My package was damaged and you're refusing to help. Please help.,0.045,64,True
+CUST000610,This is ridiculous. I'm never shopping here again. Please help.,0.162,63,False
+CUST000611,Can you help me with product recommendations? I need assistance.,0.493,64,False
+CUST000612,Thank you so much! The product exceeded my expectations. Can someone respond?,0.888,77,False
+CUST000613,I love the variety of products you offer. Can someone respond?,0.715,62,False
+CUST000614,Can you explain your warranty policy? Thank you.,0.45,48,False
+CUST000615,This is ridiculous. I'm never shopping here again. Thank you.,0.017,61,False
+CUST000616,I'm impressed with your customer service. I need assistance.,0.759,60,False
+CUST000617,Thank you for resolving my issue so quickly. Thank you.,0.82,55,False
+CUST000618,I'd like to know about your loyalty program. I need assistance.,0.431,63,False
+CUST000619,I want to subscribe to your newsletter. Can someone respond?,0.511,60,False
+CUST000620,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.193,85,True
+CUST000621,I've called multiple times but no one helps me. Looking forward to your reply.,0.227,78,False
+CUST000622,The customer support chat keeps disconnecting. Thank you.,0.139,57,False
+CUST000623,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.567,76,False
+CUST000624,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.177,86,True
+CUST000625,Can you tell me more about this product? Please help.,0.552,53,False
+CUST000626,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.26,68,False
+CUST000627,What's the return policy for electronics? Please help.,0.59,54,False
+CUST000628,I want to subscribe to your newsletter. Can someone respond?,0.497,60,False
+CUST000629,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.109,86,True
+CUST000630,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.083,95,True
+CUST000631,Can you tell me more about this product? Please help.,0.416,53,False
+CUST000632,"Hi, I'd like to check the status of my order. I need assistance.",0.408,64,False
+CUST000633,I'm so satisfied with my purchase. Thank you! Can someone respond?,0.895,66,False
+CUST000634,I appreciate the quick response to my inquiry. Thank you.,0.702,57,False
+CUST000635,This is ridiculous. I'm never shopping here again. Thank you.,0.284,61,False
+CUST000636,Great prices and fast shipping. Very satisfied! Thank you.,0.837,58,False
+CUST000637,I appreciate the quick response to my inquiry. Can someone respond?,0.981,67,False
+CUST000638,I'll definitely shop here again. Great job! I need assistance.,0.726,62,False
+CUST000639,This is the best online shopping experience I've had. I need assistance.,0.832,72,False
+CUST000640,Why is my order still pending? I placed it 2 weeks ago! Looking forward to your reply.,0.154,86,False
+CUST000641,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.257,86,True
+CUST000642,The product I received was completely different from what I ordered. Please help.,0.116,81,False
+CUST000643,What's the return policy for electronics? Please help.,0.412,54,False
+CUST000644,The product quality is terrible. I'm very disappointed. Please help.,0.216,68,True
+CUST000645,The delivery was super fast. I'm very happy! Thank you.,0.781,55,False
+CUST000646,I appreciate the quick response to my inquiry. Please help.,0.972,59,False
+CUST000647,I want to subscribe to your newsletter. I need assistance.,0.453,58,False
+CUST000648,The delivery was super fast. I'm very happy! I need assistance.,0.855,63,False
+CUST000649,I'd like to know about your loyalty program. Thank you.,0.518,55,False
+CUST000650,I want to subscribe to your newsletter. Can someone respond?,0.521,60,False
+CUST000651,What payment methods do you accept? Please help.,0.444,48,False
+CUST000652,Can you help me with product recommendations? I need assistance.,0.502,64,False
+CUST000653,I'm extremely frustrated with this service. Can someone respond?,0.294,64,True
+CUST000654,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.238,85,True
+CUST000655,The product I received was completely different from what I ordered. Please help.,0.166,81,False
+CUST000656,This is ridiculous. I'm never shopping here again. Please help.,0.201,63,False
+CUST000657,Can you help me with product recommendations? Can someone respond?,0.438,66,False
+CUST000658,I'm impressed with your customer service. Please help.,0.81,54,False
+CUST000659,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.512,76,False
+CUST000660,What's the return policy for electronics? I need assistance.,0.584,60,False
+CUST000661,The delivery was super fast. I'm very happy! Looking forward to your reply.,0.735,75,False
+CUST000662,I'm looking for a gift for my friend. Please help.,0.473,50,False
+CUST000663,I paid for express shipping but it's been delayed. Please help.,0.261,63,False
+CUST000664,I need help with my account settings. Looking forward to your reply.,0.5,68,False
+CUST000665,I'm impressed with your customer service. Looking forward to your reply.,0.846,72,False
+CUST000666,What payment methods do you accept? Please help.,0.511,48,False
+CUST000667,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.2,95,True
+CUST000668,Thank you for resolving my issue so quickly. Thank you.,0.927,55,False
+CUST000669,Thank you so much! The product exceeded my expectations. I need assistance.,0.727,75,False
+CUST000670,I want a refund immediately. This is the worst experience ever. Can someone respond?,0.04,84,True
+CUST000671,Your customer service team is amazing! Thank you.,0.968,49,False
+CUST000672,I want a refund immediately. This is the worst experience ever. Looking forward to your reply.,0.171,94,True
+CUST000673,I need to update my delivery address. Looking forward to your reply.,0.42,68,False
+CUST000674,Can I change my order before it ships? I need assistance.,0.418,57,False
+CUST000675,"Hi, I'd like to check the status of my order. I need assistance.",0.519,64,False
+CUST000676,The website is broken and I can't complete my purchase. Please help.,0.288,68,True
+CUST000677,I'm extremely frustrated with this service. Looking forward to your reply.,0.28,74,True
+CUST000678,The delivery was super fast. I'm very happy! Thank you.,0.997,55,False
+CUST000679,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.282,68,False
+CUST000680,The delivery was super fast. I'm very happy! Can someone respond?,0.988,65,False
+CUST000681,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.13,81,False
+CUST000682,The product quality is excellent. Highly recommend! Please help.,0.845,64,False
+CUST000683,I'll definitely shop here again. Great job! Looking forward to your reply.,0.88,74,False
+CUST000684,What's the return policy for electronics? Please help.,0.404,54,False
+CUST000685,Can you tell me more about this product? Please help.,0.582,53,False
+CUST000686,Can you help me with product recommendations? Can someone respond?,0.501,66,False
+CUST000687,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.257,86,True
+CUST000688,I want to subscribe to your newsletter. Can someone respond?,0.554,60,False
+CUST000689,Your return policy is confusing and unfair. Thank you.,0.283,54,False
+CUST000690,"Hi, I'd like to check the status of my order. Can someone respond?",0.586,66,False
+CUST000691,Your customer service is terrible. No one responds to my emails. I need assistance.,0.079,83,True
+CUST000692,I've called multiple times but no one helps me. I need assistance.,0.255,66,False
+CUST000693,This is the best online shopping experience I've had. Looking forward to your reply.,0.885,84,False
+CUST000694,The delivery was super fast. I'm very happy! Can someone respond?,0.828,65,False
+CUST000695,I have a question about shipping options. Looking forward to your reply.,0.562,72,False
+CUST000696,I've been a customer for years and this is how you treat me? Please help.,0.041,73,False
+CUST000697,Your customer service team is amazing! I need assistance.,0.946,57,False
+CUST000698,The website is broken and I can't complete my purchase. Thank you.,0.211,66,True
+CUST000699,I love your service! Keep up the great work. Please help.,0.953,57,False
+CUST000700,Thank you so much! The product exceeded my expectations. I need assistance.,0.747,75,False
+CUST000701,I want to subscribe to your newsletter. Looking forward to your reply.,0.469,70,False
+CUST000702,Your return policy is confusing and unfair. I need assistance.,0.16,62,False
+CUST000703,What's the return policy for electronics? Can someone respond?,0.508,62,False
+CUST000704,Great prices and fast shipping. Very satisfied! I need assistance.,0.851,66,False
+CUST000705,Your website is easy to use and checkout was smooth. I need assistance.,0.894,71,False
+CUST000706,Your customer service team is amazing! I need assistance.,0.807,57,False
+CUST000707,I'd like to know about your loyalty program. I need assistance.,0.452,63,False
+CUST000708,Your return policy is confusing and unfair. Please help.,0.122,56,False
+CUST000709,Your customer service team is amazing! I need assistance.,0.797,57,False
+CUST000710,The delivery was super fast. I'm very happy! Looking forward to your reply.,0.846,75,False
+CUST000711,The customer support chat keeps disconnecting. Thank you.,0.258,57,False
+CUST000712,Can you help me with product recommendations? Please help.,0.476,58,False
+CUST000713,This is ridiculous. I'm never shopping here again. Can someone respond?,0.068,71,False
+CUST000714,Thank you for resolving my issue so quickly. I need assistance.,0.868,63,False
+CUST000715,Can you help me with product recommendations? Please help.,0.586,58,False
+CUST000716,Your return policy is confusing and unfair. Looking forward to your reply.,0.137,74,False
+CUST000717,I love your service! Keep up the great work. I need assistance.,0.969,63,False
+CUST000718,I'm extremely frustrated with this service. Thank you.,0.199,54,True
+CUST000719,"Hi, I'd like to check the status of my order. Thank you.",0.433,56,False
+CUST000720,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.464,76,False
+CUST000721,Can you help me with product recommendations? I need assistance.,0.528,64,False
+CUST000722,I'm interested in bulk ordering. Please help.,0.46,45,False
+CUST000723,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.042,68,False
+CUST000724,The website is broken and I can't complete my purchase. I need assistance.,0.032,74,True
+CUST000725,The product I received was completely different from what I ordered. Please help.,0.109,81,False
+CUST000726,Thank you for resolving my issue so quickly. Please help.,0.782,57,False
+CUST000727,Your return policy is confusing and unfair. Looking forward to your reply.,0.02,74,False
+CUST000728,The product quality is terrible. I'm very disappointed. Please help.,0.02,68,True
+CUST000729,I paid for express shipping but it's been delayed. Can someone respond?,0.106,71,False
+CUST000730,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.908,87,False
+CUST000731,The website is broken and I can't complete my purchase. I need assistance.,0.099,74,True
+CUST000732,The delivery was super fast. I'm very happy! Please help.,0.911,57,False
+CUST000733,I love the variety of products you offer. Can someone respond?,0.736,62,False
+CUST000734,I've called multiple times but no one helps me. I need assistance.,0.296,66,False
+CUST000735,I'm interested in bulk ordering. I need assistance.,0.562,51,False
+CUST000736,What's the return policy for electronics? Can someone respond?,0.413,62,False
+CUST000737,What's the return policy for electronics? I need assistance.,0.497,60,False
+CUST000738,I want a refund immediately. This is the worst experience ever. I need assistance.,0.117,82,True
+CUST000739,Thank you for resolving my issue so quickly. Please help.,0.786,57,False
+CUST000740,This is ridiculous. I'm never shopping here again. Thank you.,0.192,61,False
+CUST000741,I'm interested in bulk ordering. Thank you.,0.511,43,False
+CUST000742,What are your business hours? Looking forward to your reply.,0.469,60,False
+CUST000743,Can I change my order before it ships? Looking forward to your reply.,0.484,69,False
+CUST000744,I'm impressed with your customer service. Thank you.,0.863,52,False
+CUST000745,Your customer service team is amazing! Thank you.,0.786,49,False
+CUST000746,I have a question about shipping options. I need assistance.,0.471,60,False
+CUST000747,I've been waiting for my order for 3 weeks! This is unacceptable. Please help.,0.025,78,True
+CUST000748,The product quality is excellent. Highly recommend! Thank you.,0.821,62,False
+CUST000749,Can I change my order before it ships? Thank you.,0.589,49,False
+CUST000750,I appreciate the quick response to my inquiry. Can someone respond?,0.757,67,False
+CUST000751,Thank you so much! The product exceeded my expectations. Can someone respond?,0.734,77,False
+CUST000752,Can you tell me more about this product? Thank you.,0.402,51,False
+CUST000753,I want to subscribe to your newsletter. Please help.,0.534,52,False
+CUST000754,Great prices and fast shipping. Very satisfied! I need assistance.,0.857,66,False
+CUST000755,I want a refund immediately. This is the worst experience ever. Thank you.,0.035,74,True
+CUST000756,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.096,81,False
+CUST000757,I paid for express shipping but it's been delayed. Thank you.,0.094,61,False
+CUST000758,I've been waiting for my order for 3 weeks! This is unacceptable. Please help.,0.291,78,True
+CUST000759,Can you tell me more about this product? Thank you.,0.431,51,False
+CUST000760,I want to subscribe to your newsletter. Can someone respond?,0.498,60,False
+CUST000761,The website is broken and I can't complete my purchase. I need assistance.,0.098,74,True
+CUST000762,Can I change my order before it ships? Please help.,0.488,51,False
+CUST000763,I've been a customer for years and this is how you treat me? Thank you.,0.022,71,False
+CUST000764,Your customer service team is amazing! I need assistance.,0.712,57,False
+CUST000765,I'll definitely shop here again. Great job! I need assistance.,0.893,62,False
+CUST000766,Can you tell me more about this product? I need assistance.,0.554,59,False
+CUST000767,Your website is easy to use and checkout was smooth. Thank you.,0.925,63,False
+CUST000768,I paid for express shipping but it's been delayed. Can someone respond?,0.028,71,False
+CUST000769,What payment methods do you accept? Please help.,0.461,48,False
+CUST000770,I've been a customer for years and this is how you treat me? Thank you.,0.281,71,False
+CUST000771,What are your business hours? I need assistance.,0.469,48,False
+CUST000772,Why is my order still pending? I placed it 2 weeks ago! Can someone respond?,0.166,76,False
+CUST000773,I'd like to know about your loyalty program. Thank you.,0.4,55,False
+CUST000774,Your customer service is terrible. No one responds to my emails. I need assistance.,0.221,83,True
+CUST000775,Your customer service team is amazing! Please help.,0.791,51,False
+CUST000776,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.074,95,True
+CUST000777,I want a refund immediately. This is the worst experience ever. Please help.,0.117,76,True
+CUST000778,The website is broken and I can't complete my purchase. Can someone respond?,0.031,76,True
+CUST000779,The product quality is terrible. I'm very disappointed. Looking forward to your reply.,0.269,86,True
+CUST000780,The product quality is terrible. I'm very disappointed. Thank you.,0.103,66,True
+CUST000781,I've called multiple times but no one helps me. Thank you.,0.165,58,False
+CUST000782,Can I change my order before it ships? Thank you.,0.545,49,False
+CUST000783,Your website is easy to use and checkout was smooth. I need assistance.,0.776,71,False
+CUST000784,Great prices and fast shipping. Very satisfied! Can someone respond?,0.835,68,False
+CUST000785,Can you help me with product recommendations? Please help.,0.441,58,False
+CUST000786,Can you help me with product recommendations? Can someone respond?,0.477,66,False
+CUST000787,Thank you for resolving my issue so quickly. Can someone respond?,0.946,65,False
+CUST000788,The product quality is excellent. Highly recommend! Please help.,0.937,64,False
+CUST000789,I've been a customer for years and this is how you treat me? Thank you.,0.017,71,False
+CUST000790,What are your business hours? Please help.,0.421,42,False
+CUST000791,I want to subscribe to your newsletter. Please help.,0.463,52,False
+CUST000792,The product quality is excellent. Highly recommend! Please help.,0.894,64,False
+CUST000793,I love the variety of products you offer. Thank you.,0.808,52,False
+CUST000794,My package was damaged and you're refusing to help. I need assistance.,0.27,70,True
+CUST000795,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.968,87,False
+CUST000796,Your customer service team is amazing! Please help.,0.879,51,False
+CUST000797,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.277,85,True
+CUST000798,My package was damaged and you're refusing to help. I need assistance.,0.206,70,True
+CUST000799,I need help with my account settings. Looking forward to your reply.,0.531,68,False
+CUST000800,What are your business hours? I need assistance.,0.551,48,False
+CUST000801,I love your service! Keep up the great work. I need assistance.,0.903,63,False
+CUST000802,The product quality is excellent. Highly recommend! I need assistance.,0.849,70,False
+CUST000803,The delivery was super fast. I'm very happy! Can someone respond?,0.774,65,False
+CUST000804,I want a refund immediately. This is the worst experience ever. Can someone respond?,0.104,84,True
+CUST000805,The delivery was super fast. I'm very happy! Can someone respond?,0.801,65,False
+CUST000806,Your return policy is confusing and unfair. I need assistance.,0.285,62,False
+CUST000807,Thank you for resolving my issue so quickly. Please help.,0.92,57,False
+CUST000808,I have a question about shipping options. Can someone respond?,0.463,62,False
+CUST000809,The product quality is excellent. Highly recommend! Can someone respond?,0.86,72,False
+CUST000810,Thank you so much! The product exceeded my expectations. Can someone respond?,0.85,77,False
+CUST000811,I love your service! Keep up the great work. Please help.,0.985,57,False
+CUST000812,What payment methods do you accept? Looking forward to your reply.,0.507,66,False
+CUST000813,I'm looking for a gift for my friend. I need assistance.,0.593,56,False
+CUST000814,The website is broken and I can't complete my purchase. Can someone respond?,0.016,76,True
+CUST000815,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.146,91,False
+CUST000816,"Hi, I'd like to check the status of my order. I need assistance.",0.476,64,False
+CUST000817,I'm interested in bulk ordering. Thank you.,0.515,43,False
+CUST000818,Great prices and fast shipping. Very satisfied! Thank you.,0.899,58,False
+CUST000819,I have a question about shipping options. Thank you.,0.476,52,False
+CUST000820,Your customer service team is amazing! Thank you.,0.789,49,False
+CUST000821,I'd like to know about your loyalty program. Can someone respond?,0.472,65,False
+CUST000822,The product I received was completely different from what I ordered. Looking forward to your reply.,0.239,99,False
+CUST000823,I love the variety of products you offer. I need assistance.,0.8,60,False
+CUST000824,I have a question about shipping options. I need assistance.,0.522,60,False
+CUST000825,This is the best online shopping experience I've had. I need assistance.,0.819,72,False
+CUST000826,Your website is easy to use and checkout was smooth. Can someone respond?,0.722,73,False
+CUST000827,The product quality is terrible. I'm very disappointed. I need assistance.,0.012,74,True
+CUST000828,I need to update my delivery address. I need assistance.,0.573,56,False
+CUST000829,I have a question about shipping options. I need assistance.,0.426,60,False
+CUST000830,My package was damaged and you're refusing to help. Looking forward to your reply.,0.02,82,True
+CUST000831,I've called multiple times but no one helps me. Please help.,0.223,60,False
+CUST000832,I've been a customer for years and this is how you treat me? I need assistance.,0.236,79,False
+CUST000833,I'd like to know about your loyalty program. Thank you.,0.564,55,False
+CUST000834,Can you tell me more about this product? I need assistance.,0.434,59,False
+CUST000835,Can you tell me more about this product? Looking forward to your reply.,0.452,71,False
+CUST000836,Your customer service is terrible. No one responds to my emails. I need assistance.,0.288,83,True
+CUST000837,I've been waiting for my order for 3 weeks! This is unacceptable. Thank you.,0.177,76,True
+CUST000838,"Hi, I'd like to check the status of my order. Please help.",0.49,58,False
+CUST000839,The packaging was perfect and the product arrived safely. I need assistance.,0.872,76,False
+CUST000840,I'm looking for a gift for my friend. Looking forward to your reply.,0.44,68,False
+CUST000841,I'm extremely frustrated with this service. Please help.,0.192,56,True
+CUST000842,I love the variety of products you offer. Please help.,0.896,54,False
+CUST000843,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.902,77,False
+CUST000844,I'm impressed with your customer service. Can someone respond?,0.788,62,False
+CUST000845,I've been a customer for years and this is how you treat me? Please help.,0.133,73,False
+CUST000846,I have a question about shipping options. Thank you.,0.591,52,False
+CUST000847,Can you help me with product recommendations? Looking forward to your reply.,0.507,76,False
+CUST000848,I appreciate the quick response to my inquiry. Thank you.,0.862,57,False
+CUST000849,What payment methods do you accept? Can someone respond?,0.583,56,False
+CUST000850,Your customer service team is amazing! Please help.,0.72,51,False
+CUST000851,"Hi, I'd like to check the status of my order. Please help.",0.497,58,False
+CUST000852,The product quality is terrible. I'm very disappointed. I need assistance.,0.086,74,True
+CUST000853,The product I received was completely different from what I ordered. I need assistance.,0.262,87,False
+CUST000854,Great prices and fast shipping. Very satisfied! Looking forward to your reply.,0.826,78,False
+CUST000855,I've been a customer for years and this is how you treat me? Thank you.,0.135,71,False
+CUST000856,The product quality is excellent. Highly recommend! Please help.,0.783,64,False
+CUST000857,What are your business hours? Thank you.,0.56,40,False
+CUST000858,I have a question about shipping options. Thank you.,0.455,52,False
+CUST000859,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.059,85,True
+CUST000860,I want a refund immediately. This is the worst experience ever. Looking forward to your reply.,0.047,94,True
+CUST000861,The packaging was perfect and the product arrived safely. Can someone respond?,0.912,78,False
+CUST000862,I'm looking for a gift for my friend. Looking forward to your reply.,0.412,68,False
+CUST000863,I want a refund immediately. This is the worst experience ever. I need assistance.,0.003,82,True
+CUST000864,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.095,95,True
+CUST000865,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.128,66,False
+CUST000866,Thank you for resolving my issue so quickly. Can someone respond?,0.978,65,False
+CUST000867,I'm looking for a gift for my friend. Can someone respond?,0.561,58,False
+CUST000868,This is the best online shopping experience I've had. Thank you.,0.766,64,False
+CUST000869,The delivery was super fast. I'm very happy! Can someone respond?,0.776,65,False
+CUST000870,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.855,88,False
+CUST000871,The packaging was perfect and the product arrived safely. I need assistance.,0.706,76,False
+CUST000872,What payment methods do you accept? Looking forward to your reply.,0.48,66,False
+CUST000873,I've been a customer for years and this is how you treat me? Please help.,0.284,73,False
+CUST000874,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.969,88,False
+CUST000875,What payment methods do you accept? Please help.,0.425,48,False
+CUST000876,The website is broken and I can't complete my purchase. Thank you.,0.144,66,True
+CUST000877,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.124,81,False
+CUST000878,Your return policy is confusing and unfair. Can someone respond?,0.254,64,False
+CUST000879,I'm so satisfied with my purchase. Thank you! Looking forward to your reply.,0.817,76,False
+CUST000880,The delivery was super fast. I'm very happy! Can someone respond?,0.773,65,False
+CUST000881,I paid for express shipping but it's been delayed. Looking forward to your reply.,0.132,81,False
+CUST000882,This is ridiculous. I'm never shopping here again. Please help.,0.064,63,False
+CUST000883,Thank you for resolving my issue so quickly. Please help.,0.704,57,False
+CUST000884,Can you help me with product recommendations? Can someone respond?,0.517,66,False
+CUST000885,I've been a customer for years and this is how you treat me? Please help.,0.243,73,False
+CUST000886,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.082,91,False
+CUST000887,Your website is easy to use and checkout was smooth. Thank you.,0.891,63,False
+CUST000888,I'd like to know about your loyalty program. Can someone respond?,0.574,65,False
+CUST000889,I want to subscribe to your newsletter. Can someone respond?,0.523,60,False
+CUST000890,I'm interested in bulk ordering. Please help.,0.425,45,False
+CUST000891,"Hi, I'd like to check the status of my order. Can someone respond?",0.522,66,False
+CUST000892,I want a refund immediately. This is the worst experience ever. Please help.,0.082,76,True
+CUST000893,I'm extremely frustrated with this service. Looking forward to your reply.,0.193,74,True
+CUST000894,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.079,68,False
+CUST000895,The packaging was perfect and the product arrived safely. I need assistance.,0.782,76,False
+CUST000896,What's the return policy for electronics? Looking forward to your reply.,0.529,72,False
+CUST000897,Your website is easy to use and checkout was smooth. I need assistance.,0.776,71,False
+CUST000898,I've called multiple times but no one helps me. Thank you.,0.05,58,False
+CUST000899,This is ridiculous. I'm never shopping here again. I need assistance.,0.217,69,False
+CUST000900,Your customer service is terrible. No one responds to my emails. Please help.,0.155,77,True
+CUST000901,Your customer service is terrible. No one responds to my emails. Thank you.,0.109,75,True
+CUST000902,"Hi, I'd like to check the status of my order. Please help.",0.451,58,False
+CUST000903,Your return policy is confusing and unfair. Looking forward to your reply.,0.111,74,False
+CUST000904,This is ridiculous. I'm never shopping here again. Can someone respond?,0.099,71,False
+CUST000905,The product I received was completely different from what I ordered. Can someone respond?,0.12,89,False
+CUST000906,The product quality is excellent. Highly recommend! Thank you.,0.787,62,False
+CUST000907,Can I change my order before it ships? Looking forward to your reply.,0.445,69,False
+CUST000908,Your customer service team is amazing! Please help.,0.798,51,False
+CUST000909,I'm so satisfied with my purchase. Thank you! Can someone respond?,0.897,66,False
+CUST000910,Can you tell me more about this product? Thank you.,0.504,51,False
+CUST000911,The customer support chat keeps disconnecting. I need assistance.,0.198,65,False
+CUST000912,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.288,66,False
+CUST000913,This is the best online shopping experience I've had. I need assistance.,0.74,72,False
+CUST000914,I'm looking for a gift for my friend. Please help.,0.532,50,False
+CUST000915,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.231,85,True
+CUST000916,I need to update my delivery address. Looking forward to your reply.,0.406,68,False
+CUST000917,I've been waiting for my order for 3 weeks! This is unacceptable. Thank you.,0.129,76,True
+CUST000918,I'd like to know about your loyalty program. I need assistance.,0.589,63,False
+CUST000919,Thank you for resolving my issue so quickly. Please help.,0.973,57,False
+CUST000920,The delivery was super fast. I'm very happy! I need assistance.,0.86,63,False
+CUST000921,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.115,95,True
+CUST000922,The product quality is excellent. Highly recommend! Thank you.,0.978,62,False
+CUST000923,I've been waiting for my order for 3 weeks! This is unacceptable. I need assistance.,0.006,84,True
+CUST000924,What's the return policy for electronics? Looking forward to your reply.,0.54,72,False
+CUST000925,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.075,85,True
+CUST000926,I'm impressed with your customer service. Can someone respond?,0.821,62,False
+CUST000927,Your website is easy to use and checkout was smooth. Can someone respond?,0.763,73,False
+CUST000928,I love your service! Keep up the great work. Can someone respond?,0.816,65,False
+CUST000929,Your customer service team is amazing! I need assistance.,0.723,57,False
+CUST000930,I want a refund immediately. This is the worst experience ever. I need assistance.,0.085,82,True
+CUST000931,I love the variety of products you offer. Looking forward to your reply.,0.715,72,False
+CUST000932,I love your service! Keep up the great work. Can someone respond?,0.704,65,False
+CUST000933,Your website is easy to use and checkout was smooth. Looking forward to your reply.,0.974,83,False
+CUST000934,Great prices and fast shipping. Very satisfied! I need assistance.,0.847,66,False
+CUST000935,Your customer service is terrible. No one responds to my emails. Please help.,0.05,77,True
+CUST000936,Your customer service is terrible. No one responds to my emails. I need assistance.,0.226,83,True
+CUST000937,Thank you so much! The product exceeded my expectations. Please help.,0.985,69,False
+CUST000938,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.91,82,False
+CUST000939,Your customer service is terrible. No one responds to my emails. I need assistance.,0.135,83,True
+CUST000940,What's the return policy for electronics? Looking forward to your reply.,0.572,72,False
+CUST000941,Your website is easy to use and checkout was smooth. Looking forward to your reply.,0.905,83,False
+CUST000942,I'm impressed with your customer service. Thank you.,0.975,52,False
+CUST000943,I appreciate the quick response to my inquiry. Can someone respond?,0.85,67,False
+CUST000944,I'd like to know about your loyalty program. I need assistance.,0.511,63,False
+CUST000945,What are your business hours? Can someone respond?,0.415,50,False
+CUST000946,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.859,87,False
+CUST000947,This is ridiculous. I'm never shopping here again. Thank you.,0.282,61,False
+CUST000948,I paid for express shipping but it's been delayed. I need assistance.,0.267,69,False
+CUST000949,Your return policy is confusing and unfair. Thank you.,0.126,54,False
+CUST000950,Why is my order still pending? I placed it 2 weeks ago! Thank you.,0.056,66,False
+CUST000951,This is the best online shopping experience I've had. Please help.,0.732,66,False
+CUST000952,The delivery was super fast. I'm very happy! Please help.,0.886,57,False
+CUST000953,The product I received was completely different from what I ordered. Please help.,0.215,81,False
+CUST000954,I'm looking for a gift for my friend. Please help.,0.548,50,False
+CUST000955,I love your service! Keep up the great work. Thank you.,0.773,55,False
+CUST000956,Can you explain your warranty policy? Looking forward to your reply.,0.563,68,False
+CUST000957,What are your business hours? I need assistance.,0.556,48,False
+CUST000958,The product I received was completely different from what I ordered. Please help.,0.075,81,False
+CUST000959,Thank you so much! The product exceeded my expectations. Can someone respond?,0.779,77,False
+CUST000960,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.866,75,False
+CUST000961,My package was damaged and you're refusing to help. Please help.,0.115,64,True
+CUST000962,This is the best online shopping experience I've had. Thank you.,0.765,64,False
+CUST000963,I'm extremely frustrated with this service. Thank you.,0.231,54,True
+CUST000964,What payment methods do you accept? I need assistance.,0.549,54,False
+CUST000965,What's the return policy for electronics? Please help.,0.402,54,False
+CUST000966,This is ridiculous. I'm never shopping here again. Thank you.,0.08,61,False
+CUST000967,I want a refund immediately. This is the worst experience ever. Can someone respond?,0.011,84,True
+CUST000968,I've been waiting for my order for 3 weeks! This is unacceptable. Can someone respond?,0.148,86,True
+CUST000969,Your return policy is confusing and unfair. I need assistance.,0.238,62,False
+CUST000970,This is ridiculous. I'm never shopping here again. Thank you.,0.12,61,False
+CUST000971,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.163,91,False
+CUST000972,I'm interested in bulk ordering. I need assistance.,0.483,51,False
+CUST000973,Why is my order still pending? I placed it 2 weeks ago! Looking forward to your reply.,0.168,86,False
+CUST000974,The delivery was super fast. I'm very happy! Thank you.,0.809,55,False
+CUST000975,"Hi, I'd like to check the status of my order. Can someone respond?",0.536,66,False
+CUST000976,Thank you for resolving my issue so quickly. Please help.,0.823,57,False
+CUST000977,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.894,77,False
+CUST000978,What's the return policy for electronics? Looking forward to your reply.,0.416,72,False
+CUST000979,Can you help me with product recommendations? Looking forward to your reply.,0.582,76,False
+CUST000980,What payment methods do you accept? I need assistance.,0.52,54,False
+CUST000981,I've been a customer for years and this is how you treat me? Can someone respond?,0.127,81,False
+CUST000982,I'd like to know about your loyalty program. I need assistance.,0.578,63,False
+CUST000983,The product quality is terrible. I'm very disappointed. Thank you.,0.215,66,True
+CUST000984,Your customer service team is amazing! Please help.,0.949,51,False
+CUST000985,The product quality is terrible. I'm very disappointed. I need assistance.,0.253,74,True
+CUST000986,The website is broken and I can't complete my purchase. Please help.,0.135,68,True
+CUST000987,I'm looking for a gift for my friend. Please help.,0.406,50,False
+CUST000988,Your return policy is confusing and unfair. Looking forward to your reply.,0.181,74,False
+CUST000989,What payment methods do you accept? Can someone respond?,0.489,56,False
+CUST000990,I need to update my delivery address. Can someone respond?,0.588,58,False
+CUST000991,"Hi, I'd like to check the status of my order. I need assistance.",0.502,64,False
+CUST000992,Can you tell me more about this product? Can someone respond?,0.477,61,False
+CUST000993,I'm looking for a gift for my friend. Please help.,0.497,50,False
+CUST000994,I've been a customer for years and this is how you treat me? Can someone respond?,0.02,81,False
+CUST000995,I'm looking for a gift for my friend. Thank you.,0.462,48,False
+CUST000996,Your website is easy to use and checkout was smooth. Please help.,0.737,65,False
+CUST000997,Can you tell me more about this product? Thank you.,0.553,51,False
+CUST000998,Can I change my order before it ships? Looking forward to your reply.,0.501,69,False
+CUST000999,I'm impressed with your customer service. I need assistance.,0.702,60,False
+CUST001000,This is the best online shopping experience I've had. Thank you.,0.977,64,False
+CUST001001,Can I change my order before it ships? Please help.,0.505,51,False
+CUST001002,I've been waiting for my order for 3 weeks! This is unacceptable. I need assistance.,0.204,84,True
+CUST001003,The product quality is terrible. I'm very disappointed. I need assistance.,0.281,74,True
+CUST001004,Your customer service is terrible. No one responds to my emails. Looking forward to your reply.,0.197,95,True
+CUST001005,I've called multiple times but no one helps me. Can someone respond?,0.248,68,False
+CUST001006,I've been a customer for years and this is how you treat me? Thank you.,0.072,71,False
+CUST001007,What payment methods do you accept? Thank you.,0.452,46,False
+CUST001008,I love your service! Keep up the great work. I need assistance.,0.706,63,False
+CUST001009,What's the return policy for electronics? I need assistance.,0.415,60,False
+CUST001010,I'm interested in bulk ordering. I need assistance.,0.52,51,False
+CUST001011,What's the return policy for electronics? Thank you.,0.578,52,False
+CUST001012,The website is broken and I can't complete my purchase. Looking forward to your reply.,0.27,86,True
+CUST001013,I'm looking for a gift for my friend. I need assistance.,0.5,56,False
+CUST001014,I want to subscribe to your newsletter. Can someone respond?,0.536,60,False
+CUST001015,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.255,81,False
+CUST001016,The product quality is terrible. I'm very disappointed. I need assistance.,0.189,74,True
+CUST001017,Thank you for resolving my issue so quickly. I need assistance.,0.856,63,False
+CUST001018,I need to update my delivery address. Thank you.,0.595,48,False
+CUST001019,Thank you for resolving my issue so quickly. I need assistance.,0.904,63,False
+CUST001020,I need to update my delivery address. I need assistance.,0.503,56,False
+CUST001021,The delivery was super fast. I'm very happy! Looking forward to your reply.,0.949,75,False
+CUST001022,This is ridiculous. I'm never shopping here again. I need assistance.,0.08,69,False
+CUST001023,I appreciate the quick response to my inquiry. I need assistance.,0.962,65,False
+CUST001024,"Hi, I'd like to check the status of my order. I need assistance.",0.565,64,False
+CUST001025,I'm so satisfied with my purchase. Thank you! Please help.,0.808,58,False
+CUST001026,I need to update my delivery address. Looking forward to your reply.,0.524,68,False
+CUST001027,I'd like to know about your loyalty program. I need assistance.,0.497,63,False
+CUST001028,I'm interested in bulk ordering. I need assistance.,0.409,51,False
+CUST001029,I'm impressed with your customer service. Please help.,0.972,54,False
+CUST001030,I'm impressed with your customer service. I need assistance.,0.912,60,False
+CUST001031,What payment methods do you accept? Please help.,0.483,48,False
+CUST001032,Your website is easy to use and checkout was smooth. Thank you.,0.914,63,False
+CUST001033,The website is broken and I can't complete my purchase. Please help.,0.105,68,True
+CUST001034,I have a question about shipping options. Can someone respond?,0.498,62,False
+CUST001035,I love the variety of products you offer. Looking forward to your reply.,0.732,72,False
+CUST001036,Can I change my order before it ships? Can someone respond?,0.557,59,False
+CUST001037,I'm looking for a gift for my friend. I need assistance.,0.52,56,False
+CUST001038,My package was damaged and you're refusing to help. Please help.,0.151,64,True
+CUST001039,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.244,91,False
+CUST001040,The customer support chat keeps disconnecting. I need assistance.,0.015,65,False
+CUST001041,The customer support chat keeps disconnecting. Looking forward to your reply.,0.151,77,False
+CUST001042,I'd like to know about your loyalty program. Can someone respond?,0.522,65,False
+CUST001043,"Hi, I'd like to check the status of my order. Looking forward to your reply.",0.447,76,False
+CUST001044,The delivery was super fast. I'm very happy! Thank you.,0.88,55,False
+CUST001045,I love the variety of products you offer. I need assistance.,0.972,60,False
+CUST001046,I'm impressed with your customer service. I need assistance.,0.818,60,False
+CUST001047,I appreciate the quick response to my inquiry. I need assistance.,0.992,65,False
+CUST001048,Can you help me with product recommendations? Looking forward to your reply.,0.56,76,False
+CUST001049,This is the best online shopping experience I've had. Please help.,0.914,66,False
+CUST001050,Can you tell me more about this product? Looking forward to your reply.,0.449,71,False
+CUST001051,Can you explain your warranty policy? I need assistance.,0.506,56,False
+CUST001052,I've been waiting for my order for 3 weeks! This is unacceptable. Can someone respond?,0.136,86,True
+CUST001053,Your website is easy to use and checkout was smooth. Thank you.,0.922,63,False
+CUST001054,Thank you for resolving my issue so quickly. Please help.,0.824,57,False
+CUST001055,Great prices and fast shipping. Very satisfied! Thank you.,0.799,58,False
+CUST001056,The product I received was completely different from what I ordered. Looking forward to your reply.,0.221,99,False
+CUST001057,Your return policy is confusing and unfair. I need assistance.,0.131,62,False
+CUST001058,I have a question about shipping options. Thank you.,0.55,52,False
+CUST001059,The product I received was completely different from what I ordered. Looking forward to your reply.,0.255,99,False
+CUST001060,I'm looking for a gift for my friend. Please help.,0.581,50,False
+CUST001061,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.123,81,False
+CUST001062,The product quality is terrible. I'm very disappointed. Please help.,0.159,68,True
+CUST001063,I appreciate the quick response to my inquiry. I need assistance.,0.864,65,False
+CUST001064,Can you tell me more about this product? Thank you.,0.478,51,False
+CUST001065,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.107,81,False
+CUST001066,I'm interested in bulk ordering. I need assistance.,0.568,51,False
+CUST001067,What's the return policy for electronics? Please help.,0.444,54,False
+CUST001068,My package was damaged and you're refusing to help. Looking forward to your reply.,0.133,82,True
+CUST001069,I love the variety of products you offer. Looking forward to your reply.,0.815,72,False
+CUST001070,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.701,75,False
+CUST001071,This is ridiculous. I'm never shopping here again. I need assistance.,0.061,69,False
+CUST001072,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.143,68,False
+CUST001073,The customer support chat keeps disconnecting. Thank you.,0.137,57,False
+CUST001074,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.287,91,False
+CUST001075,I've been a customer for years and this is how you treat me? Looking forward to your reply.,0.29,91,False
+CUST001076,I love the variety of products you offer. Can someone respond?,0.753,62,False
+CUST001077,I love the variety of products you offer. Please help.,0.933,54,False
+CUST001078,I'm interested in bulk ordering. Looking forward to your reply.,0.485,63,False
+CUST001079,Your customer service team is amazing! Thank you.,0.802,49,False
+CUST001080,Your customer service team is amazing! Looking forward to your reply.,0.876,69,False
+CUST001081,What payment methods do you accept? Looking forward to your reply.,0.583,66,False
+CUST001082,Can you explain your warranty policy? Can someone respond?,0.591,58,False
+CUST001083,I appreciate the quick response to my inquiry. Looking forward to your reply.,0.769,77,False
+CUST001084,I need help with my account settings. Please help.,0.53,50,False
+CUST001085,Why is my order still pending? I placed it 2 weeks ago! Please help.,0.261,68,False
+CUST001086,Your website is easy to use and checkout was smooth. I need assistance.,0.784,71,False
+CUST001087,This is the best online shopping experience I've had. Please help.,0.944,66,False
+CUST001088,What are your business hours? Thank you.,0.582,40,False
+CUST001089,I'm interested in bulk ordering. I need assistance.,0.42,51,False
+CUST001090,The packaging was perfect and the product arrived safely. I need assistance.,0.717,76,False
+CUST001091,I paid for express shipping but it's been delayed. Looking forward to your reply.,0.02,81,False
+CUST001092,What payment methods do you accept? Please help.,0.503,48,False
+CUST001093,Your return policy is confusing and unfair. Please help.,0.183,56,False
+CUST001094,The website is broken and I can't complete my purchase. Please help.,0.258,68,True
+CUST001095,I've called multiple times but no one helps me. Can someone respond?,0.215,68,False
+CUST001096,I love the variety of products you offer. I need assistance.,0.873,60,False
+CUST001097,The customer support chat keeps disconnecting. I need assistance.,0.13,65,False
+CUST001098,Can you help me with product recommendations? Please help.,0.412,58,False
+CUST001099,Your website is easy to use and checkout was smooth. Please help.,0.967,65,False
+CUST001100,Great prices and fast shipping. Very satisfied! I need assistance.,0.774,66,False
+CUST001101,"Hi, I'd like to check the status of my order. Can someone respond?",0.539,66,False
+CUST001102,I'm interested in bulk ordering. I need assistance.,0.57,51,False
+CUST001103,Can I change my order before it ships? Looking forward to your reply.,0.451,69,False
+CUST001104,The website is broken and I can't complete my purchase. Looking forward to your reply.,0.177,86,True
+CUST001105,Thank you so much! The product exceeded my expectations. Can someone respond?,0.911,77,False
+CUST001106,This is ridiculous. I'm never shopping here again. Can someone respond?,0.138,71,False
+CUST001107,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.977,87,False
+CUST001108,The packaging was perfect and the product arrived safely. Looking forward to your reply.,0.822,88,False
+CUST001109,Thank you so much! The product exceeded my expectations. I need assistance.,0.71,75,False
+CUST001110,Thank you for resolving my issue so quickly. Looking forward to your reply.,0.822,75,False
+CUST001111,I'm impressed with your customer service. Please help.,0.999,54,False
+CUST001112,I'm so satisfied with my purchase. Thank you! Thank you.,0.986,56,False
+CUST001113,The customer support chat keeps disconnecting. Can someone respond?,0.21,67,False
+CUST001114,I've called multiple times but no one helps me. Looking forward to your reply.,0.22,78,False
+CUST001115,I love your service! Keep up the great work. Can someone respond?,0.892,65,False
+CUST001116,I'm so satisfied with my purchase. Thank you! Can someone respond?,0.871,66,False
+CUST001117,Thank you for resolving my issue so quickly. I need assistance.,0.811,63,False
+CUST001118,I've been a customer for years and this is how you treat me? Thank you.,0.233,71,False
+CUST001119,I've called multiple times but no one helps me. Thank you.,0.093,58,False
+CUST001120,Can I change my order before it ships? Please help.,0.572,51,False
+CUST001121,I love the variety of products you offer. Please help.,0.95,54,False
+CUST001122,I'll definitely shop here again. Great job! Can someone respond?,0.882,64,False
+CUST001123,Thank you so much! The product exceeded my expectations. I need assistance.,0.72,75,False
+CUST001124,I've called multiple times but no one helps me. Please help.,0.124,60,False
+CUST001125,Great prices and fast shipping. Very satisfied! Thank you.,0.733,58,False
+CUST001126,I'm interested in bulk ordering. Please help.,0.492,45,False
+CUST001127,Can I change my order before it ships? Please help.,0.472,51,False
+CUST001128,Can you tell me more about this product? Thank you.,0.455,51,False
+CUST001129,Your return policy is confusing and unfair. Please help.,0.218,56,False
+CUST001130,I've been waiting for my order for 3 weeks! This is unacceptable. I need assistance.,0.042,84,True
+CUST001131,Thank you for resolving my issue so quickly. I need assistance.,0.99,63,False
+CUST001132,"Hi, I'd like to check the status of my order. I need assistance.",0.511,64,False
+CUST001133,I've called multiple times but no one helps me. Can someone respond?,0.199,68,False
+CUST001134,I'm extremely frustrated with this service. Can someone respond?,0.139,64,True
+CUST001135,Your website is easy to use and checkout was smooth. Thank you.,0.77,63,False
+CUST001136,What are your business hours? Can someone respond?,0.489,50,False
+CUST001137,I'm extremely frustrated with this service. I need assistance.,0.266,62,True
+CUST001138,I appreciate the quick response to my inquiry. Can someone respond?,0.975,67,False
+CUST001139,The product quality is excellent. Highly recommend! I need assistance.,0.828,70,False
+CUST001140,Can you tell me more about this product? Thank you.,0.576,51,False
+CUST001141,I have a question about shipping options. Looking forward to your reply.,0.438,72,False
+CUST001142,I'm looking for a gift for my friend. I need assistance.,0.424,56,False
+CUST001143,Thank you for resolving my issue so quickly. Please help.,0.911,57,False
+CUST001144,This is ridiculous. I'm never shopping here again. Thank you.,0.058,61,False
+CUST001145,I'd like to know about your loyalty program. Looking forward to your reply.,0.563,75,False
+CUST001146,I've been a customer for years and this is how you treat me? Thank you.,0.067,71,False
+CUST001147,"Hi, I'd like to check the status of my order. Please help.",0.404,58,False
+CUST001148,I want to subscribe to your newsletter. Can someone respond?,0.534,60,False
+CUST001149,Can I change my order before it ships? Thank you.,0.463,49,False
+CUST001150,I'm impressed with your customer service. Thank you.,0.867,52,False
+CUST001151,I love your service! Keep up the great work. Looking forward to your reply.,0.928,75,False
+CUST001152,Thank you for resolving my issue so quickly. Please help.,0.864,57,False
+CUST001153,I'm interested in bulk ordering. I need assistance.,0.577,51,False
+CUST001154,I love your service! Keep up the great work. I need assistance.,0.991,63,False
+CUST001155,Thank you for resolving my issue so quickly. Please help.,0.853,57,False
+CUST001156,The packaging was perfect and the product arrived safely. Thank you.,0.958,68,False
+CUST001157,Can you help me with product recommendations? Looking forward to your reply.,0.42,76,False
+CUST001158,I have a question about shipping options. Can someone respond?,0.417,62,False
+CUST001159,Your customer service team is amazing! Thank you.,0.733,49,False
+CUST001160,What are your business hours? Can someone respond?,0.575,50,False
+CUST001161,I want to subscribe to your newsletter. Please help.,0.477,52,False
+CUST001162,I've called multiple times but no one helps me. Thank you.,0.062,58,False
+CUST001163,I'm looking for a gift for my friend. Please help.,0.584,50,False
+CUST001164,I appreciate the quick response to my inquiry. I need assistance.,0.796,65,False
+CUST001165,Can you help me with product recommendations? Please help.,0.407,58,False
+CUST001166,"Hi, I'd like to check the status of my order. Thank you.",0.507,56,False
+CUST001167,Thank you so much! The product exceeded my expectations. Looking forward to your reply.,0.784,87,False
+CUST001168,My package was damaged and you're refusing to help. I need assistance.,0.139,70,True
+CUST001169,"Hi, I'd like to check the status of my order. Please help.",0.571,58,False
+CUST001170,Your return policy is confusing and unfair. Looking forward to your reply.,0.062,74,False
+CUST001171,I'm looking for a gift for my friend. I need assistance.,0.451,56,False
+CUST001172,I appreciate the quick response to my inquiry. I need assistance.,0.835,65,False
+CUST001173,This is ridiculous. I'm never shopping here again. I need assistance.,0.214,69,False
+CUST001174,Your customer service is terrible. No one responds to my emails. Can someone respond?,0.16,85,True
+CUST001175,The product quality is terrible. I'm very disappointed. Can someone respond?,0.243,76,True
+CUST001176,Your customer service team is amazing! Looking forward to your reply.,0.777,69,False
+CUST001177,Your return policy is confusing and unfair. Please help.,0.257,56,False
+CUST001178,I appreciate the quick response to my inquiry. Can someone respond?,0.961,67,False
+CUST001179,I appreciate the quick response to my inquiry. Please help.,0.749,59,False
+CUST001180,Your customer service is terrible. No one responds to my emails. Thank you.,0.232,75,True
+CUST001181,The product I received was completely different from what I ordered. Can someone respond?,0.028,89,False
+CUST001182,I want a refund immediately. This is the worst experience ever. Looking forward to your reply.,0.266,94,True
+CUST001183,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.964,82,False
+CUST001184,Can I change my order before it ships? I need assistance.,0.582,57,False
+CUST001185,Thank you so much! The product exceeded my expectations. I need assistance.,0.8,75,False
+CUST001186,I've called multiple times but no one helps me. Thank you.,0.147,58,False
+CUST001187,Great prices and fast shipping. Very satisfied! Looking forward to your reply.,0.737,78,False
+CUST001188,This is ridiculous. I'm never shopping here again. Looking forward to your reply.,0.02,81,False
+CUST001189,I love the variety of products you offer. Looking forward to your reply.,0.934,72,False
+CUST001190,Thank you so much! The product exceeded my expectations. Please help.,0.701,69,False
+CUST001191,The product I received was completely different from what I ordered. Looking forward to your reply.,0.028,99,False
+CUST001192,Can you tell me more about this product? Looking forward to your reply.,0.494,71,False
+CUST001193,What payment methods do you accept? Looking forward to your reply.,0.478,66,False
+CUST001194,The product quality is excellent. Highly recommend! Looking forward to your reply.,0.859,82,False
+CUST001195,Can I change my order before it ships? Looking forward to your reply.,0.49,69,False
+CUST001196,Thank you for resolving my issue so quickly. Thank you.,0.966,55,False
+CUST001197,I want to subscribe to your newsletter. I need assistance.,0.49,58,False
+CUST001198,Great prices and fast shipping. Very satisfied! I need assistance.,0.771,66,False
+CUST001199,I love the variety of products you offer. I need assistance.,0.819,60,False
+CUST001200,The product quality is terrible. I'm very disappointed. Please help.,0.083,68,True

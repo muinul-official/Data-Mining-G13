@@ -1,0 +1,1201 @@
+customer_id,review_text,review_rating,review_sentiment_score,review_length
+CUST000001,Average purchase. No major issues.,3,0.52,34
+CUST000002,It's fine. Nothing exceptional.,3,0.594,31
+CUST000003,The worst purchase I've made. Don't buy this product.,2,0.055,53
+CUST000004,Product doesn't work as advertised. Very frustrating.,2,0.11,53
+CUST000005,Wonderful product. Fast delivery. Highly recommend!,4,0.714,51
+CUST000006,The worst purchase I've made. Don't buy this product.,1,0.132,53
+CUST000007,Amazing quality and fast shipping. Very satisfied!,5,0.933,50
+CUST000008,Average quality. Nothing special but works fine.,3,0.454,48
+CUST000009,Product doesn't work as advertised. Very frustrating.,1,0.296,53
+CUST000010,Fair quality. Worth the money.,3,0.563,30
+CUST000011,Fair quality. Worth the money.,3,0.415,30
+CUST000012,Excellent product! Exceeded my expectations. Highly recommend!,5,0.842,62
+CUST000013,Fantastic product. Exceeded expectations. 5 stars!,4,0.853,50
+CUST000014,Excellent purchase. Great quality and service!,5,0.723,46
+CUST000015,Very disappointed. Not as described. Poor customer service.,2,0.056,59
+CUST000016,Decent product. Would consider buying again.,3,0.572,44
+CUST000017,Not worth the price. Very disappointed.,1,0.067,39
+CUST000018,Meets basic expectations. No complaints.,3,0.465,40
+CUST000019,Outstanding product and customer service. Will buy again!,5,0.784,57
+CUST000020,Excellent product! Exceeded my expectations. Highly recommend!,5,0.867,62
+CUST000021,Fantastic product. Exceeded expectations. 5 stars!,5,0.805,50
+CUST000022,It's decent for the price. Could be better.,3,0.58,43
+CUST000023,Customer service was unhelpful and rude.,2,0.071,40
+CUST000024,Excellent product! Exceeded my expectations. Highly recommend!,5,0.87,62
+CUST000025,Product doesn't work as advertised. Very frustrating.,2,0.073,53
+CUST000026,Arrived damaged and seller refused to help. Avoid!,1,0.256,50
+CUST000027,Best purchase I've made. Great value for money.,4,0.729,47
+CUST000028,Perfect! Exactly as described. Love it!,4,0.922,39
+CUST000029,Standard product. Gets the job done.,3,0.583,36
+CUST000030,Standard product. Gets the job done.,3,0.559,36
+CUST000031,Okay product. Satisfied but not thrilled.,3,0.419,41
+CUST000032,Outstanding product and customer service. Will buy again!,4,0.877,57
+CUST000033,It's decent for the price. Could be better.,3,0.527,43
+CUST000034,Amazing quality and fast shipping. Very satisfied!,4,0.989,50
+CUST000035,Product doesn't work as advertised. Very frustrating.,1,0.052,53
+CUST000036,Okay product. Satisfied but not thrilled.,3,0.548,41
+CUST000037,Product is okay. Does what it's supposed to do.,3,0.552,47
+CUST000038,Perfect! Exactly as described. Love it!,5,0.885,39
+CUST000039,Decent product. Would consider buying again.,3,0.571,44
+CUST000040,Product is okay. Does what it's supposed to do.,3,0.517,47
+CUST000041,Arrived damaged and seller refused to help. Avoid!,2,0.164,50
+CUST000042,Product is okay. Does what it's supposed to do.,3,0.581,47
+CUST000043,The worst purchase I've made. Don't buy this product.,1,0.096,53
+CUST000044,Customer service was unhelpful and rude.,1,0.053,40
+CUST000045,Great value and excellent quality. Highly satisfied!,5,0.933,52
+CUST000046,Arrived damaged and seller refused to help. Avoid!,1,0.269,50
+CUST000047,Very disappointed. Not as described. Poor customer service.,2,0.172,59
+CUST000048,Fantastic product. Exceeded expectations. 5 stars!,5,0.926,50
+CUST000049,Arrived damaged and seller refused to help. Avoid!,2,0.148,50
+CUST000050,Customer service was unhelpful and rude.,2,0.112,40
+CUST000051,Cheaply made and overpriced. Regret buying this.,1,0.289,48
+CUST000052,Average purchase. No major issues.,3,0.471,34
+CUST000053,Excellent purchase. Great quality and service!,5,0.749,46
+CUST000054,Great value and excellent quality. Highly satisfied!,5,0.745,52
+CUST000055,Amazing quality and fast shipping. Very satisfied!,4,0.983,50
+CUST000056,Terrible product quality. Broke after one week. Waste of money.,1,0.039,63
+CUST000057,Decent product. Would consider buying again.,3,0.57,44
+CUST000058,Excellent purchase. Great quality and service!,4,0.831,46
+CUST000059,Product is okay. Does what it's supposed to do.,3,0.524,47
+CUST000060,Meets basic expectations. No complaints.,3,0.596,40
+CUST000061,Fantastic product. Exceeded expectations. 5 stars!,5,0.739,50
+CUST000062,Cheaply made and overpriced. Regret buying this.,2,0.052,48
+CUST000063,Product is okay. Does what it's supposed to do.,3,0.418,47
+CUST000064,Excellent product! Exceeded my expectations. Highly recommend!,4,0.763,62
+CUST000065,Decent product. Would consider buying again.,3,0.474,44
+CUST000066,Low quality and expensive. Would not recommend.,2,0.171,47
+CUST000067,Meets basic expectations. No complaints.,3,0.457,40
+CUST000068,Poor quality materials. Fell apart quickly.,1,0.119,43
+CUST000069,Customer service was unhelpful and rude.,2,0.167,40
+CUST000070,Poor quality materials. Fell apart quickly.,2,0.073,43
+CUST000071,Not worth the price. Very disappointed.,1,0.144,39
+CUST000072,Fair quality. Worth the money.,3,0.598,30
+CUST000073,Excellent product! Exceeded my expectations. Highly recommend!,5,0.979,62
+CUST000074,Average purchase. No major issues.,3,0.568,34
+CUST000075,Amazing quality and fast shipping. Very satisfied!,5,0.945,50
+CUST000076,Amazing quality and fast shipping. Very satisfied!,5,0.863,50
+CUST000077,It's fine. Nothing exceptional.,3,0.558,31
+CUST000078,Average purchase. No major issues.,3,0.517,34
+CUST000079,Average purchase. No major issues.,3,0.584,34
+CUST000080,Excellent product! Exceeded my expectations. Highly recommend!,4,0.882,62
+CUST000081,Fair quality. Worth the money.,3,0.526,30
+CUST000082,Best purchase I've made. Great value for money.,4,0.969,47
+CUST000083,Customer service was unhelpful and rude.,2,0.02,40
+CUST000084,Cheaply made and overpriced. Regret buying this.,1,0.168,48
+CUST000085,Excellent product! Exceeded my expectations. Highly recommend!,5,0.747,62
+CUST000086,Average purchase. No major issues.,3,0.579,34
+CUST000087,Excellent purchase. Great quality and service!,5,0.803,46
+CUST000088,Perfect! Exactly as described. Love it!,5,0.985,39
+CUST000089,Arrived damaged and seller refused to help. Avoid!,2,0.24,50
+CUST000090,The worst purchase I've made. Don't buy this product.,2,0.077,53
+CUST000091,Okay product. Satisfied but not thrilled.,3,0.505,41
+CUST000092,Terrible product quality. Broke after one week. Waste of money.,2,0.249,63
+CUST000093,Wonderful product. Fast delivery. Highly recommend!,4,0.974,51
+CUST000094,The worst purchase I've made. Don't buy this product.,1,0.221,53
+CUST000095,Terrible product quality. Broke after one week. Waste of money.,2,0.107,63
+CUST000096,Decent product. Would consider buying again.,3,0.495,44
+CUST000097,Fantastic product. Exceeded expectations. 5 stars!,5,0.741,50
+CUST000098,The worst purchase I've made. Don't buy this product.,2,0.163,53
+CUST000099,Okay product. Satisfied but not thrilled.,3,0.532,41
+CUST000100,Outstanding product and customer service. Will buy again!,5,0.996,57
+CUST000101,Wonderful product. Fast delivery. Highly recommend!,4,0.87,51
+CUST000102,Amazing quality and fast shipping. Very satisfied!,5,0.949,50
+CUST000103,Decent product. Would consider buying again.,3,0.424,44
+CUST000104,Best purchase I've made. Great value for money.,4,0.937,47
+CUST000105,Excellent product! Exceeded my expectations. Highly recommend!,5,0.707,62
+CUST000106,Best purchase I've made. Great value for money.,4,0.995,47
+CUST000107,High quality and great price. Very happy!,4,0.786,41
+CUST000108,Amazing quality and fast shipping. Very satisfied!,4,0.84,50
+CUST000109,Product is okay. Does what it's supposed to do.,3,0.446,47
+CUST000110,Best purchase I've made. Great value for money.,4,0.991,47
+CUST000111,Best purchase I've made. Great value for money.,5,0.767,47
+CUST000112,Excellent purchase. Great quality and service!,4,0.823,46
+CUST000113,Product doesn't work as advertised. Very frustrating.,2,0.149,53
+CUST000114,Low quality and expensive. Would not recommend.,1,0.152,47
+CUST000115,Cheaply made and overpriced. Regret buying this.,2,0.078,48
+CUST000116,Best purchase I've made. Great value for money.,5,0.862,47
+CUST000117,Fantastic product. Exceeded expectations. 5 stars!,5,0.834,50
+CUST000118,Perfect! Exactly as described. Love it!,5,0.782,39
+CUST000119,Fair quality. Worth the money.,3,0.569,30
+CUST000120,Fair quality. Worth the money.,3,0.496,30
+CUST000121,It's decent for the price. Could be better.,3,0.498,43
+CUST000122,Standard product. Gets the job done.,3,0.458,36
+CUST000123,Product doesn't work as advertised. Very frustrating.,2,0.296,53
+CUST000124,The worst purchase I've made. Don't buy this product.,1,0.003,53
+CUST000125,It's fine. Nothing exceptional.,3,0.416,31
+CUST000126,It's fine. Nothing exceptional.,3,0.44,31
+CUST000127,Great value and excellent quality. Highly satisfied!,4,0.944,52
+CUST000128,Best purchase I've made. Great value for money.,5,0.718,47
+CUST000129,Customer service was unhelpful and rude.,2,0.066,40
+CUST000130,Okay product. Satisfied but not thrilled.,3,0.544,41
+CUST000131,Perfect! Exactly as described. Love it!,4,0.918,39
+CUST000132,It's fine. Nothing exceptional.,3,0.575,31
+CUST000133,Product doesn't work as advertised. Very frustrating.,2,0.039,53
+CUST000134,Fantastic product. Exceeded expectations. 5 stars!,5,0.771,50
+CUST000135,Meets basic expectations. No complaints.,3,0.519,40
+CUST000136,Amazing quality and fast shipping. Very satisfied!,4,0.836,50
+CUST000137,Not worth the price. Very disappointed.,1,0.075,39
+CUST000138,Fantastic product. Exceeded expectations. 5 stars!,4,0.921,50
+CUST000139,Low quality and expensive. Would not recommend.,2,0.26,47
+CUST000140,High quality and great price. Very happy!,5,0.737,41
+CUST000141,Terrible product quality. Broke after one week. Waste of money.,1,0.045,63
+CUST000142,Product doesn't work as advertised. Very frustrating.,2,0.2,53
+CUST000143,Terrible product quality. Broke after one week. Waste of money.,2,0.053,63
+CUST000144,Product is okay. Does what it's supposed to do.,3,0.532,47
+CUST000145,Product is okay. Does what it's supposed to do.,3,0.556,47
+CUST000146,Customer service was unhelpful and rude.,2,0.121,40
+CUST000147,High quality and great price. Very happy!,4,0.812,41
+CUST000148,The worst purchase I've made. Don't buy this product.,2,0.139,53
+CUST000149,Low quality and expensive. Would not recommend.,2,0.144,47
+CUST000150,Customer service was unhelpful and rude.,2,0.229,40
+CUST000151,Low quality and expensive. Would not recommend.,2,0.278,47
+CUST000152,Low quality and expensive. Would not recommend.,2,0.162,47
+CUST000153,Best purchase I've made. Great value for money.,5,0.782,47
+CUST000154,Excellent purchase. Great quality and service!,5,0.75,46
+CUST000155,Great value and excellent quality. Highly satisfied!,4,0.817,52
+CUST000156,Arrived damaged and seller refused to help. Avoid!,1,0.041,50
+CUST000157,Very disappointed. Not as described. Poor customer service.,2,0.215,59
+CUST000158,Product doesn't work as advertised. Very frustrating.,1,0.024,53
+CUST000159,Decent product. Would consider buying again.,3,0.53,44
+CUST000160,It's decent for the price. Could be better.,3,0.534,43
+CUST000161,It's decent for the price. Could be better.,3,0.538,43
+CUST000162,Perfect! Exactly as described. Love it!,5,0.835,39
+CUST000163,Cheaply made and overpriced. Regret buying this.,1,0.07,48
+CUST000164,Outstanding product and customer service. Will buy again!,5,0.927,57
+CUST000165,Customer service was unhelpful and rude.,1,0.213,40
+CUST000166,It's decent for the price. Could be better.,3,0.587,43
+CUST000167,Product is okay. Does what it's supposed to do.,3,0.503,47
+CUST000168,Customer service was unhelpful and rude.,1,0.263,40
+CUST000169,Amazing quality and fast shipping. Very satisfied!,5,0.908,50
+CUST000170,High quality and great price. Very happy!,5,0.744,41
+CUST000171,The worst purchase I've made. Don't buy this product.,2,0.041,53
+CUST000172,Wonderful product. Fast delivery. Highly recommend!,5,0.828,51
+CUST000173,Customer service was unhelpful and rude.,1,0.003,40
+CUST000174,Not worth the price. Very disappointed.,2,0.072,39
+CUST000175,Cheaply made and overpriced. Regret buying this.,1,0.253,48
+CUST000176,Outstanding product and customer service. Will buy again!,4,0.936,57
+CUST000177,The worst purchase I've made. Don't buy this product.,2,0.131,53
+CUST000178,High quality and great price. Very happy!,4,0.969,41
+CUST000179,Cheaply made and overpriced. Regret buying this.,2,0.156,48
+CUST000180,High quality and great price. Very happy!,5,0.815,41
+CUST000181,Average purchase. No major issues.,3,0.506,34
+CUST000182,Wonderful product. Fast delivery. Highly recommend!,4,0.897,51
+CUST000183,Arrived damaged and seller refused to help. Avoid!,2,0.067,50
+CUST000184,Great value and excellent quality. Highly satisfied!,5,0.945,52
+CUST000185,Outstanding product and customer service. Will buy again!,5,0.897,57
+CUST000186,Arrived damaged and seller refused to help. Avoid!,1,0.281,50
+CUST000187,Best purchase I've made. Great value for money.,5,0.853,47
+CUST000188,Arrived damaged and seller refused to help. Avoid!,1,0.262,50
+CUST000189,It's decent for the price. Could be better.,3,0.449,43
+CUST000190,Great value and excellent quality. Highly satisfied!,4,0.756,52
+CUST000191,Arrived damaged and seller refused to help. Avoid!,2,0.011,50
+CUST000192,Average purchase. No major issues.,3,0.43,34
+CUST000193,Excellent product! Exceeded my expectations. Highly recommend!,5,0.878,62
+CUST000194,Okay product. Satisfied but not thrilled.,3,0.401,41
+CUST000195,Customer service was unhelpful and rude.,2,0.028,40
+CUST000196,Excellent purchase. Great quality and service!,5,0.744,46
+CUST000197,Product is okay. Does what it's supposed to do.,3,0.587,47
+CUST000198,Low quality and expensive. Would not recommend.,1,0.236,47
+CUST000199,Best purchase I've made. Great value for money.,5,0.982,47
+CUST000200,Perfect! Exactly as described. Love it!,4,0.919,39
+CUST000201,Outstanding product and customer service. Will buy again!,4,0.774,57
+CUST000202,Perfect! Exactly as described. Love it!,5,0.933,39
+CUST000203,Average quality. Nothing special but works fine.,3,0.596,48
+CUST000204,The worst purchase I've made. Don't buy this product.,2,0.292,53
+CUST000205,Best purchase I've made. Great value for money.,4,0.734,47
+CUST000206,Customer service was unhelpful and rude.,1,0.025,40
+CUST000207,Poor quality materials. Fell apart quickly.,2,0.138,43
+CUST000208,Arrived damaged and seller refused to help. Avoid!,2,0.156,50
+CUST000209,Cheaply made and overpriced. Regret buying this.,1,0.232,48
+CUST000210,Average quality. Nothing special but works fine.,3,0.531,48
+CUST000211,Product doesn't work as advertised. Very frustrating.,1,0.19,53
+CUST000212,Arrived damaged and seller refused to help. Avoid!,2,0.16,50
+CUST000213,Great value and excellent quality. Highly satisfied!,5,0.862,52
+CUST000214,Meets basic expectations. No complaints.,3,0.564,40
+CUST000215,Fantastic product. Exceeded expectations. 5 stars!,4,0.804,50
+CUST000216,Perfect! Exactly as described. Love it!,4,0.886,39
+CUST000217,Fair quality. Worth the money.,3,0.596,30
+CUST000218,Low quality and expensive. Would not recommend.,2,0.098,47
+CUST000219,Poor quality materials. Fell apart quickly.,2,0.251,43
+CUST000220,Low quality and expensive. Would not recommend.,1,0.154,47
+CUST000221,Terrible product quality. Broke after one week. Waste of money.,1,0.199,63
+CUST000222,Fantastic product. Exceeded expectations. 5 stars!,5,0.959,50
+CUST000223,Outstanding product and customer service. Will buy again!,4,0.734,57
+CUST000224,Not worth the price. Very disappointed.,2,0.014,39
+CUST000225,Meets basic expectations. No complaints.,3,0.582,40
+CUST000226,It's fine. Nothing exceptional.,3,0.487,31
+CUST000227,Best purchase I've made. Great value for money.,5,0.889,47
+CUST000228,It's fine. Nothing exceptional.,3,0.502,31
+CUST000229,Outstanding product and customer service. Will buy again!,5,0.721,57
+CUST000230,Very disappointed. Not as described. Poor customer service.,2,0.099,59
+CUST000231,Excellent purchase. Great quality and service!,4,0.872,46
+CUST000232,Fantastic product. Exceeded expectations. 5 stars!,5,0.962,50
+CUST000233,Not worth the price. Very disappointed.,1,0.039,39
+CUST000234,Customer service was unhelpful and rude.,2,0.093,40
+CUST000235,Meets basic expectations. No complaints.,3,0.412,40
+CUST000236,Outstanding product and customer service. Will buy again!,4,0.806,57
+CUST000237,Great value and excellent quality. Highly satisfied!,5,0.846,52
+CUST000238,Decent product. Would consider buying again.,3,0.486,44
+CUST000239,Terrible product quality. Broke after one week. Waste of money.,1,0.237,63
+CUST000240,Decent product. Would consider buying again.,3,0.572,44
+CUST000241,Outstanding product and customer service. Will buy again!,4,0.907,57
+CUST000242,Terrible product quality. Broke after one week. Waste of money.,1,0.008,63
+CUST000243,Standard product. Gets the job done.,3,0.462,36
+CUST000244,Poor quality materials. Fell apart quickly.,2,0.065,43
+CUST000245,The worst purchase I've made. Don't buy this product.,1,0.289,53
+CUST000246,Product is okay. Does what it's supposed to do.,3,0.58,47
+CUST000247,Excellent purchase. Great quality and service!,4,0.948,46
+CUST000248,Terrible product quality. Broke after one week. Waste of money.,2,0.046,63
+CUST000249,It's decent for the price. Could be better.,3,0.46,43
+CUST000250,Very disappointed. Not as described. Poor customer service.,1,0.103,59
+CUST000251,Fair quality. Worth the money.,3,0.559,30
+CUST000252,Fantastic product. Exceeded expectations. 5 stars!,4,0.761,50
+CUST000253,Best purchase I've made. Great value for money.,4,0.808,47
+CUST000254,Terrible product quality. Broke after one week. Waste of money.,2,0.287,63
+CUST000255,Cheaply made and overpriced. Regret buying this.,2,0.004,48
+CUST000256,Best purchase I've made. Great value for money.,5,0.93,47
+CUST000257,Meets basic expectations. No complaints.,3,0.498,40
+CUST000258,Average quality. Nothing special but works fine.,3,0.59,48
+CUST000259,Standard product. Gets the job done.,3,0.586,36
+CUST000260,Poor quality materials. Fell apart quickly.,1,0.192,43
+CUST000261,High quality and great price. Very happy!,5,0.967,41
+CUST000262,Excellent product! Exceeded my expectations. Highly recommend!,4,0.914,62
+CUST000263,Decent product. Would consider buying again.,3,0.555,44
+CUST000264,Cheaply made and overpriced. Regret buying this.,1,0.016,48
+CUST000265,Okay product. Satisfied but not thrilled.,3,0.401,41
+CUST000266,Fair quality. Worth the money.,3,0.454,30
+CUST000267,Not worth the price. Very disappointed.,2,0.273,39
+CUST000268,Excellent product! Exceeded my expectations. Highly recommend!,4,0.825,62
+CUST000269,Excellent purchase. Great quality and service!,4,0.964,46
+CUST000270,Decent product. Would consider buying again.,3,0.459,44
+CUST000271,Excellent purchase. Great quality and service!,4,0.795,46
+CUST000272,Fantastic product. Exceeded expectations. 5 stars!,4,0.786,50
+CUST000273,It's decent for the price. Could be better.,3,0.481,43
+CUST000274,Best purchase I've made. Great value for money.,5,0.932,47
+CUST000275,Fair quality. Worth the money.,3,0.403,30
+CUST000276,Okay product. Satisfied but not thrilled.,3,0.405,41
+CUST000277,It's decent for the price. Could be better.,3,0.495,43
+CUST000278,It's fine. Nothing exceptional.,3,0.527,31
+CUST000279,The worst purchase I've made. Don't buy this product.,1,0.087,53
+CUST000280,Customer service was unhelpful and rude.,2,0.002,40
+CUST000281,Okay product. Satisfied but not thrilled.,3,0.487,41
+CUST000282,It's decent for the price. Could be better.,3,0.57,43
+CUST000283,The worst purchase I've made. Don't buy this product.,1,0.087,53
+CUST000284,Great value and excellent quality. Highly satisfied!,4,0.926,52
+CUST000285,Perfect! Exactly as described. Love it!,4,0.712,39
+CUST000286,High quality and great price. Very happy!,5,0.806,41
+CUST000287,Excellent purchase. Great quality and service!,5,0.761,46
+CUST000288,Meets basic expectations. No complaints.,3,0.571,40
+CUST000289,Not worth the price. Very disappointed.,2,0.054,39
+CUST000290,Okay product. Satisfied but not thrilled.,3,0.597,41
+CUST000291,Perfect! Exactly as described. Love it!,5,0.75,39
+CUST000292,Perfect! Exactly as described. Love it!,5,0.914,39
+CUST000293,Average quality. Nothing special but works fine.,3,0.539,48
+CUST000294,Great value and excellent quality. Highly satisfied!,4,0.749,52
+CUST000295,Not worth the price. Very disappointed.,2,0.008,39
+CUST000296,Okay product. Satisfied but not thrilled.,3,0.501,41
+CUST000297,Arrived damaged and seller refused to help. Avoid!,2,0.119,50
+CUST000298,Meets basic expectations. No complaints.,3,0.574,40
+CUST000299,Excellent purchase. Great quality and service!,4,0.8,46
+CUST000300,Fantastic product. Exceeded expectations. 5 stars!,5,0.8,50
+CUST000301,Wonderful product. Fast delivery. Highly recommend!,4,0.826,51
+CUST000302,Amazing quality and fast shipping. Very satisfied!,4,0.911,50
+CUST000303,High quality and great price. Very happy!,4,0.786,41
+CUST000304,The worst purchase I've made. Don't buy this product.,1,0.187,53
+CUST000305,It's fine. Nothing exceptional.,3,0.522,31
+CUST000306,Poor quality materials. Fell apart quickly.,2,0.032,43
+CUST000307,Excellent purchase. Great quality and service!,5,0.705,46
+CUST000308,Meets basic expectations. No complaints.,3,0.568,40
+CUST000309,Product doesn't work as advertised. Very frustrating.,1,0.225,53
+CUST000310,Okay product. Satisfied but not thrilled.,3,0.448,41
+CUST000311,Terrible product quality. Broke after one week. Waste of money.,2,0.074,63
+CUST000312,It's decent for the price. Could be better.,3,0.509,43
+CUST000313,Arrived damaged and seller refused to help. Avoid!,2,0.021,50
+CUST000314,Fair quality. Worth the money.,3,0.533,30
+CUST000315,The worst purchase I've made. Don't buy this product.,2,0.151,53
+CUST000316,Fair quality. Worth the money.,3,0.432,30
+CUST000317,Terrible product quality. Broke after one week. Waste of money.,2,0.087,63
+CUST000318,Arrived damaged and seller refused to help. Avoid!,1,0.237,50
+CUST000319,The worst purchase I've made. Don't buy this product.,1,0.258,53
+CUST000320,Product doesn't work as advertised. Very frustrating.,1,0.225,53
+CUST000321,Cheaply made and overpriced. Regret buying this.,1,0.035,48
+CUST000322,Amazing quality and fast shipping. Very satisfied!,5,0.706,50
+CUST000323,Excellent purchase. Great quality and service!,4,0.882,46
+CUST000324,Best purchase I've made. Great value for money.,4,0.829,47
+CUST000325,Fair quality. Worth the money.,3,0.482,30
+CUST000326,Decent product. Would consider buying again.,3,0.423,44
+CUST000327,Decent product. Would consider buying again.,3,0.404,44
+CUST000328,Perfect! Exactly as described. Love it!,5,0.907,39
+CUST000329,Not worth the price. Very disappointed.,2,0.146,39
+CUST000330,Outstanding product and customer service. Will buy again!,5,0.963,57
+CUST000331,Great value and excellent quality. Highly satisfied!,4,0.721,52
+CUST000332,Meets basic expectations. No complaints.,3,0.531,40
+CUST000333,Decent product. Would consider buying again.,3,0.555,44
+CUST000334,Meets basic expectations. No complaints.,3,0.55,40
+CUST000335,Fair quality. Worth the money.,3,0.439,30
+CUST000336,Excellent purchase. Great quality and service!,4,0.896,46
+CUST000337,Low quality and expensive. Would not recommend.,2,0.215,47
+CUST000338,Meets basic expectations. No complaints.,3,0.485,40
+CUST000339,High quality and great price. Very happy!,4,0.782,41
+CUST000340,The worst purchase I've made. Don't buy this product.,1,0.191,53
+CUST000341,Very disappointed. Not as described. Poor customer service.,2,0.179,59
+CUST000342,It's decent for the price. Could be better.,3,0.556,43
+CUST000343,Terrible product quality. Broke after one week. Waste of money.,1,0.078,63
+CUST000344,Wonderful product. Fast delivery. Highly recommend!,5,0.9,51
+CUST000345,Wonderful product. Fast delivery. Highly recommend!,5,0.873,51
+CUST000346,The worst purchase I've made. Don't buy this product.,2,0.299,53
+CUST000347,Standard product. Gets the job done.,3,0.535,36
+CUST000348,Fantastic product. Exceeded expectations. 5 stars!,4,0.88,50
+CUST000349,Outstanding product and customer service. Will buy again!,5,0.934,57
+CUST000350,Very disappointed. Not as described. Poor customer service.,1,0.241,59
+CUST000351,Great value and excellent quality. Highly satisfied!,4,0.976,52
+CUST000352,Average purchase. No major issues.,3,0.485,34
+CUST000353,Low quality and expensive. Would not recommend.,2,0.241,47
+CUST000354,It's decent for the price. Could be better.,3,0.412,43
+CUST000355,Arrived damaged and seller refused to help. Avoid!,2,0.245,50
+CUST000356,Low quality and expensive. Would not recommend.,2,0.03,47
+CUST000357,Amazing quality and fast shipping. Very satisfied!,4,0.807,50
+CUST000358,Excellent purchase. Great quality and service!,4,0.746,46
+CUST000359,Outstanding product and customer service. Will buy again!,5,0.997,57
+CUST000360,Terrible product quality. Broke after one week. Waste of money.,1,0.147,63
+CUST000361,Terrible product quality. Broke after one week. Waste of money.,2,0.251,63
+CUST000362,Cheaply made and overpriced. Regret buying this.,2,0.059,48
+CUST000363,Amazing quality and fast shipping. Very satisfied!,4,0.726,50
+CUST000364,Excellent purchase. Great quality and service!,5,0.962,46
+CUST000365,Amazing quality and fast shipping. Very satisfied!,4,0.973,50
+CUST000366,Great value and excellent quality. Highly satisfied!,5,1.0,52
+CUST000367,Cheaply made and overpriced. Regret buying this.,1,0.051,48
+CUST000368,Excellent purchase. Great quality and service!,4,0.71,46
+CUST000369,Decent product. Would consider buying again.,3,0.49,44
+CUST000370,High quality and great price. Very happy!,5,0.965,41
+CUST000371,Average purchase. No major issues.,3,0.462,34
+CUST000372,Average purchase. No major issues.,3,0.437,34
+CUST000373,Meets basic expectations. No complaints.,3,0.418,40
+CUST000374,Low quality and expensive. Would not recommend.,2,0.141,47
+CUST000375,Meets basic expectations. No complaints.,3,0.563,40
+CUST000376,The worst purchase I've made. Don't buy this product.,2,0.265,53
+CUST000377,Poor quality materials. Fell apart quickly.,1,0.249,43
+CUST000378,It's decent for the price. Could be better.,3,0.46,43
+CUST000379,Fantastic product. Exceeded expectations. 5 stars!,4,0.981,50
+CUST000380,Decent product. Would consider buying again.,3,0.516,44
+CUST000381,Average quality. Nothing special but works fine.,3,0.466,48
+CUST000382,Terrible product quality. Broke after one week. Waste of money.,2,0.066,63
+CUST000383,Customer service was unhelpful and rude.,2,0.036,40
+CUST000384,Customer service was unhelpful and rude.,1,0.122,40
+CUST000385,Meets basic expectations. No complaints.,3,0.512,40
+CUST000386,Perfect! Exactly as described. Love it!,5,0.865,39
+CUST000387,It's fine. Nothing exceptional.,3,0.451,31
+CUST000388,Fantastic product. Exceeded expectations. 5 stars!,4,0.755,50
+CUST000389,Arrived damaged and seller refused to help. Avoid!,1,0.219,50
+CUST000390,Meets basic expectations. No complaints.,3,0.506,40
+CUST000391,Okay product. Satisfied but not thrilled.,3,0.476,41
+CUST000392,Cheaply made and overpriced. Regret buying this.,2,0.093,48
+CUST000393,Decent product. Would consider buying again.,3,0.479,44
+CUST000394,Perfect! Exactly as described. Love it!,5,0.865,39
+CUST000395,Fantastic product. Exceeded expectations. 5 stars!,5,0.961,50
+CUST000396,Terrible product quality. Broke after one week. Waste of money.,1,0.08,63
+CUST000397,The worst purchase I've made. Don't buy this product.,2,0.017,53
+CUST000398,Standard product. Gets the job done.,3,0.448,36
+CUST000399,Outstanding product and customer service. Will buy again!,5,0.998,57
+CUST000400,Terrible product quality. Broke after one week. Waste of money.,1,0.087,63
+CUST000401,Okay product. Satisfied but not thrilled.,3,0.513,41
+CUST000402,Outstanding product and customer service. Will buy again!,4,0.705,57
+CUST000403,Product doesn't work as advertised. Very frustrating.,2,0.076,53
+CUST000404,Okay product. Satisfied but not thrilled.,3,0.521,41
+CUST000405,Fantastic product. Exceeded expectations. 5 stars!,4,0.768,50
+CUST000406,Meets basic expectations. No complaints.,3,0.549,40
+CUST000407,Terrible product quality. Broke after one week. Waste of money.,1,0.013,63
+CUST000408,Cheaply made and overpriced. Regret buying this.,1,0.279,48
+CUST000409,Average quality. Nothing special but works fine.,3,0.533,48
+CUST000410,Low quality and expensive. Would not recommend.,2,0.15,47
+CUST000411,Very disappointed. Not as described. Poor customer service.,1,0.214,59
+CUST000412,Excellent purchase. Great quality and service!,5,0.7,46
+CUST000413,Best purchase I've made. Great value for money.,4,0.87,47
+CUST000414,Best purchase I've made. Great value for money.,5,0.785,47
+CUST000415,Average quality. Nothing special but works fine.,3,0.439,48
+CUST000416,Fair quality. Worth the money.,3,0.564,30
+CUST000417,Low quality and expensive. Would not recommend.,2,0.184,47
+CUST000418,Average purchase. No major issues.,3,0.528,34
+CUST000419,Best purchase I've made. Great value for money.,5,0.836,47
+CUST000420,Product doesn't work as advertised. Very frustrating.,1,0.036,53
+CUST000421,Outstanding product and customer service. Will buy again!,5,0.852,57
+CUST000422,Low quality and expensive. Would not recommend.,1,0.136,47
+CUST000423,Wonderful product. Fast delivery. Highly recommend!,5,0.843,51
+CUST000424,Average quality. Nothing special but works fine.,3,0.468,48
+CUST000425,Meets basic expectations. No complaints.,3,0.412,40
+CUST000426,It's fine. Nothing exceptional.,3,0.561,31
+CUST000427,Low quality and expensive. Would not recommend.,1,0.089,47
+CUST000428,Wonderful product. Fast delivery. Highly recommend!,5,0.982,51
+CUST000429,Arrived damaged and seller refused to help. Avoid!,1,0.024,50
+CUST000430,Standard product. Gets the job done.,3,0.575,36
+CUST000431,It's fine. Nothing exceptional.,3,0.587,31
+CUST000432,Not worth the price. Very disappointed.,1,0.285,39
+CUST000433,Standard product. Gets the job done.,3,0.443,36
+CUST000434,Decent product. Would consider buying again.,3,0.526,44
+CUST000435,It's decent for the price. Could be better.,3,0.592,43
+CUST000436,Great value and excellent quality. Highly satisfied!,4,0.9,52
+CUST000437,Meets basic expectations. No complaints.,3,0.497,40
+CUST000438,Average purchase. No major issues.,3,0.414,34
+CUST000439,Customer service was unhelpful and rude.,2,0.038,40
+CUST000440,Poor quality materials. Fell apart quickly.,1,0.107,43
+CUST000441,Arrived damaged and seller refused to help. Avoid!,1,0.147,50
+CUST000442,Fair quality. Worth the money.,3,0.479,30
+CUST000443,Product doesn't work as advertised. Very frustrating.,1,0.164,53
+CUST000444,Cheaply made and overpriced. Regret buying this.,1,0.084,48
+CUST000445,Wonderful product. Fast delivery. Highly recommend!,5,0.919,51
+CUST000446,Best purchase I've made. Great value for money.,4,0.718,47
+CUST000447,Fantastic product. Exceeded expectations. 5 stars!,4,0.923,50
+CUST000448,Perfect! Exactly as described. Love it!,4,0.939,39
+CUST000449,Excellent purchase. Great quality and service!,4,0.707,46
+CUST000450,Not worth the price. Very disappointed.,1,0.188,39
+CUST000451,Excellent product! Exceeded my expectations. Highly recommend!,4,0.829,62
+CUST000452,Meets basic expectations. No complaints.,3,0.436,40
+CUST000453,Average quality. Nothing special but works fine.,3,0.461,48
+CUST000454,Perfect! Exactly as described. Love it!,4,0.785,39
+CUST000455,Customer service was unhelpful and rude.,2,0.006,40
+CUST000456,Fantastic product. Exceeded expectations. 5 stars!,4,0.958,50
+CUST000457,Customer service was unhelpful and rude.,1,0.227,40
+CUST000458,Product doesn't work as advertised. Very frustrating.,1,0.063,53
+CUST000459,Product doesn't work as advertised. Very frustrating.,1,0.219,53
+CUST000460,Perfect! Exactly as described. Love it!,4,0.894,39
+CUST000461,Terrible product quality. Broke after one week. Waste of money.,2,0.081,63
+CUST000462,The worst purchase I've made. Don't buy this product.,1,0.111,53
+CUST000463,Excellent product! Exceeded my expectations. Highly recommend!,5,0.733,62
+CUST000464,The worst purchase I've made. Don't buy this product.,1,0.229,53
+CUST000465,Low quality and expensive. Would not recommend.,2,0.15,47
+CUST000466,It's decent for the price. Could be better.,3,0.572,43
+CUST000467,Perfect! Exactly as described. Love it!,4,0.794,39
+CUST000468,Product is okay. Does what it's supposed to do.,3,0.57,47
+CUST000469,Product doesn't work as advertised. Very frustrating.,1,0.249,53
+CUST000470,Product is okay. Does what it's supposed to do.,3,0.423,47
+CUST000471,Arrived damaged and seller refused to help. Avoid!,1,0.075,50
+CUST000472,Meets basic expectations. No complaints.,3,0.576,40
+CUST000473,Excellent product! Exceeded my expectations. Highly recommend!,5,0.72,62
+CUST000474,Fair quality. Worth the money.,3,0.524,30
+CUST000475,Product doesn't work as advertised. Very frustrating.,2,0.153,53
+CUST000476,Okay product. Satisfied but not thrilled.,3,0.45,41
+CUST000477,Product doesn't work as advertised. Very frustrating.,2,0.029,53
+CUST000478,Average quality. Nothing special but works fine.,3,0.475,48
+CUST000479,Standard product. Gets the job done.,3,0.591,36
+CUST000480,Product doesn't work as advertised. Very frustrating.,1,0.096,53
+CUST000481,Customer service was unhelpful and rude.,1,0.021,40
+CUST000482,It's decent for the price. Could be better.,3,0.434,43
+CUST000483,Low quality and expensive. Would not recommend.,1,0.026,47
+CUST000484,Okay product. Satisfied but not thrilled.,3,0.476,41
+CUST000485,Great value and excellent quality. Highly satisfied!,5,0.758,52
+CUST000486,Excellent product! Exceeded my expectations. Highly recommend!,5,0.907,62
+CUST000487,Great value and excellent quality. Highly satisfied!,5,0.749,52
+CUST000488,Average purchase. No major issues.,3,0.583,34
+CUST000489,Product doesn't work as advertised. Very frustrating.,2,0.102,53
+CUST000490,Standard product. Gets the job done.,3,0.584,36
+CUST000491,Low quality and expensive. Would not recommend.,1,0.133,47
+CUST000492,Very disappointed. Not as described. Poor customer service.,1,0.244,59
+CUST000493,Wonderful product. Fast delivery. Highly recommend!,4,0.715,51
+CUST000494,Great value and excellent quality. Highly satisfied!,5,0.89,52
+CUST000495,The worst purchase I've made. Don't buy this product.,1,0.225,53
+CUST000496,It's decent for the price. Could be better.,3,0.58,43
+CUST000497,Perfect! Exactly as described. Love it!,4,0.746,39
+CUST000498,Meets basic expectations. No complaints.,3,0.579,40
+CUST000499,Okay product. Satisfied but not thrilled.,3,0.486,41
+CUST000500,Terrible product quality. Broke after one week. Waste of money.,2,0.191,63
+CUST000501,Product is okay. Does what it's supposed to do.,3,0.544,47
+CUST000502,Outstanding product and customer service. Will buy again!,4,0.991,57
+CUST000503,The worst purchase I've made. Don't buy this product.,1,0.178,53
+CUST000504,Customer service was unhelpful and rude.,1,0.156,40
+CUST000505,Cheaply made and overpriced. Regret buying this.,1,0.025,48
+CUST000506,Average quality. Nothing special but works fine.,3,0.402,48
+CUST000507,It's fine. Nothing exceptional.,3,0.417,31
+CUST000508,Very disappointed. Not as described. Poor customer service.,2,0.129,59
+CUST000509,Great value and excellent quality. Highly satisfied!,5,0.712,52
+CUST000510,Poor quality materials. Fell apart quickly.,1,0.1,43
+CUST000511,Decent product. Would consider buying again.,3,0.526,44
+CUST000512,Wonderful product. Fast delivery. Highly recommend!,5,0.775,51
+CUST000513,Excellent purchase. Great quality and service!,5,0.98,46
+CUST000514,Poor quality materials. Fell apart quickly.,1,0.27,43
+CUST000515,Meets basic expectations. No complaints.,3,0.552,40
+CUST000516,It's decent for the price. Could be better.,3,0.597,43
+CUST000517,Cheaply made and overpriced. Regret buying this.,1,0.17,48
+CUST000518,Amazing quality and fast shipping. Very satisfied!,5,0.91,50
+CUST000519,Fair quality. Worth the money.,3,0.413,30
+CUST000520,Perfect! Exactly as described. Love it!,5,0.754,39
+CUST000521,Terrible product quality. Broke after one week. Waste of money.,2,0.182,63
+CUST000522,Decent product. Would consider buying again.,3,0.52,44
+CUST000523,Fantastic product. Exceeded expectations. 5 stars!,4,0.898,50
+CUST000524,Wonderful product. Fast delivery. Highly recommend!,4,0.875,51
+CUST000525,Excellent product! Exceeded my expectations. Highly recommend!,4,0.99,62
+CUST000526,Fantastic product. Exceeded expectations. 5 stars!,5,0.948,50
+CUST000527,Wonderful product. Fast delivery. Highly recommend!,5,0.841,51
+CUST000528,Wonderful product. Fast delivery. Highly recommend!,5,0.8,51
+CUST000529,Great value and excellent quality. Highly satisfied!,4,0.755,52
+CUST000530,Perfect! Exactly as described. Love it!,4,0.703,39
+CUST000531,Outstanding product and customer service. Will buy again!,5,0.968,57
+CUST000532,Not worth the price. Very disappointed.,2,0.289,39
+CUST000533,Standard product. Gets the job done.,3,0.463,36
+CUST000534,Okay product. Satisfied but not thrilled.,3,0.599,41
+CUST000535,Not worth the price. Very disappointed.,2,0.122,39
+CUST000536,Arrived damaged and seller refused to help. Avoid!,2,0.068,50
+CUST000537,Average purchase. No major issues.,3,0.474,34
+CUST000538,Customer service was unhelpful and rude.,2,0.235,40
+CUST000539,High quality and great price. Very happy!,4,0.99,41
+CUST000540,It's decent for the price. Could be better.,3,0.517,43
+CUST000541,Poor quality materials. Fell apart quickly.,1,0.137,43
+CUST000542,Poor quality materials. Fell apart quickly.,1,0.133,43
+CUST000543,Cheaply made and overpriced. Regret buying this.,2,0.095,48
+CUST000544,Meets basic expectations. No complaints.,3,0.591,40
+CUST000545,Low quality and expensive. Would not recommend.,2,0.072,47
+CUST000546,Meets basic expectations. No complaints.,3,0.501,40
+CUST000547,Outstanding product and customer service. Will buy again!,5,0.91,57
+CUST000548,Terrible product quality. Broke after one week. Waste of money.,1,0.088,63
+CUST000549,Excellent product! Exceeded my expectations. Highly recommend!,5,0.926,62
+CUST000550,Terrible product quality. Broke after one week. Waste of money.,1,0.19,63
+CUST000551,Fair quality. Worth the money.,3,0.498,30
+CUST000552,Product is okay. Does what it's supposed to do.,3,0.493,47
+CUST000553,Not worth the price. Very disappointed.,1,0.23,39
+CUST000554,Very disappointed. Not as described. Poor customer service.,1,0.173,59
+CUST000555,Excellent product! Exceeded my expectations. Highly recommend!,4,0.724,62
+CUST000556,The worst purchase I've made. Don't buy this product.,2,0.04,53
+CUST000557,Amazing quality and fast shipping. Very satisfied!,4,0.948,50
+CUST000558,Product doesn't work as advertised. Very frustrating.,2,0.116,53
+CUST000559,Not worth the price. Very disappointed.,1,0.213,39
+CUST000560,Low quality and expensive. Would not recommend.,2,0.299,47
+CUST000561,Fantastic product. Exceeded expectations. 5 stars!,5,0.897,50
+CUST000562,Low quality and expensive. Would not recommend.,2,0.015,47
+CUST000563,Excellent purchase. Great quality and service!,4,0.764,46
+CUST000564,Arrived damaged and seller refused to help. Avoid!,1,0.274,50
+CUST000565,Not worth the price. Very disappointed.,2,0.093,39
+CUST000566,Best purchase I've made. Great value for money.,5,0.788,47
+CUST000567,Terrible product quality. Broke after one week. Waste of money.,2,0.08,63
+CUST000568,Product doesn't work as advertised. Very frustrating.,1,0.09,53
+CUST000569,The worst purchase I've made. Don't buy this product.,2,0.043,53
+CUST000570,Fair quality. Worth the money.,3,0.537,30
+CUST000571,Customer service was unhelpful and rude.,1,0.171,40
+CUST000572,Okay product. Satisfied but not thrilled.,3,0.596,41
+CUST000573,The worst purchase I've made. Don't buy this product.,1,0.115,53
+CUST000574,Customer service was unhelpful and rude.,2,0.093,40
+CUST000575,Arrived damaged and seller refused to help. Avoid!,2,0.02,50
+CUST000576,Outstanding product and customer service. Will buy again!,4,0.916,57
+CUST000577,The worst purchase I've made. Don't buy this product.,2,0.044,53
+CUST000578,Excellent purchase. Great quality and service!,4,0.732,46
+CUST000579,Poor quality materials. Fell apart quickly.,1,0.275,43
+CUST000580,Cheaply made and overpriced. Regret buying this.,1,0.027,48
+CUST000581,High quality and great price. Very happy!,4,0.834,41
+CUST000582,Great value and excellent quality. Highly satisfied!,4,0.83,52
+CUST000583,Best purchase I've made. Great value for money.,5,0.705,47
+CUST000584,Average purchase. No major issues.,3,0.501,34
+CUST000585,Fantastic product. Exceeded expectations. 5 stars!,4,0.855,50
+CUST000586,It's decent for the price. Could be better.,3,0.447,43
+CUST000587,Standard product. Gets the job done.,3,0.447,36
+CUST000588,Meets basic expectations. No complaints.,3,0.534,40
+CUST000589,Arrived damaged and seller refused to help. Avoid!,1,0.188,50
+CUST000590,Perfect! Exactly as described. Love it!,4,0.887,39
+CUST000591,It's fine. Nothing exceptional.,3,0.417,31
+CUST000592,Outstanding product and customer service. Will buy again!,5,0.902,57
+CUST000593,Customer service was unhelpful and rude.,1,0.296,40
+CUST000594,Fantastic product. Exceeded expectations. 5 stars!,5,0.77,50
+CUST000595,Great value and excellent quality. Highly satisfied!,4,0.887,52
+CUST000596,Very disappointed. Not as described. Poor customer service.,2,0.243,59
+CUST000597,Low quality and expensive. Would not recommend.,2,0.232,47
+CUST000598,Excellent product! Exceeded my expectations. Highly recommend!,4,0.986,62
+CUST000599,Meets basic expectations. No complaints.,3,0.553,40
+CUST000600,Customer service was unhelpful and rude.,2,0.052,40
+CUST000601,Arrived damaged and seller refused to help. Avoid!,2,0.289,50
+CUST000602,Low quality and expensive. Would not recommend.,2,0.076,47
+CUST000603,Perfect! Exactly as described. Love it!,4,0.73,39
+CUST000604,Fantastic product. Exceeded expectations. 5 stars!,5,0.962,50
+CUST000605,Poor quality materials. Fell apart quickly.,2,0.228,43
+CUST000606,Product doesn't work as advertised. Very frustrating.,2,0.29,53
+CUST000607,Wonderful product. Fast delivery. Highly recommend!,4,0.923,51
+CUST000608,Best purchase I've made. Great value for money.,5,0.972,47
+CUST000609,Product doesn't work as advertised. Very frustrating.,2,0.085,53
+CUST000610,Poor quality materials. Fell apart quickly.,2,0.023,43
+CUST000611,Meets basic expectations. No complaints.,3,0.472,40
+CUST000612,Perfect! Exactly as described. Love it!,5,0.984,39
+CUST000613,Excellent purchase. Great quality and service!,4,0.719,46
+CUST000614,Okay product. Satisfied but not thrilled.,3,0.474,41
+CUST000615,Low quality and expensive. Would not recommend.,1,0.043,47
+CUST000616,Best purchase I've made. Great value for money.,5,0.796,47
+CUST000617,Best purchase I've made. Great value for money.,5,0.805,47
+CUST000618,Meets basic expectations. No complaints.,3,0.473,40
+CUST000619,Meets basic expectations. No complaints.,3,0.435,40
+CUST000620,Poor quality materials. Fell apart quickly.,2,0.195,43
+CUST000621,Customer service was unhelpful and rude.,2,0.182,40
+CUST000622,Cheaply made and overpriced. Regret buying this.,2,0.052,48
+CUST000623,Okay product. Satisfied but not thrilled.,3,0.443,41
+CUST000624,Product doesn't work as advertised. Very frustrating.,1,0.196,53
+CUST000625,Standard product. Gets the job done.,3,0.543,36
+CUST000626,Low quality and expensive. Would not recommend.,2,0.13,47
+CUST000627,Fair quality. Worth the money.,3,0.464,30
+CUST000628,Fair quality. Worth the money.,3,0.556,30
+CUST000629,Low quality and expensive. Would not recommend.,2,0.157,47
+CUST000630,Terrible product quality. Broke after one week. Waste of money.,2,0.28,63
+CUST000631,It's fine. Nothing exceptional.,3,0.439,31
+CUST000632,It's decent for the price. Could be better.,3,0.543,43
+CUST000633,Great value and excellent quality. Highly satisfied!,5,0.947,52
+CUST000634,Great value and excellent quality. Highly satisfied!,4,0.855,52
+CUST000635,Arrived damaged and seller refused to help. Avoid!,2,0.202,50
+CUST000636,Amazing quality and fast shipping. Very satisfied!,4,0.875,50
+CUST000637,Fantastic product. Exceeded expectations. 5 stars!,5,0.974,50
+CUST000638,Best purchase I've made. Great value for money.,5,0.824,47
+CUST000639,Amazing quality and fast shipping. Very satisfied!,4,0.957,50
+CUST000640,Customer service was unhelpful and rude.,2,0.282,40
+CUST000641,Terrible product quality. Broke after one week. Waste of money.,1,0.119,63
+CUST000642,Terrible product quality. Broke after one week. Waste of money.,2,0.275,63
+CUST000643,Fair quality. Worth the money.,3,0.452,30
+CUST000644,Arrived damaged and seller refused to help. Avoid!,2,0.282,50
+CUST000645,Excellent purchase. Great quality and service!,5,0.706,46
+CUST000646,Perfect! Exactly as described. Love it!,5,0.757,39
+CUST000647,It's fine. Nothing exceptional.,3,0.537,31
+CUST000648,Excellent purchase. Great quality and service!,5,0.735,46
+CUST000649,Decent product. Would consider buying again.,3,0.496,44
+CUST000650,Meets basic expectations. No complaints.,3,0.46,40
+CUST000651,It's fine. Nothing exceptional.,3,0.556,31
+CUST000652,Average purchase. No major issues.,3,0.447,34
+CUST000653,Not worth the price. Very disappointed.,1,0.047,39
+CUST000654,Terrible product quality. Broke after one week. Waste of money.,2,0.056,63
+CUST000655,Low quality and expensive. Would not recommend.,2,0.27,47
+CUST000656,Low quality and expensive. Would not recommend.,1,0.266,47
+CUST000657,Average quality. Nothing special but works fine.,3,0.561,48
+CUST000658,Great value and excellent quality. Highly satisfied!,4,0.716,52
+CUST000659,Standard product. Gets the job done.,3,0.401,36
+CUST000660,Average quality. Nothing special but works fine.,3,0.454,48
+CUST000661,Excellent product! Exceeded my expectations. Highly recommend!,5,0.776,62
+CUST000662,Meets basic expectations. No complaints.,3,0.561,40
+CUST000663,Arrived damaged and seller refused to help. Avoid!,1,0.229,50
+CUST000664,Standard product. Gets the job done.,3,0.545,36
+CUST000665,Excellent purchase. Great quality and service!,4,0.862,46
+CUST000666,It's fine. Nothing exceptional.,3,0.54,31
+CUST000667,Terrible product quality. Broke after one week. Waste of money.,1,0.157,63
+CUST000668,Outstanding product and customer service. Will buy again!,4,0.938,57
+CUST000669,Best purchase I've made. Great value for money.,5,0.959,47
+CUST000670,Very disappointed. Not as described. Poor customer service.,2,0.089,59
+CUST000671,Perfect! Exactly as described. Love it!,5,0.927,39
+CUST000672,Product doesn't work as advertised. Very frustrating.,1,0.224,53
+CUST000673,Meets basic expectations. No complaints.,3,0.446,40
+CUST000674,Average quality. Nothing special but works fine.,3,0.488,48
+CUST000675,Product is okay. Does what it's supposed to do.,3,0.418,47
+CUST000676,Very disappointed. Not as described. Poor customer service.,2,0.242,59
+CUST000677,Product doesn't work as advertised. Very frustrating.,1,0.103,53
+CUST000678,Perfect! Exactly as described. Love it!,5,0.716,39
+CUST000679,Terrible product quality. Broke after one week. Waste of money.,2,0.242,63
+CUST000680,High quality and great price. Very happy!,4,0.794,41
+CUST000681,Very disappointed. Not as described. Poor customer service.,2,0.24,59
+CUST000682,Fantastic product. Exceeded expectations. 5 stars!,4,0.856,50
+CUST000683,Amazing quality and fast shipping. Very satisfied!,5,0.722,50
+CUST000684,Okay product. Satisfied but not thrilled.,3,0.465,41
+CUST000685,Average quality. Nothing special but works fine.,3,0.527,48
+CUST000686,Fair quality. Worth the money.,3,0.417,30
+CUST000687,Customer service was unhelpful and rude.,2,0.13,40
+CUST000688,Fair quality. Worth the money.,3,0.453,30
+CUST000689,Product doesn't work as advertised. Very frustrating.,2,0.28,53
+CUST000690,It's decent for the price. Could be better.,3,0.477,43
+CUST000691,Not worth the price. Very disappointed.,2,0.016,39
+CUST000692,Product doesn't work as advertised. Very frustrating.,2,0.145,53
+CUST000693,High quality and great price. Very happy!,4,0.712,41
+CUST000694,High quality and great price. Very happy!,4,0.739,41
+CUST000695,Average quality. Nothing special but works fine.,3,0.573,48
+CUST000696,Not worth the price. Very disappointed.,1,0.069,39
+CUST000697,Outstanding product and customer service. Will buy again!,4,0.808,57
+CUST000698,Product doesn't work as advertised. Very frustrating.,1,0.287,53
+CUST000699,Best purchase I've made. Great value for money.,5,0.809,47
+CUST000700,Excellent product! Exceeded my expectations. Highly recommend!,4,0.709,62
+CUST000701,Meets basic expectations. No complaints.,3,0.524,40
+CUST000702,Customer service was unhelpful and rude.,2,0.0,40
+CUST000703,Okay product. Satisfied but not thrilled.,3,0.533,41
+CUST000704,Amazing quality and fast shipping. Very satisfied!,5,0.755,50
+CUST000705,Excellent purchase. Great quality and service!,4,0.706,46
+CUST000706,Excellent product! Exceeded my expectations. Highly recommend!,4,0.878,62
+CUST000707,It's decent for the price. Could be better.,3,0.413,43
+CUST000708,Cheaply made and overpriced. Regret buying this.,2,0.057,48
+CUST000709,Wonderful product. Fast delivery. Highly recommend!,4,0.984,51
+CUST000710,High quality and great price. Very happy!,5,0.922,41
+CUST000711,Product doesn't work as advertised. Very frustrating.,2,0.137,53
+CUST000712,Average quality. Nothing special but works fine.,3,0.55,48
+CUST000713,Very disappointed. Not as described. Poor customer service.,2,0.277,59
+CUST000714,Excellent purchase. Great quality and service!,5,0.846,46
+CUST000715,Fair quality. Worth the money.,3,0.589,30
+CUST000716,Product doesn't work as advertised. Very frustrating.,2,0.051,53
+CUST000717,Best purchase I've made. Great value for money.,4,0.992,47
+CUST000718,Cheaply made and overpriced. Regret buying this.,2,0.13,48
+CUST000719,Fair quality. Worth the money.,3,0.562,30
+CUST000720,Average purchase. No major issues.,3,0.51,34
+CUST000721,It's fine. Nothing exceptional.,3,0.405,31
+CUST000722,Okay product. Satisfied but not thrilled.,3,0.419,41
+CUST000723,Low quality and expensive. Would not recommend.,1,0.187,47
+CUST000724,Customer service was unhelpful and rude.,1,0.148,40
+CUST000725,Terrible product quality. Broke after one week. Waste of money.,2,0.192,63
+CUST000726,High quality and great price. Very happy!,4,0.966,41
+CUST000727,Product doesn't work as advertised. Very frustrating.,2,0.297,53
+CUST000728,Arrived damaged and seller refused to help. Avoid!,2,0.058,50
+CUST000729,Poor quality materials. Fell apart quickly.,2,0.07,43
+CUST000730,Fantastic product. Exceeded expectations. 5 stars!,5,0.847,50
+CUST000731,Product doesn't work as advertised. Very frustrating.,2,0.013,53
+CUST000732,Amazing quality and fast shipping. Very satisfied!,5,0.836,50
+CUST000733,Best purchase I've made. Great value for money.,5,0.724,47
+CUST000734,Cheaply made and overpriced. Regret buying this.,2,0.168,48
+CUST000735,Okay product. Satisfied but not thrilled.,3,0.507,41
+CUST000736,Average purchase. No major issues.,3,0.538,34
+CUST000737,Standard product. Gets the job done.,3,0.509,36
+CUST000738,Customer service was unhelpful and rude.,1,0.125,40
+CUST000739,Great value and excellent quality. Highly satisfied!,4,0.838,52
+CUST000740,The worst purchase I've made. Don't buy this product.,1,0.023,53
+CUST000741,Fair quality. Worth the money.,3,0.451,30
+CUST000742,Fair quality. Worth the money.,3,0.428,30
+CUST000743,Average quality. Nothing special but works fine.,3,0.592,48
+CUST000744,High quality and great price. Very happy!,4,0.95,41
+CUST000745,Amazing quality and fast shipping. Very satisfied!,5,0.772,50
+CUST000746,It's fine. Nothing exceptional.,3,0.523,31
+CUST000747,Not worth the price. Very disappointed.,2,0.036,39
+CUST000748,Amazing quality and fast shipping. Very satisfied!,4,0.818,50
+CUST000749,Standard product. Gets the job done.,3,0.482,36
+CUST000750,Great value and excellent quality. Highly satisfied!,5,0.852,52
+CUST000751,Wonderful product. Fast delivery. Highly recommend!,4,0.916,51
+CUST000752,Decent product. Would consider buying again.,3,0.434,44
+CUST000753,Decent product. Would consider buying again.,3,0.479,44
+CUST000754,Wonderful product. Fast delivery. Highly recommend!,5,0.722,51
+CUST000755,The worst purchase I've made. Don't buy this product.,1,0.297,53
+CUST000756,The worst purchase I've made. Don't buy this product.,1,0.201,53
+CUST000757,Cheaply made and overpriced. Regret buying this.,1,0.054,48
+CUST000758,Low quality and expensive. Would not recommend.,2,0.131,47
+CUST000759,Meets basic expectations. No complaints.,3,0.538,40
+CUST000760,Meets basic expectations. No complaints.,3,0.521,40
+CUST000761,Cheaply made and overpriced. Regret buying this.,2,0.187,48
+CUST000762,Meets basic expectations. No complaints.,3,0.453,40
+CUST000763,Terrible product quality. Broke after one week. Waste of money.,1,0.044,63
+CUST000764,Excellent purchase. Great quality and service!,5,0.886,46
+CUST000765,Excellent product! Exceeded my expectations. Highly recommend!,4,0.908,62
+CUST000766,Product is okay. Does what it's supposed to do.,3,0.512,47
+CUST000767,High quality and great price. Very happy!,5,0.989,41
+CUST000768,Arrived damaged and seller refused to help. Avoid!,1,0.23,50
+CUST000769,Fair quality. Worth the money.,3,0.568,30
+CUST000770,Poor quality materials. Fell apart quickly.,2,0.203,43
+CUST000771,Okay product. Satisfied but not thrilled.,3,0.455,41
+CUST000772,Very disappointed. Not as described. Poor customer service.,1,0.279,59
+CUST000773,It's fine. Nothing exceptional.,3,0.562,31
+CUST000774,Not worth the price. Very disappointed.,2,0.09,39
+CUST000775,Wonderful product. Fast delivery. Highly recommend!,4,0.899,51
+CUST000776,The worst purchase I've made. Don't buy this product.,2,0.225,53
+CUST000777,Cheaply made and overpriced. Regret buying this.,2,0.214,48
+CUST000778,Poor quality materials. Fell apart quickly.,2,0.216,43
+CUST000779,Low quality and expensive. Would not recommend.,1,0.155,47
+CUST000780,Customer service was unhelpful and rude.,2,0.277,40
+CUST000781,Very disappointed. Not as described. Poor customer service.,1,0.066,59
+CUST000782,Okay product. Satisfied but not thrilled.,3,0.4,41
+CUST000783,Fantastic product. Exceeded expectations. 5 stars!,4,0.982,50
+CUST000784,Perfect! Exactly as described. Love it!,5,0.957,39
+CUST000785,Average purchase. No major issues.,3,0.575,34
+CUST000786,Product is okay. Does what it's supposed to do.,3,0.574,47
+CUST000787,Excellent product! Exceeded my expectations. Highly recommend!,4,0.884,62
+CUST000788,Outstanding product and customer service. Will buy again!,4,0.789,57
+CUST000789,Customer service was unhelpful and rude.,2,0.059,40
+CUST000790,Average purchase. No major issues.,3,0.565,34
+CUST000791,Product is okay. Does what it's supposed to do.,3,0.48,47
+CUST000792,High quality and great price. Very happy!,5,0.914,41
+CUST000793,Perfect! Exactly as described. Love it!,5,0.843,39
+CUST000794,The worst purchase I've made. Don't buy this product.,1,0.049,53
+CUST000795,Perfect! Exactly as described. Love it!,4,0.859,39
+CUST000796,Excellent product! Exceeded my expectations. Highly recommend!,4,0.709,62
+CUST000797,Not worth the price. Very disappointed.,2,0.227,39
+CUST000798,Arrived damaged and seller refused to help. Avoid!,2,0.066,50
+CUST000799,Product is okay. Does what it's supposed to do.,3,0.446,47
+CUST000800,Fair quality. Worth the money.,3,0.451,30
+CUST000801,Best purchase I've made. Great value for money.,4,0.932,47
+CUST000802,Fantastic product. Exceeded expectations. 5 stars!,4,0.953,50
+CUST000803,Best purchase I've made. Great value for money.,5,0.733,47
+CUST000804,Poor quality materials. Fell apart quickly.,2,0.292,43
+CUST000805,High quality and great price. Very happy!,4,0.77,41
+CUST000806,Poor quality materials. Fell apart quickly.,2,0.051,43
+CUST000807,Fantastic product. Exceeded expectations. 5 stars!,5,0.906,50
+CUST000808,It's fine. Nothing exceptional.,3,0.428,31
+CUST000809,Excellent purchase. Great quality and service!,5,0.972,46
+CUST000810,Outstanding product and customer service. Will buy again!,4,0.792,57
+CUST000811,Great value and excellent quality. Highly satisfied!,5,0.707,52
+CUST000812,Fair quality. Worth the money.,3,0.565,30
+CUST000813,Average quality. Nothing special but works fine.,3,0.425,48
+CUST000814,Terrible product quality. Broke after one week. Waste of money.,2,0.206,63
+CUST000815,Low quality and expensive. Would not recommend.,2,0.09,47
+CUST000816,It's decent for the price. Could be better.,3,0.463,43
+CUST000817,It's fine. Nothing exceptional.,3,0.413,31
+CUST000818,Excellent purchase. Great quality and service!,4,0.777,46
+CUST000819,Meets basic expectations. No complaints.,3,0.501,40
+CUST000820,Excellent product! Exceeded my expectations. Highly recommend!,4,0.92,62
+CUST000821,Average purchase. No major issues.,3,0.425,34
+CUST000822,Product doesn't work as advertised. Very frustrating.,2,0.177,53
+CUST000823,Great value and excellent quality. Highly satisfied!,4,0.901,52
+CUST000824,Product is okay. Does what it's supposed to do.,3,0.539,47
+CUST000825,Wonderful product. Fast delivery. Highly recommend!,5,0.708,51
+CUST000826,Amazing quality and fast shipping. Very satisfied!,5,0.853,50
+CUST000827,Cheaply made and overpriced. Regret buying this.,2,0.06,48
+CUST000828,Product is okay. Does what it's supposed to do.,3,0.549,47
+CUST000829,Decent product. Would consider buying again.,3,0.539,44
+CUST000830,Very disappointed. Not as described. Poor customer service.,1,0.248,59
+CUST000831,The worst purchase I've made. Don't buy this product.,2,0.186,53
+CUST000832,Product doesn't work as advertised. Very frustrating.,1,0.139,53
+CUST000833,Average quality. Nothing special but works fine.,3,0.511,48
+CUST000834,Fair quality. Worth the money.,3,0.445,30
+CUST000835,Standard product. Gets the job done.,3,0.498,36
+CUST000836,Arrived damaged and seller refused to help. Avoid!,1,0.215,50
+CUST000837,Not worth the price. Very disappointed.,1,0.135,39
+CUST000838,Average quality. Nothing special but works fine.,3,0.596,48
+CUST000839,Wonderful product. Fast delivery. Highly recommend!,5,0.776,51
+CUST000840,Fair quality. Worth the money.,3,0.518,30
+CUST000841,Customer service was unhelpful and rude.,1,0.124,40
+CUST000842,Excellent product! Exceeded my expectations. Highly recommend!,4,0.825,62
+CUST000843,Amazing quality and fast shipping. Very satisfied!,4,0.735,50
+CUST000844,Perfect! Exactly as described. Love it!,5,0.705,39
+CUST000845,Low quality and expensive. Would not recommend.,2,0.051,47
+CUST000846,Decent product. Would consider buying again.,3,0.585,44
+CUST000847,Average purchase. No major issues.,3,0.405,34
+CUST000848,Perfect! Exactly as described. Love it!,4,0.797,39
+CUST000849,It's decent for the price. Could be better.,3,0.418,43
+CUST000850,Excellent product! Exceeded my expectations. Highly recommend!,4,0.878,62
+CUST000851,Okay product. Satisfied but not thrilled.,3,0.508,41
+CUST000852,Very disappointed. Not as described. Poor customer service.,2,0.081,59
+CUST000853,Terrible product quality. Broke after one week. Waste of money.,1,0.229,63
+CUST000854,Amazing quality and fast shipping. Very satisfied!,4,0.914,50
+CUST000855,Cheaply made and overpriced. Regret buying this.,1,0.122,48
+CUST000856,Wonderful product. Fast delivery. Highly recommend!,5,0.959,51
+CUST000857,It's fine. Nothing exceptional.,3,0.491,31
+CUST000858,Okay product. Satisfied but not thrilled.,3,0.453,41
+CUST000859,Arrived damaged and seller refused to help. Avoid!,1,0.124,50
+CUST000860,Product doesn't work as advertised. Very frustrating.,2,0.264,53
+CUST000861,Amazing quality and fast shipping. Very satisfied!,5,0.753,50
+CUST000862,Okay product. Satisfied but not thrilled.,3,0.465,41
+CUST000863,The worst purchase I've made. Don't buy this product.,2,0.242,53
+CUST000864,Arrived damaged and seller refused to help. Avoid!,2,0.026,50
+CUST000865,Very disappointed. Not as described. Poor customer service.,2,0.197,59
+CUST000866,Outstanding product and customer service. Will buy again!,5,0.949,57
+CUST000867,It's fine. Nothing exceptional.,3,0.458,31
+CUST000868,Excellent purchase. Great quality and service!,5,0.817,46
+CUST000869,Excellent purchase. Great quality and service!,5,0.836,46
+CUST000870,Best purchase I've made. Great value for money.,4,0.851,47
+CUST000871,Fantastic product. Exceeded expectations. 5 stars!,5,0.901,50
+CUST000872,Meets basic expectations. No complaints.,3,0.434,40
+CUST000873,Low quality and expensive. Would not recommend.,2,0.038,47
+CUST000874,Excellent purchase. Great quality and service!,4,0.717,46
+CUST000875,Fair quality. Worth the money.,3,0.495,30
+CUST000876,Not worth the price. Very disappointed.,1,0.298,39
+CUST000877,Arrived damaged and seller refused to help. Avoid!,1,0.23,50
+CUST000878,Not worth the price. Very disappointed.,2,0.104,39
+CUST000879,Excellent product! Exceeded my expectations. Highly recommend!,5,0.779,62
+CUST000880,Outstanding product and customer service. Will buy again!,5,0.963,57
+CUST000881,Very disappointed. Not as described. Poor customer service.,2,0.013,59
+CUST000882,Not worth the price. Very disappointed.,2,0.019,39
+CUST000883,Fantastic product. Exceeded expectations. 5 stars!,5,0.909,50
+CUST000884,Decent product. Would consider buying again.,3,0.489,44
+CUST000885,Very disappointed. Not as described. Poor customer service.,2,0.207,59
+CUST000886,Very disappointed. Not as described. Poor customer service.,2,0.25,59
+CUST000887,Great value and excellent quality. Highly satisfied!,4,0.889,52
+CUST000888,It's fine. Nothing exceptional.,3,0.443,31
+CUST000889,Decent product. Would consider buying again.,3,0.566,44
+CUST000890,It's fine. Nothing exceptional.,3,0.596,31
+CUST000891,Standard product. Gets the job done.,3,0.529,36
+CUST000892,Customer service was unhelpful and rude.,1,0.247,40
+CUST000893,Product doesn't work as advertised. Very frustrating.,2,0.255,53
+CUST000894,Terrible product quality. Broke after one week. Waste of money.,1,0.156,63
+CUST000895,Wonderful product. Fast delivery. Highly recommend!,4,0.724,51
+CUST000896,Standard product. Gets the job done.,3,0.467,36
+CUST000897,Great value and excellent quality. Highly satisfied!,4,0.761,52
+CUST000898,The worst purchase I've made. Don't buy this product.,2,0.293,53
+CUST000899,Customer service was unhelpful and rude.,1,0.131,40
+CUST000900,Low quality and expensive. Would not recommend.,1,0.115,47
+CUST000901,Not worth the price. Very disappointed.,2,0.25,39
+CUST000902,It's decent for the price. Could be better.,3,0.501,43
+CUST000903,Cheaply made and overpriced. Regret buying this.,1,0.222,48
+CUST000904,Poor quality materials. Fell apart quickly.,1,0.226,43
+CUST000905,Very disappointed. Not as described. Poor customer service.,1,0.294,59
+CUST000906,High quality and great price. Very happy!,5,0.726,41
+CUST000907,Decent product. Would consider buying again.,3,0.543,44
+CUST000908,Outstanding product and customer service. Will buy again!,5,0.843,57
+CUST000909,Wonderful product. Fast delivery. Highly recommend!,4,0.969,51
+CUST000910,Fair quality. Worth the money.,3,0.454,30
+CUST000911,Customer service was unhelpful and rude.,2,0.097,40
+CUST000912,Customer service was unhelpful and rude.,2,0.153,40
+CUST000913,Fantastic product. Exceeded expectations. 5 stars!,4,0.849,50
+CUST000914,Meets basic expectations. No complaints.,3,0.48,40
+CUST000915,Poor quality materials. Fell apart quickly.,2,0.111,43
+CUST000916,It's decent for the price. Could be better.,3,0.415,43
+CUST000917,Terrible product quality. Broke after one week. Waste of money.,2,0.122,63
+CUST000918,It's decent for the price. Could be better.,3,0.489,43
+CUST000919,Great value and excellent quality. Highly satisfied!,5,0.983,52
+CUST000920,Perfect! Exactly as described. Love it!,4,0.78,39
+CUST000921,The worst purchase I've made. Don't buy this product.,1,0.221,53
+CUST000922,Amazing quality and fast shipping. Very satisfied!,5,0.836,50
+CUST000923,Terrible product quality. Broke after one week. Waste of money.,2,0.03,63
+CUST000924,Product is okay. Does what it's supposed to do.,3,0.541,47
+CUST000925,Cheaply made and overpriced. Regret buying this.,2,0.091,48
+CUST000926,High quality and great price. Very happy!,4,0.766,41
+CUST000927,Fantastic product. Exceeded expectations. 5 stars!,5,0.965,50
+CUST000928,Great value and excellent quality. Highly satisfied!,4,0.763,52
+CUST000929,Outstanding product and customer service. Will buy again!,5,0.936,57
+CUST000930,The worst purchase I've made. Don't buy this product.,1,0.152,53
+CUST000931,Best purchase I've made. Great value for money.,5,0.962,47
+CUST000932,Excellent product! Exceeded my expectations. Highly recommend!,4,0.79,62
+CUST000933,Perfect! Exactly as described. Love it!,5,0.78,39
+CUST000934,Excellent product! Exceeded my expectations. Highly recommend!,4,0.707,62
+CUST000935,Poor quality materials. Fell apart quickly.,1,0.122,43
+CUST000936,Very disappointed. Not as described. Poor customer service.,1,0.033,59
+CUST000937,Excellent purchase. Great quality and service!,4,0.933,46
+CUST000938,Excellent product! Exceeded my expectations. Highly recommend!,4,0.787,62
+CUST000939,The worst purchase I've made. Don't buy this product.,1,0.188,53
+CUST000940,Standard product. Gets the job done.,3,0.451,36
+CUST000941,High quality and great price. Very happy!,4,0.706,41
+CUST000942,Great value and excellent quality. Highly satisfied!,4,0.945,52
+CUST000943,Great value and excellent quality. Highly satisfied!,4,0.713,52
+CUST000944,Meets basic expectations. No complaints.,3,0.586,40
+CUST000945,It's fine. Nothing exceptional.,3,0.54,31
+CUST000946,High quality and great price. Very happy!,4,0.819,41
+CUST000947,Customer service was unhelpful and rude.,2,0.202,40
+CUST000948,Terrible product quality. Broke after one week. Waste of money.,1,0.028,63
+CUST000949,Low quality and expensive. Would not recommend.,1,0.132,47
+CUST000950,Not worth the price. Very disappointed.,2,0.104,39
+CUST000951,Great value and excellent quality. Highly satisfied!,5,0.851,52
+CUST000952,Amazing quality and fast shipping. Very satisfied!,5,0.967,50
+CUST000953,The worst purchase I've made. Don't buy this product.,2,0.223,53
+CUST000954,Decent product. Would consider buying again.,3,0.479,44
+CUST000955,Perfect! Exactly as described. Love it!,4,0.82,39
+CUST000956,Average quality. Nothing special but works fine.,3,0.499,48
+CUST000957,Fair quality. Worth the money.,3,0.506,30
+CUST000958,Terrible product quality. Broke after one week. Waste of money.,1,0.067,63
+CUST000959,Wonderful product. Fast delivery. Highly recommend!,4,0.712,51
+CUST000960,High quality and great price. Very happy!,4,0.835,41
+CUST000961,Very disappointed. Not as described. Poor customer service.,2,0.251,59
+CUST000962,Great value and excellent quality. Highly satisfied!,5,0.782,52
+CUST000963,The worst purchase I've made. Don't buy this product.,2,0.139,53
+CUST000964,Fair quality. Worth the money.,3,0.521,30
+CUST000965,Decent product. Would consider buying again.,3,0.407,44
+CUST000966,The worst purchase I've made. Don't buy this product.,1,0.206,53
+CUST000967,Product doesn't work as advertised. Very frustrating.,1,0.28,53
+CUST000968,Arrived damaged and seller refused to help. Avoid!,2,0.231,50
+CUST000969,Cheaply made and overpriced. Regret buying this.,2,0.139,48
+CUST000970,Poor quality materials. Fell apart quickly.,2,0.185,43
+CUST000971,Cheaply made and overpriced. Regret buying this.,2,0.231,48
+CUST000972,It's decent for the price. Could be better.,3,0.586,43
+CUST000973,Arrived damaged and seller refused to help. Avoid!,2,0.237,50
+CUST000974,Excellent product! Exceeded my expectations. Highly recommend!,5,0.806,62
+CUST000975,It's fine. Nothing exceptional.,3,0.44,31
+CUST000976,Best purchase I've made. Great value for money.,5,0.969,47
+CUST000977,Best purchase I've made. Great value for money.,4,0.992,47
+CUST000978,Product is okay. Does what it's supposed to do.,3,0.512,47
+CUST000979,Product is okay. Does what it's supposed to do.,3,0.435,47
+CUST000980,Average purchase. No major issues.,3,0.418,34
+CUST000981,Customer service was unhelpful and rude.,2,0.17,40
+CUST000982,Average quality. Nothing special but works fine.,3,0.561,48
+CUST000983,Terrible product quality. Broke after one week. Waste of money.,2,0.025,63
+CUST000984,Wonderful product. Fast delivery. Highly recommend!,5,0.712,51
+CUST000985,Poor quality materials. Fell apart quickly.,1,0.0,43
+CUST000986,Cheaply made and overpriced. Regret buying this.,2,0.282,48
+CUST000987,It's fine. Nothing exceptional.,3,0.487,31
+CUST000988,Customer service was unhelpful and rude.,1,0.184,40
+CUST000989,Average quality. Nothing special but works fine.,3,0.6,48
+CUST000990,Product is okay. Does what it's supposed to do.,3,0.411,47
+CUST000991,Average quality. Nothing special but works fine.,3,0.488,48
+CUST000992,Fair quality. Worth the money.,3,0.45,30
+CUST000993,Average quality. Nothing special but works fine.,3,0.51,48
+CUST000994,Cheaply made and overpriced. Regret buying this.,1,0.293,48
+CUST000995,Fair quality. Worth the money.,3,0.582,30
+CUST000996,Fantastic product. Exceeded expectations. 5 stars!,5,0.957,50
+CUST000997,Decent product. Would consider buying again.,3,0.552,44
+CUST000998,Meets basic expectations. No complaints.,3,0.403,40
+CUST000999,High quality and great price. Very happy!,5,0.995,41
+CUST001000,Fantastic product. Exceeded expectations. 5 stars!,4,0.742,50
+CUST001001,Okay product. Satisfied but not thrilled.,3,0.463,41
+CUST001002,Terrible product quality. Broke after one week. Waste of money.,1,0.226,63
+CUST001003,Not worth the price. Very disappointed.,2,0.242,39
+CUST001004,Terrible product quality. Broke after one week. Waste of money.,1,0.149,63
+CUST001005,Cheaply made and overpriced. Regret buying this.,1,0.115,48
+CUST001006,Product doesn't work as advertised. Very frustrating.,1,0.05,53
+CUST001007,It's fine. Nothing exceptional.,3,0.502,31
+CUST001008,Great value and excellent quality. Highly satisfied!,5,0.775,52
+CUST001009,It's fine. Nothing exceptional.,3,0.564,31
+CUST001010,It's decent for the price. Could be better.,3,0.536,43
+CUST001011,Average purchase. No major issues.,3,0.448,34
+CUST001012,Product doesn't work as advertised. Very frustrating.,1,0.25,53
+CUST001013,Okay product. Satisfied but not thrilled.,3,0.492,41
+CUST001014,Product is okay. Does what it's supposed to do.,3,0.494,47
+CUST001015,Product doesn't work as advertised. Very frustrating.,2,0.262,53
+CUST001016,Arrived damaged and seller refused to help. Avoid!,1,0.09,50
+CUST001017,High quality and great price. Very happy!,5,0.752,41
+CUST001018,Product is okay. Does what it's supposed to do.,3,0.466,47
+CUST001019,Wonderful product. Fast delivery. Highly recommend!,5,0.918,51
+CUST001020,It's fine. Nothing exceptional.,3,0.466,31
+CUST001021,Excellent purchase. Great quality and service!,5,0.782,46
+CUST001022,The worst purchase I've made. Don't buy this product.,2,0.29,53
+CUST001023,High quality and great price. Very happy!,5,0.725,41
+CUST001024,Average quality. Nothing special but works fine.,3,0.408,48
+CUST001025,High quality and great price. Very happy!,5,0.829,41
+CUST001026,Average quality. Nothing special but works fine.,3,0.429,48
+CUST001027,Standard product. Gets the job done.,3,0.596,36
+CUST001028,Standard product. Gets the job done.,3,0.569,36
+CUST001029,Perfect! Exactly as described. Love it!,4,0.793,39
+CUST001030,Excellent product! Exceeded my expectations. Highly recommend!,5,0.757,62
+CUST001031,It's decent for the price. Could be better.,3,0.447,43
+CUST001032,Excellent product! Exceeded my expectations. Highly recommend!,4,0.874,62
+CUST001033,Not worth the price. Very disappointed.,2,0.258,39
+CUST001034,Average quality. Nothing special but works fine.,3,0.585,48
+CUST001035,Excellent purchase. Great quality and service!,5,0.946,46
+CUST001036,Fair quality. Worth the money.,3,0.475,30
+CUST001037,It's fine. Nothing exceptional.,3,0.521,31
+CUST001038,The worst purchase I've made. Don't buy this product.,2,0.139,53
+CUST001039,Terrible product quality. Broke after one week. Waste of money.,2,0.233,63
+CUST001040,Low quality and expensive. Would not recommend.,2,0.224,47
+CUST001041,Very disappointed. Not as described. Poor customer service.,1,0.148,59
+CUST001042,It's fine. Nothing exceptional.,3,0.431,31
+CUST001043,Meets basic expectations. No complaints.,3,0.458,40
+CUST001044,Fantastic product. Exceeded expectations. 5 stars!,4,0.798,50
+CUST001045,Outstanding product and customer service. Will buy again!,4,0.809,57
+CUST001046,Best purchase I've made. Great value for money.,4,0.903,47
+CUST001047,Great value and excellent quality. Highly satisfied!,5,0.973,52
+CUST001048,Okay product. Satisfied but not thrilled.,3,0.505,41
+CUST001049,Amazing quality and fast shipping. Very satisfied!,5,0.831,50
+CUST001050,Decent product. Would consider buying again.,3,0.402,44
+CUST001051,Meets basic expectations. No complaints.,3,0.518,40
+CUST001052,Customer service was unhelpful and rude.,1,0.154,40
+CUST001053,Excellent purchase. Great quality and service!,5,0.912,46
+CUST001054,Excellent purchase. Great quality and service!,5,0.929,46
+CUST001055,Great value and excellent quality. Highly satisfied!,4,0.727,52
+CUST001056,Cheaply made and overpriced. Regret buying this.,1,0.23,48
+CUST001057,Very disappointed. Not as described. Poor customer service.,2,0.121,59
+CUST001058,Average purchase. No major issues.,3,0.502,34
+CUST001059,Cheaply made and overpriced. Regret buying this.,1,0.13,48
+CUST001060,Okay product. Satisfied but not thrilled.,3,0.58,41
+CUST001061,The worst purchase I've made. Don't buy this product.,1,0.297,53
+CUST001062,Poor quality materials. Fell apart quickly.,1,0.097,43
+CUST001063,High quality and great price. Very happy!,5,0.883,41
+CUST001064,Fair quality. Worth the money.,3,0.502,30
+CUST001065,Product doesn't work as advertised. Very frustrating.,1,0.087,53
+CUST001066,Product is okay. Does what it's supposed to do.,3,0.505,47
+CUST001067,Fair quality. Worth the money.,3,0.474,30
+CUST001068,Arrived damaged and seller refused to help. Avoid!,1,0.227,50
+CUST001069,Best purchase I've made. Great value for money.,4,0.98,47
+CUST001070,Excellent purchase. Great quality and service!,4,0.774,46
+CUST001071,Low quality and expensive. Would not recommend.,1,0.054,47
+CUST001072,Product doesn't work as advertised. Very frustrating.,1,0.286,53
+CUST001073,Arrived damaged and seller refused to help. Avoid!,2,0.021,50
+CUST001074,Terrible product quality. Broke after one week. Waste of money.,2,0.058,63
+CUST001075,Product doesn't work as advertised. Very frustrating.,2,0.143,53
+CUST001076,Best purchase I've made. Great value for money.,4,0.89,47
+CUST001077,Outstanding product and customer service. Will buy again!,5,0.846,57
+CUST001078,Fair quality. Worth the money.,3,0.521,30
+CUST001079,Excellent product! Exceeded my expectations. Highly recommend!,4,0.913,62
+CUST001080,Wonderful product. Fast delivery. Highly recommend!,5,0.806,51
+CUST001081,Okay product. Satisfied but not thrilled.,3,0.541,41
+CUST001082,It's decent for the price. Could be better.,3,0.426,43
+CUST001083,Perfect! Exactly as described. Love it!,5,0.736,39
+CUST001084,It's decent for the price. Could be better.,3,0.495,43
+CUST001085,Arrived damaged and seller refused to help. Avoid!,1,0.087,50
+CUST001086,High quality and great price. Very happy!,5,0.867,41
+CUST001087,Wonderful product. Fast delivery. Highly recommend!,5,0.882,51
+CUST001088,Standard product. Gets the job done.,3,0.461,36
+CUST001089,It's decent for the price. Could be better.,3,0.586,43
+CUST001090,Amazing quality and fast shipping. Very satisfied!,4,0.785,50
+CUST001091,Cheaply made and overpriced. Regret buying this.,1,0.065,48
+CUST001092,Average quality. Nothing special but works fine.,3,0.518,48
+CUST001093,Product doesn't work as advertised. Very frustrating.,2,0.124,53
+CUST001094,Very disappointed. Not as described. Poor customer service.,2,0.023,59
+CUST001095,Customer service was unhelpful and rude.,1,0.178,40
+CUST001096,Best purchase I've made. Great value for money.,4,0.962,47
+CUST001097,Low quality and expensive. Would not recommend.,1,0.058,47
+CUST001098,Decent product. Would consider buying again.,3,0.586,44
+CUST001099,Excellent purchase. Great quality and service!,4,0.75,46
+CUST001100,High quality and great price. Very happy!,4,0.901,41
+CUST001101,Product is okay. Does what it's supposed to do.,3,0.518,47
+CUST001102,Average purchase. No major issues.,3,0.496,34
+CUST001103,Product is okay. Does what it's supposed to do.,3,0.513,47
+CUST001104,Terrible product quality. Broke after one week. Waste of money.,1,0.094,63
+CUST001105,Great value and excellent quality. Highly satisfied!,4,0.713,52
+CUST001106,Product doesn't work as advertised. Very frustrating.,1,0.17,53
+CUST001107,Amazing quality and fast shipping. Very satisfied!,5,0.933,50
+CUST001108,Excellent purchase. Great quality and service!,4,0.75,46
+CUST001109,Outstanding product and customer service. Will buy again!,5,0.727,57
+CUST001110,Fantastic product. Exceeded expectations. 5 stars!,5,0.782,50
+CUST001111,Amazing quality and fast shipping. Very satisfied!,5,0.799,50
+CUST001112,Fantastic product. Exceeded expectations. 5 stars!,5,0.938,50
+CUST001113,Product doesn't work as advertised. Very frustrating.,2,0.248,53
+CUST001114,Very disappointed. Not as described. Poor customer service.,2,0.031,59
+CUST001115,Excellent purchase. Great quality and service!,5,0.763,46
+CUST001116,High quality and great price. Very happy!,5,0.963,41
+CUST001117,Excellent product! Exceeded my expectations. Highly recommend!,4,0.89,62
+CUST001118,Arrived damaged and seller refused to help. Avoid!,2,0.086,50
+CUST001119,Low quality and expensive. Would not recommend.,2,0.27,47
+CUST001120,It's decent for the price. Could be better.,3,0.571,43
+CUST001121,Amazing quality and fast shipping. Very satisfied!,5,0.929,50
+CUST001122,Wonderful product. Fast delivery. Highly recommend!,5,0.746,51
+CUST001123,Excellent purchase. Great quality and service!,5,0.82,46
+CUST001124,Terrible product quality. Broke after one week. Waste of money.,1,0.127,63
+CUST001125,Excellent product! Exceeded my expectations. Highly recommend!,4,0.888,62
+CUST001126,Product is okay. Does what it's supposed to do.,3,0.456,47
+CUST001127,It's decent for the price. Could be better.,3,0.57,43
+CUST001128,Standard product. Gets the job done.,3,0.461,36
+CUST001129,Arrived damaged and seller refused to help. Avoid!,1,0.268,50
+CUST001130,Not worth the price. Very disappointed.,1,0.09,39
+CUST001131,High quality and great price. Very happy!,5,0.702,41
+CUST001132,Meets basic expectations. No complaints.,3,0.546,40
+CUST001133,Cheaply made and overpriced. Regret buying this.,2,0.064,48
+CUST001134,Product doesn't work as advertised. Very frustrating.,1,0.285,53
+CUST001135,Outstanding product and customer service. Will buy again!,5,0.714,57
+CUST001136,Standard product. Gets the job done.,3,0.423,36
+CUST001137,Cheaply made and overpriced. Regret buying this.,2,0.219,48
+CUST001138,Amazing quality and fast shipping. Very satisfied!,5,0.835,50
+CUST001139,Best purchase I've made. Great value for money.,4,0.927,47
+CUST001140,Average purchase. No major issues.,3,0.484,34
+CUST001141,Standard product. Gets the job done.,3,0.516,36
+CUST001142,Okay product. Satisfied but not thrilled.,3,0.483,41
+CUST001143,Best purchase I've made. Great value for money.,5,0.778,47
+CUST001144,Very disappointed. Not as described. Poor customer service.,1,0.188,59
+CUST001145,Okay product. Satisfied but not thrilled.,3,0.502,41
+CUST001146,Customer service was unhelpful and rude.,2,0.133,40
+CUST001147,It's fine. Nothing exceptional.,3,0.572,31
+CUST001148,Product is okay. Does what it's supposed to do.,3,0.406,47
+CUST001149,Average quality. Nothing special but works fine.,3,0.566,48
+CUST001150,Great value and excellent quality. Highly satisfied!,5,0.873,52
+CUST001151,Fantastic product. Exceeded expectations. 5 stars!,5,0.845,50
+CUST001152,Excellent product! Exceeded my expectations. Highly recommend!,4,0.864,62
+CUST001153,It's decent for the price. Could be better.,3,0.432,43
+CUST001154,Perfect! Exactly as described. Love it!,5,0.725,39
+CUST001155,Excellent product! Exceeded my expectations. Highly recommend!,5,0.984,62
+CUST001156,Excellent purchase. Great quality and service!,5,0.946,46
+CUST001157,Standard product. Gets the job done.,3,0.551,36
+CUST001158,Decent product. Would consider buying again.,3,0.457,44
+CUST001159,Outstanding product and customer service. Will buy again!,5,0.775,57
+CUST001160,Product is okay. Does what it's supposed to do.,3,0.559,47
+CUST001161,Standard product. Gets the job done.,3,0.567,36
+CUST001162,The worst purchase I've made. Don't buy this product.,1,0.291,53
+CUST001163,It's fine. Nothing exceptional.,3,0.428,31
+CUST001164,Amazing quality and fast shipping. Very satisfied!,4,0.814,50
+CUST001165,Product is okay. Does what it's supposed to do.,3,0.444,47
+CUST001166,Product is okay. Does what it's supposed to do.,3,0.444,47
+CUST001167,Fantastic product. Exceeded expectations. 5 stars!,5,0.871,50
+CUST001168,Customer service was unhelpful and rude.,2,0.278,40
+CUST001169,It's fine. Nothing exceptional.,3,0.423,31
+CUST001170,The worst purchase I've made. Don't buy this product.,2,0.121,53
+CUST001171,It's fine. Nothing exceptional.,3,0.462,31
+CUST001172,Outstanding product and customer service. Will buy again!,5,0.913,57
+CUST001173,Very disappointed. Not as described. Poor customer service.,2,0.088,59
+CUST001174,Cheaply made and overpriced. Regret buying this.,1,0.257,48
+CUST001175,The worst purchase I've made. Don't buy this product.,2,0.252,53
+CUST001176,Excellent product! Exceeded my expectations. Highly recommend!,5,0.716,62
+CUST001177,Low quality and expensive. Would not recommend.,1,0.203,47
+CUST001178,Excellent purchase. Great quality and service!,4,0.874,46
+CUST001179,Best purchase I've made. Great value for money.,5,0.713,47
+CUST001180,Customer service was unhelpful and rude.,1,0.276,40
+CUST001181,Cheaply made and overpriced. Regret buying this.,2,0.052,48
+CUST001182,The worst purchase I've made. Don't buy this product.,2,0.201,53
+CUST001183,Great value and excellent quality. Highly satisfied!,5,0.927,52
+CUST001184,Meets basic expectations. No complaints.,3,0.403,40
+CUST001185,Perfect! Exactly as described. Love it!,5,0.887,39
+CUST001186,Low quality and expensive. Would not recommend.,2,0.065,47
+CUST001187,Outstanding product and customer service. Will buy again!,5,0.85,57
+CUST001188,The worst purchase I've made. Don't buy this product.,2,0.292,53
+CUST001189,Excellent product! Exceeded my expectations. Highly recommend!,5,0.843,62
+CUST001190,Fantastic product. Exceeded expectations. 5 stars!,5,0.706,50
+CUST001191,Low quality and expensive. Would not recommend.,2,0.096,47
+CUST001192,Product is okay. Does what it's supposed to do.,3,0.455,47
+CUST001193,It's fine. Nothing exceptional.,3,0.518,31
+CUST001194,Fantastic product. Exceeded expectations. 5 stars!,4,0.978,50
+CUST001195,It's fine. Nothing exceptional.,3,0.596,31
+CUST001196,Perfect! Exactly as described. Love it!,5,0.954,39
+CUST001197,It's decent for the price. Could be better.,3,0.462,43
+CUST001198,Excellent product! Exceeded my expectations. Highly recommend!,5,0.955,62
+CUST001199,Outstanding product and customer service. Will buy again!,5,0.995,57
+CUST001200,Cheaply made and overpriced. Regret buying this.,2,0.099,48
