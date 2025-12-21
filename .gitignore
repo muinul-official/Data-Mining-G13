@@ -1,3 +1,7 @@
+# Data files
+*.csv
+*.zip
+
 # Python
 __pycache__/
 *.py[cod]
@@ -7,48 +11,15 @@ __pycache__/
 env/
 venv/
 ENV/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+.venv
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
 
 # OS
 .DS_Store
 Thumbs.db
-
-# Data files (optional - uncomment if you don't want to track large CSV files)
-# *.csv
-# *.zip
-
-# PDF files (project specification)
-# WIE3007_GroupProject_UM_Formatted.pdf
-
-# Environment variables
-.env
-.env.local
-
-# Logs
-*.log
 
