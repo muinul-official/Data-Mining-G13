@@ -1,6 +1,10 @@
-# E-Commerce Churn & Burn Analysis
+# Data-Mining-G13
 
-## Project Overview
+Group Project, WIE3007 Data Mining and Warehousing, 2025/26 Semester I
+
+## E-Commerce Churn & Burn Analysis
+
+### Project Overview
 This project predicts customer churn in an e-commerce platform using transaction data, customer support chat logs, and product reviews. The analysis incorporates sentiment analysis from text data to create a "Frustration Index" feature that links customer behavior (numbers) with customer sentiment (text).
 
 ## Dataset
@@ -53,4 +57,3 @@ python validate_dataset.py
 **Course**: WIE 3007 – Data Mining (2025/2026 – Semester 1)  
 **Institution**: Universiti Malaya  
 **Topic**: E-Commerce "Churn & Burn" Analysis
-
