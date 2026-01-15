@@ -1,234 +1,281 @@
-# E-Commerce Churn & Burn Analysis Dataset Generator
+# WIE3007 Data Mining and Warehousing - Group G13 Project
 
-A comprehensive Python tool for generating realistic e-commerce datasets with transaction data, customer support chat logs, and product reviews. This dataset is designed for predicting customer churn using sentiment-based features and RFM (Recency, Frequency, Monetary) analysis.
+## 📋 Project Overview
 
-## 📋 Overview
+This repository contains the complete Group G13 project for **WIE3007 Data Mining and Warehousing** at the University of Malaya (UM). The project focuses on **E-Commerce Customer Churn Prediction** using advanced machine learning techniques and AI-enhanced analytics with LLM-generated customer feedback.
 
-This project generates synthetic e-commerce customer data that includes:
-- **Customer demographics** (age, gender, location, membership tier)
-- **Transaction history** with detailed purchase records
-- **Customer support chat logs** with sentiment analysis
-- **Product reviews** with ratings and sentiment scores
-- **Churn prediction labels** based on multiple behavioral indicators
+## 🎯 Project Objectives
 
-The dataset is ideal for:
-- Customer churn prediction models
-- Sentiment analysis research
-- RFM analysis studies
-- E-commerce analytics projects
-- Machine learning model training
+1. **Predict Customer Churn**: Build predictive models to identify customers likely to leave the platform
+2. **Leverage AI/LLM**: Utilize Google's Gemini (gemma-3-4b-it) to generate realistic customer feedback, support chat excerpts, and activity reasons
+3. **Comprehensive Analysis**: Perform exploratory data analysis, feature engineering, and model evaluation
+4. **Multi-Model Comparison**: Implement and compare multiple machine learning algorithms
 
-## ✨ Features
+## 📂 Repository Structure
 
-- **Realistic Data Generation**: Creates synthetic but realistic customer behavior patterns
-- **Sentiment Analysis**: Includes sentiment scores for chat logs and reviews
-- **RFM Analysis**: Calculates Recency, Frequency, and Monetary value features
-- **Frustration Index**: Composite metric combining multiple customer satisfaction signals
-- **Multiple Data Sources**: Generates separate datasets for transactions, chats, and reviews
-- **Validation Script**: Includes a validation script to verify dataset quality
-- **Reproducible**: Uses fixed random seeds for consistent results
+```
+Data-Mining-G13/
+│
+├── Latest Version-G13-Data Mining and Warehousing/
+│   ├── Data_Mining_Group_Project.ipynb          # Main Jupyter notebook with complete analysis
+│   ├── data_mining_group_project.py             # Python script version
+│   ├── ecommerce_churn_llm_final.csv           # Final dataset (1,800 rows) with LLM features
+│   ├── llm_text_generation_input.jsonl         # LLM input prompts (500 samples)
+│   └── llm_text_generation_output.jsonl        # LLM generated text outputs
+│
+├── Previous version-G13-Data Mining and Warehousing-Group Project/
+│   ├── EDA_&_Feature_Engineering.ipynb
+│   ├── PredictiveModelDevelopment_(LogisticRegression).ipynb
+│   ├── PredictionModelXGBoost.ipynb
+│   ├── Initial datasets and scripts
+│   └── WIE3007_GroupProject_UM_Formatted.pdf
+│
+├── README.md
+└── .gitignore
+```
 
-## 🛠️ Requirements
+## ✨ Key Features
 
-- Python 3.7 or higher
-- pandas
-- numpy
+### 1. **Advanced Dataset Generation**
+- **1,800+ customer records** with realistic behavioral patterns
+- **Malaysian context**: States, income bands (B40/M40/T20), local demographics
+- **27+ behavioral features** including:
+  - Transaction metrics (orders, spending, recency)
+  - Engagement metrics (browsing, cart abandonment, email/push open rates)
+  - Service quality metrics (delivery delays, refunds, support tickets)
+  - Customer satisfaction metrics (app ratings, loyalty points)
 
-## 📦 Installation
+### 2. **AI-Enhanced Analytics**
+- **LLM Integration**: Google Gemini API (gemma-3-4b-it model)
+- **500 customers with LLM-generated text**:
+  - `customer_feedback`: Realistic feedback in casual English with Malaysian expressions
+  - `support_chat_excerpt`: Customer support chat messages
+  - `reason_for_low_activity`: Brief explanations for reduced engagement
+- **Smart generation**: Feedback adapts to customer behavior (e.g., delivery complaints for high delay rates)
 
-1. Clone the repository:
+### 3. **Comprehensive Machine Learning Pipeline**
+- **Data Preprocessing**: Handling missing values, feature scaling, encoding
+- **Feature Engineering**: RFM analysis, derived metrics, behavioral indicators
+- **Multiple Models**:
+  - Decision Tree Classifier
+  - Logistic Regression
+  - Random Forest Classifier
+  - XGBoost Classifier
+  - Neural Network (MLP)
+- **Model Evaluation**: Accuracy, F1-score, ROC-AUC, confusion matrices
+- **Feature Importance**: SHAP values and permutation importance analysis
+
+## 🛠️ Technologies & Libraries
+
+### Core ML Stack
+```python
+- pandas, numpy          # Data manipulation
+- scikit-learn          # Machine learning models & preprocessing
+- xgboost               # Gradient boosting
+- matplotlib            # Visualization
+```
+
+### AI/LLM Integration
+```python
+- google-genai          # Google Gemini API
+- transformers, torch   # NLP capabilities
+```
+
+### Advanced Analytics
+```python
+- SHAP                  # Model explainability
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8 or higher
+- Google Colab (recommended) or local Jupyter environment
+- Google API Key for Gemini (if regenerating LLM features)
+
+### Installation
+
+1. **Clone the repository**:
 ```bash
 git clone https://github.com/muinul-official/Data-Mining-G13.git
-cd "Data mining and warehouse"
+cd Data-Mining-G13
 ```
 
-2. Install required packages:
+2. **Install dependencies**:
 ```bash
-pip install pandas numpy
+pip install -q pandas numpy scikit-learn matplotlib transformers torch xgboost shap
+pip install -q -U google-genai
 ```
 
-## 🚀 Usage
+3. **Set up Google API** (optional, only if regenerating LLM features):
+```python
+import os
+os.environ["GOOGLE_API_KEY"] = "your_api_key_here"
+```
 
-### Generate Dataset
+### Running the Analysis
 
-Run the main script to generate the dataset:
-
+#### Option 1: Jupyter Notebook (Recommended)
 ```bash
-python generate_ecommerce_churn_dataset.py
+cd "Latest Version-G13-Data Mining and Warehousing"
+jupyter notebook Data_Mining_Group_Project.ipynb
 ```
 
-This will create four CSV files:
-- `ecommerce_churn_dataset.csv` - Main dataset with all features
-- `ecommerce_transactions.csv` - Detailed transaction history
-- `ecommerce_chat_logs.csv` - Customer support chat logs
-- `ecommerce_reviews.csv` - Product reviews
-
-### Validate Dataset
-
-Run the validation script to check dataset quality:
-
+#### Option 2: Python Script
 ```bash
-python validate_dataset.py
+cd "Latest Version-G13-Data Mining and Warehousing"
+python data_mining_group_project.py
 ```
 
-The validation script checks:
-- Total number of records (≥1000)
-- Churn distribution
-- Text features completeness
-- Sentiment score ranges
-- Missing values
-- Transaction history integrity
+## 📊 Dataset Details
 
-## 📊 Dataset Structure
+### Main Dataset: `ecommerce_churn_llm_final.csv`
 
-### Main Dataset (`ecommerce_churn_dataset.csv`)
+**Total Records**: 1,800 customers  
+**Churn Rate**: ~40-45% (realistic imbalanced dataset)
 
-The main dataset contains the following features:
+#### Feature Categories
 
-#### Customer Demographics
-- `customer_id` - Unique customer identifier
-- `age` - Customer age
-- `gender` - Customer gender
-- `location` - Customer location type (Urban/Suburban/Rural)
-- `membership_tier` - Membership level (Bronze/Silver/Gold/Platinum)
+**1. Demographics** (7 features)
+- `customer_id`, `age`, `gender`, `state`, `income_band`, `tenure_days`, `segment`
 
-#### RFM Features
-- `recency` - Days since last transaction
-- `frequency` - Total number of orders
-- `monetary_value` - Total amount spent
-- `avg_order_value` - Average order value
-- `total_orders` - Total number of orders
+**2. Transaction Behavior** (8 features)
+- `orders_90d`, `orders_30d`, `avg_order_value`, `total_spend_90d`
+- `days_since_last_order`, `browse_sessions_30d`, `cart_abandon_rate`, `return_rate`
 
-#### Behavioral Features
-- `account_age_days` - Days since account creation
-- `days_since_last_login` - Days since last login
-- `cart_abandonment_rate` - Rate of abandoned shopping carts
-- `email_open_rate` - Email engagement rate
-- `support_tickets` - Number of support tickets
+**3. Service Quality** (9 features)
+- `refund_count_90d`, `delivery_delay_rate`, `late_delivery_count`, `failed_delivery_count`
+- `tickets_90d`, `avg_first_response_hours`, `discount_ratio`, `coupon_used_rate`
 
-#### Sentiment Features
-- `chat_log` - Customer support chat log text
-- `chat_sentiment_score` - Sentiment score for chat (0-1)
-- `chat_length` - Length of chat log
-- `has_negative_keywords` - Boolean flag for negative keywords
-- `review_text` - Product review text
-- `review_rating` - Product review rating (1-5)
-- `review_sentiment_score` - Sentiment score for review (0-1)
-- `review_length` - Length of review text
-- `sentiment_score_avg` - Average sentiment score
+**4. Engagement** (4 features)
+- `email_open_rate`, `push_open_rate`, `loyalty_points_balance`, `app_rating`
 
-#### Derived Features
-- `frustration_index` - Composite frustration metric (0-1)
-- `total_spent_per_day` - Spending rate
-- `order_frequency_per_month` - Order frequency rate
-- `text_engagement_score` - Text engagement metric
+**5. LLM-Generated Text** (3 features)
+- `customer_feedback`: Realistic customer comments (Malaysian English style)
+- `support_chat_excerpt`: Customer support conversation snippets
+- `reason_for_low_activity`: Brief activity explanations
 
-#### Target Variable
-- `churn` - Binary churn indicator (0 = No churn, 1 = Churn)
-- `churn_probability` - Predicted churn probability
+**6. Target Variable**
+- `churn`: Binary indicator (0 = Active, 1 = Churned)
 
-### Transaction Dataset (`ecommerce_transactions.csv`)
+### LLM Text Generation Files
 
-Contains detailed transaction records:
-- `customer_id` - Customer identifier
-- `transaction_date` - Date of transaction
-- `amount` - Transaction amount
-- `product_category` - Product category
-- `quantity` - Quantity purchased
-- `discount_applied` - Whether discount was applied
-- `payment_method` - Payment method used
-- `shipping_method` - Shipping method selected
+**Input**: `llm_text_generation_input.jsonl`
+- 500 prompts with customer profile summaries
+- Structured JSON format for API consumption
 
-### Chat Logs Dataset (`ecommerce_chat_logs.csv`)
+**Output**: `llm_text_generation_output.jsonl`
+- 500 LLM-generated responses
+- Rate-limited generation (~27 requests/min to avoid quota issues)
 
-Contains customer support interactions:
-- `customer_id` - Customer identifier
-- `chat_log` - Chat conversation text
-- `chat_sentiment_score` - Sentiment score (0-1)
-- `chat_length` - Length of chat log
-- `has_negative_keywords` - Boolean flag
+## 🔬 Methodology
 
-### Reviews Dataset (`ecommerce_reviews.csv`)
+### 1. Dataset Generation
+- **Realistic simulation** using statistical distributions (Poisson, Beta, Lognormal)
+- **Correlated features** ensuring behavioral consistency
+- **Churn labels** derived from risk scoring (sigmoid function)
+- **Missing values** injected realistically (~2-4% for select features)
 
-Contains product reviews:
-- `customer_id` - Customer identifier
-- `review_text` - Review text content
-- `review_rating` - Rating (1-5 stars)
-- `review_sentiment_score` - Sentiment score (0-1)
-- `review_length` - Length of review
-
-## 📁 Project Structure
-
-```
-Data mining and warehouse/
-│
-├── generate_ecommerce_churn_dataset.py  # Main dataset generator
-├── validate_dataset.py                  # Dataset validation script
-├── README.md                            # Project documentation
-├── .gitignore                           # Git ignore rules
-│
-└── Generated Files (not in repo):
-    ├── ecommerce_churn_dataset.csv      # Main dataset
-    ├── ecommerce_transactions.csv       # Transaction history
-    ├── ecommerce_chat_logs.csv         # Chat logs
-    └── ecommerce_reviews.csv           # Product reviews
+### 2. LLM Integration
+```python
+Model: gemma-3-4b-it (Google Gemini)
+Rate Limiting: 2.2s per request (~27 req/min)
+Prompts: Context-aware based on customer behavior
+Error Handling: Retry logic with exponential backoff
 ```
 
-## 🔧 Configuration
+### 3. Machine Learning Pipeline
+```
+Data Loading → Missing Value Handling → Feature Engineering
+    ↓
+Train/Test Split (80/20) → Preprocessing (Scaling, Encoding)
+    ↓
+Model Training (5 algorithms) → Hyperparameter Tuning
+    ↓
+Evaluation (Accuracy, F1, ROC-AUC) → Feature Importance Analysis
+```
 
-You can modify the following parameters in `generate_ecommerce_churn_dataset.py`:
+## 📈 Results & Insights
 
-- `N_CUSTOMERS` - Number of customers to generate (default: 1200)
-- `START_DATE` - Start date for transactions (default: 2023-01-01)
-- `END_DATE` - End date for transactions (default: 2024-12-31)
-- `PRODUCT_CATEGORIES` - List of product categories
+The project demonstrates:
+- ✅ **Effective churn prediction** using multiple ML algorithms
+- ✅ **AI-enhanced dataset** with realistic customer feedback
+- ✅ **Feature importance analysis** revealing key churn indicators
+- ✅ **Model comparison** to identify best-performing algorithms
+- ✅ **Complete documentation** for reproducibility
 
-## 📈 Dataset Statistics
+## 🎓 Academic Context
 
-The generated dataset typically includes:
-- **1,200+ customer records**
-- **Churn rate**: ~30-40% (varies based on generation)
-- **Date range**: 2023-01-01 to 2024-12-31
-- **Product categories**: 10 categories
-- **Sentiment scores**: Range from 0.0 to 1.0
+**Course**: WIE3007 - Data Mining and Warehousing  
+**Institution**: University of Malaya (UM)  
+**Group**: G13  
+**Project Type**: Group Assignment - Comprehensive Data Mining Project
 
-## 🎯 Use Cases
+### Project Requirements Met
+✅ Dataset size ≥ 1,000 records (1,800 provided)  
+✅ Multiple predictive models implemented (5 algorithms)  
+✅ AI/LLM integration (Google Gemini for text generation)  
+✅ Comprehensive documentation and code quality  
+✅ Feature engineering and analysis  
+✅ Model evaluation and comparison  
 
-This dataset can be used for:
-1. **Churn Prediction**: Build ML models to predict customer churn
-2. **Sentiment Analysis**: Analyze customer sentiment from text data
-3. **RFM Segmentation**: Segment customers based on RFM values
-4. **Customer Lifetime Value**: Calculate CLV using transaction data
-5. **Text Mining**: Extract insights from chat logs and reviews
-6. **Feature Engineering**: Create new features from existing data
+## 📝 Configuration & Customization
 
-## 📝 Notes
+### Dataset Generation Parameters
+```python
+RANDOM_SEED = 42              # Reproducibility
+N = 1500                       # Base customer count (1,800 after LLM merge)
+N_TEXT_ROWS = 500              # Customers with LLM-generated text
+```
 
-- The dataset uses fixed random seeds (42) for reproducibility
-- CSV and ZIP files are excluded from the repository (see `.gitignore`)
-- The frustration index is calculated from multiple signals including sentiment, keywords, ratings, and support tickets
-- Churn is determined based on RFM features, frustration index, customer age, and average order value
+### LLM Settings
+```python
+model = "models/gemma-3-4b-it"
+base_sleep_s = 2.2             # Rate limiting (27 req/min)
+max_retries_per_row = 5        # Error handling
+```
+
+### Malaysian Demographics
+```python
+states = ["Selangor", "KL", "Johor", "Penang", "Perak", "Sabah", "Sarawak", "Pahang", "Kelangor", "Terengganu"]
+income_bands = ["B40", "M40", "T20"]
+segments = ["new", "regular", "loyal", "premium"]
+```
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+This is an academic project for WIE3007. For any questions or suggestions:
+- Open an issue on GitHub
+- Contact the project maintainer
 
 ## 📄 License
 
-This project is part of a Data Mining and Warehouse course project.
+This project is part of an academic course assignment at the University of Malaya.
 
-## 👤 Author
+## 👥 Group Members
 
-**muinul-official**
-
-- GitHub: [@muinul-official](https://github.com/muinul-official)
+**Group G13**  
+WIE3007 - Data Mining and Warehousing  
+University of Malaya
 
 ## 🙏 Acknowledgments
 
-- University of Malaya (UM) - Course project
-- WIE3007 - Data Mining and Warehouse
+- **University of Malaya** - WIE3007 Course Instructors
+- **Google Gemini API** - AI-powered text generation
+- **Open Source Community** - scikit-learn, XGBoost, SHAP
 
 ---
 
-**Note**: This is a synthetic dataset generator. The data is generated for educational and research purposes only.
+## 📌 Important Notes
 
+1. **API Keys**: The Google API key in the code is for demonstration purposes. Use your own key for production
+2. **Rate Limits**: LLM generation respects API quota limits (~27 req/min)
+3. **Reproducibility**: Fixed random seed (42) ensures consistent results
+4. **Data Privacy**: All data is synthetically generated for educational purposes
+5. **Latest Version**: Focus on files in `Latest Version-G13-Data Mining and Warehousing/` folder
+
+---
+
+**Last Updated**: Based on feedback improvements - January 2026  
+**Repository**: https://github.com/muinul-official/Data-Mining-G13  
+**Maintained by**: [@muinul-official](https://github.com/muinul-official)
