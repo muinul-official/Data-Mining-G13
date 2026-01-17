@@ -12,7 +12,7 @@ Original file is located at
 !pip install -q -U google-genai
 
 import os
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCI1ikWvyTU6N1m4nTpB5kcJA7_2MjveEE"
+os.environ["GOOGLE_API_KEY"] = "your_API_key_here"
 
 import numpy as np
 import pandas as pd
