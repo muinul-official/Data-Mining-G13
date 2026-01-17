@@ -195,6 +195,12 @@ Model Training (5 algorithms) → Hyperparameter Tuning
 Evaluation (Accuracy, F1, ROC-AUC) → Feature Importance Analysis
 ```
 
+### Model Evaluation Strategy
+- **Baseline Model**: Decision Tree with default parameters
+- **Train/Test Split**: 80/20 stratified split
+- **Cross-Validation**: 5-fold CV on training set for robust evaluation
+- **Metrics**: Accuracy, F1-Score, ROC-AUC, Confusion Matrix
+
 ## 📈 Results & Insights
 
 The project demonstrates:
