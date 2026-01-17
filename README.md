@@ -19,6 +19,7 @@ This project implements a comprehensive Data Mining pipeline to predict customer
 ├── 05_Model_XGB.ipynb                  # XGBoost implementation
 ├── 06_Model_MLP.ipynb                  # Neural Network implementation
 ├── 09_model_comparison.ipynb           # GridSearch, Cross-validation & Comparisons
+├── Final Deliverable
 ├── src/                                # Modularized Python Source Code
 │   ├── __init__.py
 │   ├── data_preparation.py             # Simulation logic
